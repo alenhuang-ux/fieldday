@@ -11,6 +11,8 @@
 - 可調整獎狀標題、日期與模板文字位置
 - 勾選多筆後可預覽多張獎狀並批量列印
 - 存成 PDF 時會產生一個多頁 PDF，每頁一張獎狀
+- 勾選多筆後可產生 A4 頒獎清單
+- 可用 Python 腳本自動抓取成績網站並更新名單資料
 
 ## 資料夾結構
 
@@ -50,7 +52,45 @@ http://localhost:4174/award-site/
 node scripts/import_awards_from_html.mjs /private/tmp/award2.html award-site/awards-data.js
 ```
 
+## 全自動更新名單
+
+可直接用 Python 抓取學校成績網站並覆蓋 `award-site/awards-data.js`：
+
+```bash
+python3 scripts/update_awards.py
+```
+
+若要每 5 分鐘自動更新一次，可長駐執行：
+
+```bash
+python3 scripts/update_awards.py --watch-seconds 300
+```
+
+若要用 macOS/Linux 排程，建議用 cron 或 launchd 定時執行這個指令：
+
+```bash
+cd "/Users/ibsh-it_assistant/Desktop/field day/nehs-awards"
+python3 scripts/update_awards.py --backup
+```
+
+更新成功後，重新整理網站就會讀到新的 `awards-data.js`。
+
+### GitHub Actions 自動更新
+
+此專案已包含 `.github/workflows/update-awards.yml`。放到 GitHub 後，Actions 會每 10 分鐘執行一次 `scripts/update_awards.py`，如果 `award-site/awards-data.js` 有變更，就自動 commit 並推回 repo。
+
+也可以在 GitHub 網頁手動執行：
+
+```text
+Actions -> Update Award Records -> Run workflow
+```
+
+如果 workflow 無法推送，請到 GitHub repo 設定確認：
+
+```text
+Settings -> Actions -> General -> Workflow permissions -> Read and write permissions
+```
+
 ## GitHub 注意事項
 
 `award-site/awards-data.js` 內含學生姓名、班級、成績等名單資料。若要放到 GitHub，建議使用 private repository，或先確認資料可以公開。
-
