@@ -70,6 +70,7 @@ const TEMPLATE_LAYOUT_DEFAULTS = {
 
 const INLINE_NAME_CENTER_X = 355;
 const INDIVIDUAL_NAME_RIGHT_PT = 8;
+const T2_ENAME_RIGHT_PT = 8;
 const RELAY_NAME_COLUMNS = [332, 418];
 const RELAY_NAME_UP_PT = 28;
 const RELAY_CLASSMATE_X = 465;
@@ -1094,7 +1095,9 @@ function buildCertificateOverlay(item) {
         110,
       ),
       certLeft("同學", 430, mainY(item.template, 550), 20),
-      item.ename ? certNameCenter(item.ename, 355, mainY(item.template, 520), 16, 150) : "",
+      item.ename
+        ? certNameCenter(item.ename, 355 + T2_ENAME_RIGHT_PT, mainY(item.template, 520), 16, 150)
+        : "",
       ...eventLines(item, 135, 215, [475, 435, 395]),
       ...singleFooterLines(item),
     ].join("");
