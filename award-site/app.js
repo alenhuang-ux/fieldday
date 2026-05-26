@@ -78,6 +78,7 @@ const T4_NAME_RIGHT_PT = 12;
 const T5_NAME_RIGHT_PT = 10;
 const RELAY_EVENT_LINES_UP_PT = 20;
 const BILINGUAL_RELAY_EVENT_LINES_EXTRA_UP_PT = 10;
+const AWARD_LIST_ROWS_PER_PAGE = 16;
 
 const awards = (window.AWARD_RECORDS ?? []).map(normalizeAward);
 
@@ -116,13 +117,21 @@ const els = {
   resultSubtitle: document.querySelector("#resultSubtitle"),
   selectAll: document.querySelector("#selectAll"),
   clearSelection: document.querySelector("#clearSelection"),
+  awardListPrint: document.querySelector("#awardListPrint"),
   previewPrint: document.querySelector("#previewPrint"),
   previewDialog: document.querySelector("#previewDialog"),
   printPreview: document.querySelector("#printPreview"),
+  awardListDialog: document.querySelector("#awardListDialog"),
+  awardListCount: document.querySelector("#awardListCount"),
+  awardListPreview: document.querySelector("#awardListPreview"),
+  awardListName: document.querySelector("#awardListName"),
+  awardListDetail: document.querySelector("#awardListDetail"),
+  printAwardList: document.querySelector("#printAwardList"),
   resultTitle: document.querySelector("#resultTitle"),
   previewTemplate: document.querySelector("#previewTemplate"),
   certificatePreviewList: document.querySelector("#certificatePreviewList"),
   certificatePrintStack: document.querySelector("#certificatePrintStack"),
+  printRoot: document.querySelector("#printRoot"),
   previewName: document.querySelector("#previewName"),
   previewDetail: document.querySelector("#previewDetail"),
   templateDialog: document.querySelector("#templateDialog"),
@@ -425,6 +434,23 @@ function bindEvents() {
   });
 
   els.printPreview.addEventListener("click", () => {
+    const items = getPreviewAwards();
+    if (!items.length) return;
+    renderCertificatePrintRoot(items);
+    waitForImages(els.printRoot).then(() => {
+      window.print();
+    });
+  });
+
+  els.awardListPrint.addEventListener("click", () => {
+    renderAwardListDialog();
+    els.awardListDialog.showModal();
+  });
+
+  els.printAwardList.addEventListener("click", () => {
+    const items = getAwardListItems();
+    if (!items.length) return;
+    renderAwardListPrintRoot(items);
     window.print();
   });
 
@@ -661,6 +687,7 @@ function render() {
   els.visibleCount.textContent = visible.length;
   els.selectedCountTop.textContent = state.selected.size;
   els.selectedCountToolbar.textContent = state.selected.size;
+  els.awardListPrint.disabled = state.selected.size === 0;
   els.metricVisible.textContent = visible.length;
   els.metricSelected.textContent = state.selected.size;
   els.metricTemplates.textContent = new Set(visible.map((item) => item.template)).size;
@@ -760,6 +787,7 @@ function renderPreview() {
     els.previewTemplate.textContent = "T1";
     els.certificatePreviewList.innerHTML = "";
     els.certificatePrintStack.innerHTML = "";
+    els.printRoot.innerHTML = "";
     els.previewName.textContent = "請先勾選一筆名單";
     els.previewDetail.textContent = "選取後會顯示模板判斷與文字位置預覽。";
     els.printPreview.textContent = "列印選取獎狀";
@@ -780,10 +808,145 @@ function renderPreview() {
   els.printPreview.disabled = false;
   els.printPreview.textContent =
     selectedCount > 0 ? `批量列印選取 ${selectedCount} 張` : "列印目前預覽 1 張";
+  const printHtml = items.map(renderCertificateStage).join("");
   els.certificatePreviewList.innerHTML = items
     .map((item, index) => renderPreviewCertificateItem(item, index, items.length))
     .join("");
-  els.certificatePrintStack.innerHTML = items.map(renderCertificateStage).join("");
+  els.certificatePrintStack.innerHTML = printHtml;
+  renderCertificatePrintRoot(items);
+}
+
+function renderCertificatePrintRoot(items) {
+  els.printRoot.innerHTML = items.map(renderCertificateStage).join("");
+}
+
+function getAwardListItems() {
+  return getSelectedAwards();
+}
+
+function renderAwardListDialog() {
+  const items = getAwardListItems();
+
+  if (!items.length) {
+    els.awardListCount.textContent = "0 筆";
+    els.awardListPreview.innerHTML = `
+      <div class="award-list-empty">請先勾選要放入頒獎清單的名單</div>
+    `;
+    els.awardListName.textContent = "請先勾選名單";
+    els.awardListDetail.textContent = "勾選後可產生 A4 頒獎清單，列印或存成 PDF。";
+    els.printAwardList.disabled = true;
+    return;
+  }
+
+  els.awardListCount.textContent = `${items.length} 筆`;
+  els.awardListName.textContent = `已選取 ${items.length} 筆頒獎資料`;
+  els.awardListDetail.textContent = `${summarizeAwardList(items)}。每頁最多 ${AWARD_LIST_ROWS_PER_PAGE} 筆，列印時會自動分頁。`;
+  els.printAwardList.disabled = false;
+  els.awardListPreview.innerHTML = renderAwardListPages(items);
+  renderAwardListPrintRoot(items);
+}
+
+function renderAwardListPrintRoot(items) {
+  els.printRoot.innerHTML = renderAwardListPages(items);
+}
+
+function summarizeAwardList(items) {
+  const eventCount = new Set(items.map((item) => item.eventName)).size;
+  const typeCount = new Set(items.map((item) => item.type)).size;
+  const departments = [...new Set(items.map((item) => item.department))].join("、");
+  return `${eventCount} 個比賽項目、${typeCount} 種類型、${departments || "全部部別"}`;
+}
+
+function renderAwardListPages(items) {
+  const pages = chunk(items, AWARD_LIST_ROWS_PER_PAGE);
+  return pages
+    .map((pageItems, pageIndex) =>
+      renderAwardListPage(pageItems, pageIndex, pages.length, items.length),
+    )
+    .join("");
+}
+
+function renderAwardListPage(items, pageIndex, pageTotal, totalCount) {
+  const rows = items
+    .map((item, index) =>
+      renderAwardListRow(item, pageIndex * AWARD_LIST_ROWS_PER_PAGE + index),
+    )
+    .join("");
+  return `
+    <section class="award-list-page">
+      <header class="award-list-page-header">
+        <div>
+          <p>National Experimental High School at Hsinchu Science Park</p>
+          <h1>一一五學年度全校運動大會頒獎清單</h1>
+        </div>
+        <div>
+          <strong>${pageIndex + 1} / ${pageTotal}</strong>
+          <span>共 ${totalCount} 筆</span>
+        </div>
+      </header>
+      <table class="award-list-table">
+        <thead>
+          <tr>
+            <th>序</th>
+            <th>比賽名稱</th>
+            <th>名次</th>
+            <th>姓名 / 隊伍</th>
+            <th>班級</th>
+            <th>成績 / 備註</th>
+          </tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>
+      <footer class="award-list-page-footer">
+        <span>列印日期：${escapeHtml(state.certificateSettings.dateText)}</span>
+        <span>勾選名單產生</span>
+      </footer>
+    </section>
+  `;
+}
+
+function renderAwardListRow(item, index) {
+  const people = item.people
+    .map((person) => {
+      const ename = person.ename ? ` ${person.ename}` : "";
+      return `${person.name}${ename}`;
+    })
+    .join("、");
+  const classText = `${item.schoolUnit} ${
+    item.department === "雙語部" ? formatBilingualClass(item) : formatMiddleClass(item)
+  }`;
+  const score = [item.score, item.note].filter(Boolean).join(" / ");
+  return `
+    <tr>
+      <td>${index + 1}</td>
+      <td>${escapeHtml(item.eventName)}</td>
+      <td>${escapeHtml(`${item.rankText} ${item.rankEn}`.trim())}</td>
+      <td>${escapeHtml(people)}</td>
+      <td>${escapeHtml(classText)}</td>
+      <td>${escapeHtml(score)}</td>
+    </tr>
+  `;
+}
+
+function chunk(items, size) {
+  const chunks = [];
+  for (let index = 0; index < items.length; index += size) {
+    chunks.push(items.slice(index, index + size));
+  }
+  return chunks;
+}
+
+function waitForImages(root) {
+  const images = [...root.querySelectorAll("img")];
+  return Promise.all(
+    images.map((image) => {
+      if (image.complete) return Promise.resolve();
+      return new Promise((resolve) => {
+        image.addEventListener("load", resolve, { once: true });
+        image.addEventListener("error", resolve, { once: true });
+      });
+    }),
+  );
 }
 
 function renderPreviewCertificateItem(item, index, total) {

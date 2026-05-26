@@ -8,7 +8,7 @@
       rel="icon"
       href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="%2316483f"/><path d="M18 16h28v32H18z" fill="%23f7f4ea"/><path d="M23 24h18M23 31h18M23 38h12" stroke="%23b83931" stroke-width="4" stroke-linecap="round"/></svg>'
     />
-    <link rel="stylesheet" href="./styles.css?v=multi-preview-v9" />
+    <link rel="stylesheet" href="./styles.css?v=award-list-v11" />
   </head>
   <body>
     <div class="app-shell">
@@ -136,6 +136,7 @@
           <span>已選取</span>
         </div>
         <button id="clearSelection" type="button">清除</button>
+        <button id="awardListPrint" type="button">A4頒獎清單</button>
         <button id="previewPrint" type="button">預覽列印</button>
       </div>
     </div>
@@ -171,6 +172,38 @@
         </menu>
       </form>
     </dialog>
+
+    <dialog id="awardListDialog" class="award-list-dialog">
+      <form method="dialog">
+        <div class="dialog-header">
+          <div>
+            <p class="eyebrow">Award Ceremony List</p>
+            <h2>A4 頒獎清單</h2>
+          </div>
+          <div class="dialog-actions">
+            <span id="awardListCount" class="template-pill">0 筆</span>
+            <button class="icon-button" value="cancel" aria-label="關閉">×</button>
+          </div>
+        </div>
+
+        <div class="award-list-preview-layout">
+          <div id="awardListPreview" class="award-list-preview"></div>
+          <div class="preview-meta">
+            <p id="awardListName">請先勾選名單</p>
+            <p id="awardListDetail">勾選後可產生 A4 頒獎清單，列印或存成 PDF。</p>
+          </div>
+        </div>
+
+        <menu>
+          <button value="cancel">回到名單</button>
+          <button id="printAwardList" class="primary-action" value="default" type="button">
+            列印頒獎清單
+          </button>
+        </menu>
+      </form>
+    </dialog>
+
+    <div id="printRoot" class="print-root" aria-hidden="true"></div>
 
     <dialog id="templateDialog" class="template-dialog">
       <form method="dialog">
@@ -318,7 +351,7 @@
       </form>
     </dialog>
 
-    <script src="./awards-data.js?v=multi-preview-v9"></script>
-    <script src="./app.js?v=multi-preview-v9"></script>
+    <script src="./awards-data.js?v=award-list-v11"></script>
+    <script src="./app.js?v=award-list-v11"></script>
   </body>
 </html>
