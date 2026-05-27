@@ -3,12 +3,12 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NEHS Field Day</title>
+    <title>運動會獎狀名次管理</title>
     <link
       rel="icon"
       href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="%2316483f"/><path d="M18 16h28v32H18z" fill="%23f7f4ea"/><path d="M23 24h18M23 31h18M23 38h12" stroke="%23b83931" stroke-width="4" stroke-linecap="round"/></svg>'
     />
-    <link rel="stylesheet" href="./styles.css?v=t2-ename-v12" />
+    <link rel="stylesheet" href="./styles.css?v=update-alert-v13" />
   </head>
   <body>
     <div class="app-shell">
@@ -17,7 +17,7 @@
           <div class="brand-mark">NEHS <span>AWARDS</span></div>
           <div>
             <p class="eyebrow">Records Studio</p>
-            <h1>RANK</h1>
+            <h1>獎狀名次呈現與列印</h1>
           </div>
         </div>
         <nav class="nav-links" aria-label="主要功能">
@@ -29,7 +29,9 @@
         <div class="status-strip" aria-label="目前名單狀態">
           <span><strong id="visibleCount">0</strong> 筆名單</span>
           <span><strong id="selectedCountTop">0</strong> 已選取</span>
-          <span class="notify-pill"><strong>3</strong> 更新</span>
+          <button id="updateNotifyButton" class="notify-pill is-empty" type="button">
+            <strong id="updateCount">0</strong> 更新
+          </button>
         </div>
       </header>
 
@@ -173,6 +175,32 @@
       </form>
     </dialog>
 
+    <dialog id="updateDialog" class="update-dialog">
+      <form method="dialog">
+        <div class="dialog-header">
+          <div>
+            <p class="eyebrow">Roster Updates</p>
+            <h2>名單更新提醒</h2>
+          </div>
+          <button class="icon-button" value="cancel" aria-label="關閉">×</button>
+        </div>
+
+        <div class="update-summary">
+          <p id="updateSummary">目前沒有新的名單變更。</p>
+          <p id="updateTimestamp">資料更新時間尚未提供。</p>
+        </div>
+
+        <div id="updateList" class="update-list"></div>
+
+        <menu>
+          <button value="cancel">稍後查看</button>
+          <button id="markUpdatesRead" class="primary-action" value="default" type="button">
+            標記已讀
+          </button>
+        </menu>
+      </form>
+    </dialog>
+
     <dialog id="awardListDialog" class="award-list-dialog">
       <form method="dialog">
         <div class="dialog-header">
@@ -299,7 +327,7 @@
               </div>
             </div>
             <div id="tunePreviewStage" class="certificate-stage tuning-certificate">
-              <img src="./assets/certificate-background.png" alt="模板微調預覽背景" />
+              <img src="../output/scan3679_preview-1.png" alt="模板微調預覽背景" />
               <div id="tunePreviewOverlay" class="certificate-overlay"></div>
             </div>
           </section>
@@ -351,7 +379,7 @@
       </form>
     </dialog>
 
-    <script src="./awards-data.js?v=t2-ename-v12"></script>
-    <script src="./app.js?v=t2-ename-v12"></script>
+    <script src="./awards-data.js?v=update-alert-v13"></script>
+    <script src="./app.js?v=update-alert-v13"></script>
   </body>
 </html>

@@ -1,6 +1,6 @@
 @font-face {
   font-family: "EduKai";
-  src: url("./assets/edukai-5.1_20251208.ttf") format("truetype");
+  src: url("../edukai-5.1_20251208.ttf") format("truetype");
   font-display: swap;
 }
 
@@ -154,7 +154,8 @@ h2 {
   gap: 10px;
 }
 
-.status-strip span {
+.status-strip span,
+.status-strip button {
   display: inline-flex;
   align-items: baseline;
   justify-content: center;
@@ -179,6 +180,15 @@ h2 {
   position: relative;
 }
 
+.status-strip .notify-pill {
+  cursor: pointer;
+}
+
+.status-strip .notify-pill:disabled {
+  cursor: default;
+  opacity: 0.74;
+}
+
 .notify-pill::after {
   content: "";
   position: absolute;
@@ -188,6 +198,10 @@ h2 {
   height: 7px;
   border-radius: 999px;
   background: var(--danger);
+}
+
+.notify-pill.is-empty::after {
+  display: none;
 }
 
 .workspace {
@@ -747,6 +761,11 @@ menu button:disabled {
   box-shadow: 0 0 30px rgba(204, 255, 0, 0.09);
 }
 
+.record-card.updated {
+  border-color: rgba(255, 77, 77, 0.5);
+  box-shadow: 0 0 26px rgba(255, 77, 77, 0.1);
+}
+
 .select-all-control,
 .record-select {
   display: inline-flex;
@@ -811,6 +830,18 @@ input[type="checkbox"] {
 .name-cell .record-event {
   color: var(--neon);
   font-weight: 900;
+}
+
+.record-update-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 8px;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: rgba(255, 77, 77, 0.14);
+  color: #ff8a8a;
+  font-size: 11px;
+  font-weight: 950;
 }
 
 .class-cell {
@@ -1011,6 +1042,7 @@ menu button {
 .settings-dialog,
 .template-dialog,
 .tuning-dialog,
+.update-dialog,
 .award-list-dialog,
 .preview-dialog {
   width: min(760px, calc(100vw - 32px));
@@ -1025,6 +1057,7 @@ menu button {
 .settings-dialog::backdrop,
 .template-dialog::backdrop,
 .tuning-dialog::backdrop,
+.update-dialog::backdrop,
 .award-list-dialog::backdrop,
 .preview-dialog::backdrop {
   background: rgba(0, 0, 0, 0.76);
@@ -1034,6 +1067,7 @@ menu button {
 .settings-dialog form,
 .template-dialog form,
 .tuning-dialog form,
+.update-dialog form,
 .award-list-dialog form,
 .preview-dialog form {
   margin: 0;
@@ -1053,6 +1087,138 @@ menu button {
 
 .award-list-dialog {
   width: min(1180px, calc(100vw - 32px));
+}
+
+.update-dialog {
+  width: min(860px, calc(100vw - 32px));
+}
+
+.update-summary {
+  display: grid;
+  gap: 6px;
+  margin-bottom: 14px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.045);
+}
+
+.update-summary p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.update-summary p:first-child {
+  color: white;
+  font-weight: 950;
+}
+
+.update-list {
+  display: grid;
+  gap: 10px;
+  max-height: min(56vh, 620px);
+  overflow: auto;
+  padding-right: 4px;
+}
+
+.update-empty,
+.update-more,
+.update-item {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.045);
+}
+
+.update-empty,
+.update-more {
+  padding: 16px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 850;
+}
+
+.update-item {
+  display: grid;
+  gap: 12px;
+  padding: 14px;
+}
+
+.update-item.score {
+  border-color: rgba(255, 77, 77, 0.45);
+  background: rgba(255, 77, 77, 0.08);
+}
+
+.update-item-head {
+  display: grid;
+  gap: 4px;
+}
+
+.update-item-head span {
+  width: max-content;
+  padding: 3px 7px;
+  border-radius: 999px;
+  background: var(--neon-soft);
+  color: var(--neon);
+  font-size: 11px;
+  font-weight: 950;
+}
+
+.update-item.score .update-item-head span {
+  background: rgba(255, 77, 77, 0.16);
+  color: #ff8a8a;
+}
+
+.update-item-head strong {
+  color: white;
+  font-size: 15px;
+  font-weight: 950;
+}
+
+.update-item-head small {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
+.update-item ul {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.update-item li {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr) auto minmax(0, 1fr);
+  gap: 8px;
+  align-items: center;
+  min-width: 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.update-item li span {
+  color: var(--dim);
+  font-weight: 950;
+}
+
+.update-item li strong {
+  min-width: 0;
+  padding: 6px 8px;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.22);
+  color: white;
+  overflow-wrap: anywhere;
+}
+
+.update-item li em {
+  color: var(--neon);
+  font-style: normal;
+  font-weight: 950;
 }
 
 .dialog-actions {

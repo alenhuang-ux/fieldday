@@ -38,6 +38,8 @@ const TEMPLATE_LABELS = {
 
 const SETTINGS_STORAGE_KEY = "nehs-award-certificate-settings";
 const TEMPLATE_LAYOUT_STORAGE_KEY = "nehs-award-template-layouts";
+const RECORD_SNAPSHOT_STORAGE_KEY = "nehs-award-record-snapshot-v1";
+const UPDATE_POPUP_SESSION_KEY = "nehs-award-update-popup";
 
 const DEFAULT_CERTIFICATE_SETTINGS = {
   title: "一一五學年度全校運動大會",
@@ -80,8 +82,10 @@ const T5_NAME_RIGHT_PT = 10;
 const RELAY_EVENT_LINES_UP_PT = 20;
 const BILINGUAL_RELAY_EVENT_LINES_EXTRA_UP_PT = 10;
 const AWARD_LIST_ROWS_PER_PAGE = 16;
+const MAX_UPDATE_ITEMS = 40;
 
 const awards = (window.AWARD_RECORDS ?? []).map(normalizeAward);
+const initialRecordUpdateState = detectRecordUpdates();
 
 const state = {
   type: "全部",
@@ -95,6 +99,9 @@ const state = {
   tuningTemplate: "T1",
   certificateSettings: loadCertificateSettings(),
   templateLayouts: loadTemplateLayouts(),
+  recordUpdates: initialRecordUpdateState.updates,
+  hasPreviousRecordSnapshot: initialRecordUpdateState.hasPrevious,
+  dataUpdatedAt: getDataUpdatedAt(),
 };
 
 const els = {
@@ -110,6 +117,8 @@ const els = {
   emptyState: document.querySelector("#emptyState"),
   visibleCount: document.querySelector("#visibleCount"),
   selectedCountTop: document.querySelector("#selectedCountTop"),
+  updateNotifyButton: document.querySelector("#updateNotifyButton"),
+  updateCount: document.querySelector("#updateCount"),
   selectedCountToolbar: document.querySelector("#selectedCountToolbar"),
   metricVisible: document.querySelector("#metricVisible"),
   metricSelected: document.querySelector("#metricSelected"),
@@ -128,6 +137,11 @@ const els = {
   awardListName: document.querySelector("#awardListName"),
   awardListDetail: document.querySelector("#awardListDetail"),
   printAwardList: document.querySelector("#printAwardList"),
+  updateDialog: document.querySelector("#updateDialog"),
+  updateSummary: document.querySelector("#updateSummary"),
+  updateTimestamp: document.querySelector("#updateTimestamp"),
+  updateList: document.querySelector("#updateList"),
+  markUpdatesRead: document.querySelector("#markUpdatesRead"),
   resultTitle: document.querySelector("#resultTitle"),
   previewTemplate: document.querySelector("#previewTemplate"),
   certificatePreviewList: document.querySelector("#certificatePreviewList"),
@@ -192,6 +206,165 @@ function loadTemplateLayouts() {
   } catch {
     return cloneTemplateLayoutDefaults();
   }
+}
+
+function loadRecordSnapshot() {
+  try {
+    const raw = localStorage.getItem(RECORD_SNAPSHOT_STORAGE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    return parsed?.records ? parsed : null;
+  } catch {
+    return null;
+  }
+}
+
+function detectRecordUpdates() {
+  const previous = loadRecordSnapshot();
+  const currentRecords = Object.fromEntries(
+    awards.map((item) => {
+      const snapshot = buildRecordSnapshot(item);
+      return [getRecordSnapshotKey(snapshot), snapshot];
+    }),
+  );
+
+  if (!previous?.records) {
+    return { hasPrevious: false, updates: [] };
+  }
+
+  const updates = [];
+  const previousRecords = previous.records;
+
+  awards.forEach((item) => {
+    const current = buildRecordSnapshot(item);
+    const old = previousRecords[getRecordSnapshotKey(current)];
+
+    if (!old) {
+      updates.push({
+        type: "added",
+        recordId: current.recordId,
+        eventName: current.eventName,
+        people: current.people,
+        classText: current.classText,
+        time: current.enteredAt || getDataUpdatedAt(),
+        diffs: [
+          {
+            label: "新增",
+            from: "",
+            to: `${current.rankText} ${current.rankEn} · ${current.score}`.trim(),
+          },
+        ],
+      });
+      return;
+    }
+
+    const diffs = getRecordDiffs(old, current);
+    if (diffs.length) {
+      updates.push({
+        type: diffs.some((diff) => diff.field === "score") ? "score" : "changed",
+        recordId: item.id,
+        eventName: current.eventName,
+        people: current.people,
+        classText: current.classText,
+        time: current.enteredAt || old.enteredAt || getDataUpdatedAt(),
+        diffs,
+      });
+    }
+  });
+
+  Object.entries(previousRecords).forEach(([recordId, old]) => {
+    if (currentRecords[recordId]) return;
+    updates.push({
+      type: "removed",
+      recordId: old.recordId,
+      eventName: old.eventName,
+      people: old.people,
+      classText: old.classText,
+      time: old.enteredAt || getDataUpdatedAt(),
+      diffs: [{ label: "移除", from: `${old.rankText} · ${old.score}`, to: "" }],
+    });
+  });
+
+  updates.sort(compareRecordUpdates);
+  return { hasPrevious: true, updates };
+}
+
+function buildRecordSnapshot(item) {
+  return {
+    recordId: item.id,
+    eventName: item.eventName,
+    rank: item.rank,
+    rankText: item.rankText,
+    rankEn: item.rankEn,
+    people: item.people.map((person) => person.raw || person.name).join("、"),
+    classText: `${item.schoolUnit} ${
+      item.department === "雙語部" ? formatBilingualClass(item) : formatMiddleClass(item)
+    }`,
+    score: item.score || "",
+    note: item.note || "",
+    enteredAt: item.enteredAt || "",
+  };
+}
+
+function getRecordSnapshotKey(snapshot) {
+  return [snapshot.eventName, snapshot.classText, snapshot.people].join("||");
+}
+
+function getRecordDiffs(old, current) {
+  const fields = [
+    ["score", "成績"],
+    ["note", "備註"],
+    ["rankText", "名次"],
+    ["rankEn", "英文名次"],
+    ["people", "姓名"],
+    ["classText", "班級"],
+    ["eventName", "比賽名稱"],
+  ];
+
+  return fields
+    .filter(([field]) => String(old[field] ?? "") !== String(current[field] ?? ""))
+    .map(([field, label]) => ({
+      field,
+      label,
+      from: String(old[field] ?? ""),
+      to: String(current[field] ?? ""),
+    }));
+}
+
+function compareRecordUpdates(a, b) {
+  const priority = { score: 0, added: 1, changed: 2, removed: 3 };
+  const priorityDiff = (priority[a.type] ?? 9) - (priority[b.type] ?? 9);
+  if (priorityDiff) return priorityDiff;
+  return getTimeValue(b.time) - getTimeValue(a.time);
+}
+
+function getTimeValue(value) {
+  if (!value) return 0;
+  const normalized = String(value).replace(" ", "T");
+  const time = Date.parse(normalized);
+  return Number.isFinite(time) ? time : 0;
+}
+
+function getDataUpdatedAt() {
+  if (window.AWARD_RECORDS_UPDATED_AT) return window.AWARD_RECORDS_UPDATED_AT;
+  return awards
+    .map((item) => item.enteredAt)
+    .filter(Boolean)
+    .sort((a, b) => getTimeValue(b) - getTimeValue(a))[0] ?? "";
+}
+
+function persistRecordSnapshot() {
+  const snapshot = {
+    updatedAt: getDataUpdatedAt(),
+    savedAt: new Date().toISOString(),
+    records: Object.fromEntries(
+      awards.map((item) => {
+        const snapshot = buildRecordSnapshot(item);
+        return [getRecordSnapshotKey(snapshot), snapshot];
+      }),
+    ),
+  };
+  localStorage.setItem(RECORD_SNAPSHOT_STORAGE_KEY, JSON.stringify(snapshot));
 }
 
 function cloneTemplateLayoutDefaults() {
@@ -287,6 +460,11 @@ function init() {
   renderTypeButtons();
   bindEvents();
   render();
+  renderUpdateNotification();
+  if (!state.hasPreviousRecordSnapshot || !state.recordUpdates.length) {
+    persistRecordSnapshot();
+  }
+  maybeShowUpdateDialog();
 }
 
 function renderTypeButtons() {
@@ -453,6 +631,20 @@ function bindEvents() {
     if (!items.length) return;
     renderAwardListPrintRoot(items);
     window.print();
+  });
+
+  els.updateNotifyButton.addEventListener("click", () => {
+    renderUpdateNotification();
+    els.updateDialog.showModal();
+  });
+
+  els.markUpdatesRead.addEventListener("click", () => {
+    persistRecordSnapshot();
+    state.recordUpdates = [];
+    state.hasPreviousRecordSnapshot = true;
+    renderUpdateNotification();
+    render();
+    els.updateDialog.close();
   });
 
   els.saveSettings.addEventListener("click", () => {
@@ -722,9 +914,107 @@ function buildResultTitle() {
   return parts.length ? parts.join(" · ") : "全部名單";
 }
 
+function hasRecordUpdate(recordId) {
+  return state.recordUpdates.some((update) => update.recordId === recordId);
+}
+
+function renderUpdateNotification() {
+  const count = state.recordUpdates.length;
+  els.updateCount.textContent = count;
+  els.updateNotifyButton.disabled = count === 0;
+  els.updateNotifyButton.classList.toggle("is-empty", count === 0);
+  els.updateNotifyButton.title = count
+    ? `有 ${count} 筆名單變更`
+    : `目前沒有新變更。資料更新時間：${formatDisplayTime(state.dataUpdatedAt)}`;
+
+  els.updateSummary.textContent = count
+    ? `偵測到 ${count} 筆名單變更，包含成績、備註、名次、姓名或班級調整。`
+    : "目前沒有新的名單變更。";
+  els.updateTimestamp.textContent = `資料更新時間：${formatDisplayTime(state.dataUpdatedAt)}`;
+
+  if (!count) {
+    els.updateList.innerHTML = `<div class="update-empty">目前沒有待確認的更新。</div>`;
+    els.markUpdatesRead.disabled = true;
+    return;
+  }
+
+  els.markUpdatesRead.disabled = false;
+  const visibleUpdates = state.recordUpdates.slice(0, MAX_UPDATE_ITEMS);
+  const moreCount = count - visibleUpdates.length;
+  els.updateList.innerHTML = [
+    ...visibleUpdates.map(renderUpdateItem),
+    moreCount > 0
+      ? `<div class="update-more">另有 ${moreCount} 筆更新未顯示，標記已讀前請先確認完整名單。</div>`
+      : "",
+  ].join("");
+}
+
+function renderUpdateItem(update) {
+  const tone = update.type === "score" ? " score" : "";
+  const diffs = update.diffs
+    .map(
+      (diff) => `
+        <li>
+          <span>${escapeHtml(diff.label)}</span>
+          <strong>${escapeHtml(formatDiffValue(diff.from))}</strong>
+          <em>→</em>
+          <strong>${escapeHtml(formatDiffValue(diff.to))}</strong>
+        </li>
+      `,
+    )
+    .join("");
+
+  return `
+    <article class="update-item${tone}">
+      <div class="update-item-head">
+        <span>${escapeHtml(update.type === "score" ? "成績更正" : updateLabel(update.type))}</span>
+        <strong>${escapeHtml(update.people || "名單資料")}</strong>
+        <small>${escapeHtml(update.eventName)} · ${escapeHtml(update.classText || "")}</small>
+        <small>登錄/更新時間：${escapeHtml(formatDisplayTime(update.time))}</small>
+      </div>
+      <ul>${diffs}</ul>
+    </article>
+  `;
+}
+
+function updateLabel(type) {
+  if (type === "added") return "新增";
+  if (type === "removed") return "移除";
+  return "更新";
+}
+
+function formatDiffValue(value) {
+  return value || "空白";
+}
+
+function formatDisplayTime(value) {
+  if (!value) return "尚未提供";
+  const time = getTimeValue(value);
+  if (!time) return String(value);
+  return new Date(time).toLocaleString("zh-TW", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
+function maybeShowUpdateDialog() {
+  if (!state.recordUpdates.length || !state.hasPreviousRecordSnapshot) return;
+  const key = `${UPDATE_POPUP_SESSION_KEY}:${state.dataUpdatedAt}:${state.recordUpdates.length}`;
+  if (sessionStorage.getItem(key)) return;
+  sessionStorage.setItem(key, "1");
+  setTimeout(() => {
+    renderUpdateNotification();
+    if (!els.updateDialog.open) els.updateDialog.showModal();
+  }, 350);
+}
+
 function renderRow(item) {
   const selected = state.selected.has(item.id) ? " selected" : "";
   const focused = state.focusedId === item.id ? " focused" : "";
+  const updated = hasRecordUpdate(item.id) ? " updated" : "";
   const peopleText = item.people.map((person) => person.name).join("、");
   const enameText = item.people
     .map((person) => person.ename)
@@ -736,9 +1026,10 @@ function renderRow(item) {
     item.department === "雙語部" ? formatBilingualClass(item) : formatMiddleClass(item)
   }`;
   const noteHtml = item.note ? `<span class="record-note">${escapeHtml(item.note)}</span>` : "";
+  const updateBadge = updated ? `<span class="record-update-badge">更新</span>` : "";
 
   return `
-    <article class="record-card${selected}${focused}" data-id="${item.id}">
+    <article class="record-card${selected}${focused}${updated}" data-id="${item.id}">
       <label class="record-select" aria-label="選取 ${escapeHtml(peopleText)}">
         <input type="checkbox" data-select="${item.id}" ${checked} />
       </label>
@@ -746,7 +1037,7 @@ function renderRow(item) {
       <div class="name-cell">
         <strong>${escapeHtml(peopleText)}</strong>
         <span>${escapeHtml(enameText || item.eventName)}</span>
-        <span class="record-event">${escapeHtml(item.eventName)}</span>
+        <span class="record-event">${escapeHtml(item.eventName)}${updateBadge}</span>
       </div>
       <div class="class-cell">${escapeHtml(classText)}</div>
       <div class="score-cell">
@@ -968,7 +1259,7 @@ function renderCertificateStage(item) {
   const textOnlyClass = state.certificateSettings.showBackground ? "" : " is-text-only";
   return `
     <div class="certificate-stage print-certificate${textOnlyClass}">
-      <img src="./assets/certificate-background.png" alt="${escapeHtml(item.template)} 獎狀背景預覽" />
+      <img src="../output/scan3679_preview-1.png" alt="${escapeHtml(item.template)} 獎狀背景預覽" />
       <div class="certificate-overlay">${buildCertificateOverlay(item)}</div>
     </div>
   `;
@@ -993,7 +1284,7 @@ function renderTemplateGallery() {
             </div>
           </div>
           <div class="certificate-stage template-certificate${textOnlyClass}">
-            <img src="./assets/certificate-background.png" alt="${item.template} 獎狀背景預覽" />
+            <img src="../output/scan3679_preview-1.png" alt="${item.template} 獎狀背景預覽" />
             <div class="certificate-overlay">${buildCertificateOverlay(item)}</div>
           </div>
         </article>
