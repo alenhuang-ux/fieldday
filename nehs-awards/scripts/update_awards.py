@@ -242,7 +242,7 @@ def update_once(args: argparse.Namespace) -> int:
         Path(args.html_cache).write_text(source_html, "utf-8")
 
     records = parse_records(source_html)
-    if len(records) < args.min_records:
+    if records and len(records) < args.min_records:
         raise RuntimeError(
             f"Only parsed {len(records)} records. Refusing to overwrite {args.output}."
         )
@@ -250,6 +250,8 @@ def update_once(args: argparse.Namespace) -> int:
     content = build_output(records, args.url)
     changed = write_if_changed(Path(args.output), content, args.backup)
     status = "updated" if changed else "unchanged"
+    if not records:
+        print("尚無成績")
     print(f"{datetime.now().isoformat(timespec='seconds')} {status}: {len(records)} records -> {args.output}")
     return len(records)
 
@@ -260,7 +262,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output", default=DEFAULT_OUTPUT, help="Output awards-data.js path.")
     parser.add_argument("--html-cache", help="Optional path to save the fetched HTML.")
     parser.add_argument("--timeout", type=int, default=20, help="HTTP timeout in seconds.")
-    parser.add_argument("--min-records", type=int, default=100, help="Safety threshold before overwriting.")
+    parser.add_argument("--min-records", type=int, default=1, help="Minimum for non-empty results; empty results are published as no scores.")
     parser.add_argument("--backup", action="store_true", help="Write awards-data.js.bak before changing.")
     parser.add_argument(
         "--watch-seconds",
@@ -287,3 +289,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
