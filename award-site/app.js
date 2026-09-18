@@ -890,6 +890,7 @@ function render() {
   els.resultTitle.textContent = buildResultTitle();
   els.resultSubtitle.textContent = buildResultSubtitle(visible);
   els.emptyState.hidden = visible.length > 0;
+  els.emptyState.textContent = awards.length === 0 ? "尚無成績" : "找不到符合條件的名單";
 
   els.selectAll.checked = visible.length > 0 && visible.every((item) => state.selected.has(item.id));
   els.selectAll.indeterminate =
@@ -1529,3 +1530,4 @@ function escapeHtml(value) {
 }
 
 init();
+
