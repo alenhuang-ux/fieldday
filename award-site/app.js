@@ -37,7 +37,8 @@ const TEMPLATE_LABELS = {
 };
 
 const SETTINGS_STORAGE_KEY = "nehs-award-certificate-settings";
-const TEMPLATE_LAYOUT_STORAGE_KEY = "nehs-award-template-layouts";
+const TEMPLATE_LAYOUT_STORAGE_KEY = "nehs-award-template-layouts-v2";
+const LEGACY_TEMPLATE_LAYOUT_STORAGE_KEY = "nehs-award-template-layouts";
 const RECORD_SNAPSHOT_STORAGE_KEY = "nehs-award-record-snapshot-v1";
 const UPDATE_POPUP_SESSION_KEY = "nehs-award-update-popup";
 
@@ -58,7 +59,7 @@ const DEFAULT_TEMPLATE_LAYOUT = {
   dateDownPt: 10,
   titleFontPt: 28,
   titleBold: true,
-  eventLabelsBold: true,
+  eventLabelsBold: false,
   footerBold: true,
 };
 
@@ -196,11 +197,22 @@ function loadCertificateSettings() {
 function loadTemplateLayouts() {
   try {
     const raw = localStorage.getItem(TEMPLATE_LAYOUT_STORAGE_KEY);
-    const parsed = raw ? JSON.parse(raw) : {};
+    const legacyRaw = raw ? null : localStorage.getItem(LEGACY_TEMPLATE_LAYOUT_STORAGE_KEY);
+    const parsed = JSON.parse(raw ?? legacyRaw ?? "{}");
     return Object.fromEntries(
       Object.keys(TEMPLATE_LAYOUT_DEFAULTS).map((template) => [
         template,
-        normalizeTemplateLayout(parsed[template], TEMPLATE_LAYOUT_DEFAULTS[template]),
+        normalizeTemplateLayout(
+          raw
+            ? parsed[template]
+            : {
+                ...parsed[template],
+                titleBold: true,
+                eventLabelsBold: false,
+                footerBold: true,
+              },
+          TEMPLATE_LAYOUT_DEFAULTS[template],
+        ),
       ]),
     );
   } catch {
@@ -1275,7 +1287,7 @@ function renderCertificateStage(item) {
   const textOnlyClass = state.certificateSettings.showBackground ? "" : " is-text-only";
   return `
     <div class="certificate-stage print-certificate${textOnlyClass}">
-      <img src="../output/scan3679_preview-1.png" alt="${escapeHtml(item.template)} 獎狀背景預覽" />
+      <img src="./assets/certificate-background.png" alt="${escapeHtml(item.template)} 獎狀背景預覽" />
       <div class="certificate-overlay">${buildCertificateOverlay(item)}</div>
     </div>
   `;
@@ -1300,7 +1312,7 @@ function renderTemplateGallery() {
             </div>
           </div>
           <div class="certificate-stage template-certificate${textOnlyClass}">
-            <img src="../output/scan3679_preview-1.png" alt="${item.template} 獎狀背景預覽" />
+            <img src="./assets/certificate-background.png" alt="${item.template} 獎狀背景預覽" />
             <div class="certificate-overlay">${buildCertificateOverlay(item)}</div>
           </div>
         </article>
@@ -1484,11 +1496,11 @@ function dateY(template, y) {
   return y - getTemplateLayout(template).dateDownPt;
 }
 
-function certCenter(text, x, y, fontSize, weight = "") {
+function certCenter(text, x, y, fontSize, weight = "bold") {
   return certText(text, x, y, fontSize, "center", weight);
 }
 
-function certLeft(text, x, y, fontSize, weight = "") {
+function certLeft(text, x, y, fontSize, weight = "bold") {
   return certText(text, x, y, fontSize, "left", weight);
 }
 
@@ -1496,7 +1508,7 @@ function certNoteLeft(text, x, y, fontSize, maxWidthPt) {
   return certText(text, x, y, fontSize, "left", "bold", "note", maxWidthPt);
 }
 
-function certNameCenter(text, x, y, fontSize, maxWidthPt, weight = "") {
+function certNameCenter(text, x, y, fontSize, maxWidthPt, weight = "bold") {
   const adjustedFontSize = fitNameFontSize(text, fontSize, maxWidthPt);
   return certText(text, x, y, adjustedFontSize, "center", weight, "name", maxWidthPt);
 }
@@ -1530,4 +1542,3 @@ function escapeHtml(value) {
 }
 
 init();
-

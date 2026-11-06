@@ -957,7 +957,7 @@ input[type="checkbox"] {
   white-space: nowrap;
   transform: translate(-50%, -42%);
   font-size: calc(var(--pt, 22) * 0.168cqw);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1;
 }
 
