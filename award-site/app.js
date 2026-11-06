@@ -37,7 +37,7 @@ const TEMPLATE_LABELS = {
 };
 
 const SETTINGS_STORAGE_KEY = "nehs-award-certificate-settings";
-const TEMPLATE_LAYOUT_STORAGE_KEY = "nehs-award-template-layouts-v2";
+const TEMPLATE_LAYOUT_STORAGE_KEY = "nehs-award-template-layouts-v3";
 const LEGACY_TEMPLATE_LAYOUT_STORAGE_KEY = "nehs-award-template-layouts";
 const RECORD_SNAPSHOT_STORAGE_KEY = "nehs-award-record-snapshot-v1";
 const UPDATE_POPUP_SESSION_KEY = "nehs-award-update-popup";
@@ -59,7 +59,7 @@ const DEFAULT_TEMPLATE_LAYOUT = {
   dateDownPt: 10,
   titleFontPt: 28,
   titleBold: true,
-  eventLabelsBold: false,
+  eventLabelsBold: true,
   footerBold: true,
 };
 
@@ -197,7 +197,10 @@ function loadCertificateSettings() {
 function loadTemplateLayouts() {
   try {
     const raw = localStorage.getItem(TEMPLATE_LAYOUT_STORAGE_KEY);
-    const legacyRaw = raw ? null : localStorage.getItem(LEGACY_TEMPLATE_LAYOUT_STORAGE_KEY);
+    const legacyRaw = raw
+      ? null
+      : localStorage.getItem("nehs-award-template-layouts-v2") ??
+        localStorage.getItem(LEGACY_TEMPLATE_LAYOUT_STORAGE_KEY);
     const parsed = JSON.parse(raw ?? legacyRaw ?? "{}");
     return Object.fromEntries(
       Object.keys(TEMPLATE_LAYOUT_DEFAULTS).map((template) => [
@@ -208,7 +211,7 @@ function loadTemplateLayouts() {
             : {
                 ...parsed[template],
                 titleBold: true,
-                eventLabelsBold: false,
+                eventLabelsBold: true,
                 footerBold: true,
               },
           TEMPLATE_LAYOUT_DEFAULTS[template],
