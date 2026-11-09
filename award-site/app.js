@@ -796,10 +796,29 @@ function getVisibleAwards() {
       const matchesEvent = state.eventName === "全部" || item.eventName === state.eventName;
       return matchesTypeDepartmentQuery(item) && matchesGradePage(item) && matchesEvent;
     })
-    .sort((a, b) => {
-      if (a.eventName !== b.eventName) return a.eventName.localeCompare(b.eventName, "zh-Hant");
-      return a.rank - b.rank;
-    });
+    .sort(compareAwards);
+}
+
+function compareAwardGroups(a, b) {
+  if (a.type !== b.type) {
+    const typeOrder = (type) => {
+      const index = EVENT_TYPES.indexOf(type);
+      return index === -1 ? EVENT_TYPES.length : index;
+    };
+    return typeOrder(a.type) - typeOrder(b.type) || a.type.localeCompare(b.type, "zh-Hant");
+  }
+  const gradeOrder = b.gradeNumber - a.gradeNumber;
+  if (gradeOrder) return gradeOrder;
+  const groupOrder = (group) => group === "男子組" ? 0 : group === "女子組" ? 1 : 2;
+  return groupOrder(a.group) - groupOrder(b.group);
+}
+
+function compareAwards(a, b) {
+  return (
+    compareAwardGroups(a, b) ||
+    a.eventName.localeCompare(b.eventName, "zh-Hant") ||
+    a.rank - b.rank
+  );
 }
 
 function matchesSearch(item) {
@@ -844,6 +863,8 @@ function getEventPickerData() {
       const current = byEvent.get(item.eventName) ?? {
         name: item.eventName,
         type: item.type,
+        gradeNumber: item.gradeNumber,
+        group: item.group,
         eventEn: item.eventEn,
         count: 0,
         noteCount: 0,
@@ -853,7 +874,9 @@ function getEventPickerData() {
       byEvent.set(item.eventName, current);
     });
 
-  return [...byEvent.values()].sort((a, b) => a.name.localeCompare(b.name, "zh-Hant"));
+  return [...byEvent.values()].sort(
+    (a, b) => compareAwardGroups(a, b) || a.name.localeCompare(b.name, "zh-Hant"),
+  );
 }
 
 function ensureEventFilters() {
@@ -870,7 +893,7 @@ function ensureEventFilters() {
 }
 
 function getSelectedAwards() {
-  return awards.filter((item) => state.selected.has(item.id));
+  return awards.filter((item) => state.selected.has(item.id)).sort(compareAwards);
 }
 
 function getPreviewAward() {
