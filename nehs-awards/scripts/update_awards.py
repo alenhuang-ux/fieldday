@@ -61,9 +61,11 @@ def split_event(raw_event: str) -> dict[str, str]:
 
 
 def classify_type(event_name: str) -> str:
-    if "400公尺接力" in event_name:
+    if "400公尺" in event_name and "接力" in event_name and "混合" in event_name:
+        return "400公尺男女混合接力"
+    if "400公尺" in event_name and "接力" in event_name:
         return "400公尺接力"
-    if "1200公尺接力" in event_name:
+    if "1200公尺" in event_name and "接力" in event_name:
         return "1200公尺接力"
     if "100公尺" in event_name and "接力" not in event_name:
         return "100公尺"
@@ -289,4 +291,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
