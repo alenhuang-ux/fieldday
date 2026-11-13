@@ -46,6 +46,7 @@ const DEFAULT_CERTIFICATE_SETTINGS = {
   title: "一一五學年度全校運動大會",
   dateText: "中華民國一一五年十一月十五日",
   showBackground: true,
+  fontScalePct: 100,
 };
 
 const A4_POINTS = {
@@ -172,6 +173,7 @@ const els = {
   certificateTitleInput: document.querySelector("#certificateTitleInput"),
   certificateDateInput: document.querySelector("#certificateDateInput"),
   showBackgroundInput: document.querySelector("#showBackgroundInput"),
+  fontScaleInput: document.querySelector("#fontScaleInput"),
   saveSettings: document.querySelector("#saveSettings"),
   resetSettings: document.querySelector("#resetSettings"),
 };
@@ -188,10 +190,21 @@ function loadCertificateSettings() {
         typeof parsed.showBackground === "boolean"
           ? parsed.showBackground
           : DEFAULT_CERTIFICATE_SETTINGS.showBackground,
+      fontScalePct: clampFontScale(parsed.fontScalePct),
     };
   } catch {
     return { ...DEFAULT_CERTIFICATE_SETTINGS };
   }
+}
+
+function clampFontScale(value) {
+  const number = Number(value);
+  if (!Number.isFinite(number)) return DEFAULT_CERTIFICATE_SETTINGS.fontScalePct;
+  return Math.min(150, Math.max(100, Math.round(number / 10) * 10));
+}
+
+function getFontScale() {
+  return clampFontScale(state.certificateSettings.fontScalePct) / 100;
 }
 
 function loadTemplateLayouts() {
@@ -714,6 +727,14 @@ function bindEvents() {
     });
   });
 
+  els.fontScaleInput.addEventListener("change", () => {
+    state.certificateSettings.fontScalePct = clampFontScale(els.fontScaleInput.value);
+    persistCertificateSettings();
+    renderTuningPreview();
+    renderPreview();
+    renderTemplateGallery();
+  });
+
   els.resetTune.addEventListener("click", () => {
     state.templateLayouts[state.tuningTemplate] = {
       ...TEMPLATE_LAYOUT_DEFAULTS[state.tuningTemplate],
@@ -751,6 +772,7 @@ function hydrateTuningForm() {
   els.tuneTitleBold.checked = layout.titleBold;
   els.tuneEventLabelsBold.checked = layout.eventLabelsBold;
   els.tuneFooterBold.checked = layout.footerBold;
+  els.fontScaleInput.value = String(clampFontScale(state.certificateSettings.fontScalePct));
 }
 
 function updateTemplateLayoutFromForm() {
@@ -1135,9 +1157,11 @@ function renderPreview() {
     items.length === 1
       ? active.people.map((person) => person.name).join("、")
       : `已選取 ${items.length} 筆名單`;
+  const fontScalePct = clampFontScale(state.certificateSettings.fontScalePct);
+  const fontScaleText = fontScalePct === 100 ? "" : ` · 字體放大 ${fontScalePct}%（日期除外）`;
   els.previewDetail.textContent = `${
     state.certificateSettings.showBackground ? "含底圖" : "純文字"
-  } · ${selectedCount > 0 ? `已選取 ${selectedCount} 張` : "目前預覽 1 張"}，下方可向下滑動檢查；列印時會自動分頁`;
+  }${fontScaleText} · ${selectedCount > 0 ? `已選取 ${selectedCount} 張` : "目前預覽 1 張"}，下方可向下滑動檢查；列印時會自動分頁`;
   els.printPreview.disabled = false;
   els.printPreview.textContent =
     selectedCount > 0 ? `批量列印選取 ${selectedCount} 張` : "列印目前預覽 1 張";
@@ -1498,7 +1522,7 @@ function singleFooterLines(item) {
   const weight = getTemplateLayout(item.template).footerBold ? "bold" : "";
   return [
     certCenter("表現優異，特頒發獎狀，以資鼓勵。", A4_POINTS.width / 2, praiseY(item.template, 350), 23, weight),
-    certCenter(state.certificateSettings.dateText, A4_POINTS.width / 2, dateY(item.template, 68), 23, weight),
+    certDateCenter(state.certificateSettings.dateText, A4_POINTS.width / 2, dateY(item.template, 68), 23, weight),
   ];
 }
 
@@ -1506,7 +1530,7 @@ function relayFooterLines(item) {
   const weight = getTemplateLayout(item.template).footerBold ? "bold" : "";
   return [
     certCenter("表現優異，特頒發獎狀，以資鼓勵。", A4_POINTS.width / 2, praiseY(item.template, 236), 23, weight),
-    certCenter(state.certificateSettings.dateText, A4_POINTS.width / 2, dateY(item.template, 68), 23, weight),
+    certDateCenter(state.certificateSettings.dateText, A4_POINTS.width / 2, dateY(item.template, 68), 23, weight),
   ];
 }
 
@@ -1524,6 +1548,10 @@ function dateY(template, y) {
 
 function certCenter(text, x, y, fontSize, weight = "bold") {
   return certText(text, x, y, fontSize, "center", weight);
+}
+
+function certDateCenter(text, x, y, fontSize, weight = "bold") {
+  return certText(text, x, y, fontSize, "center", weight, "date");
 }
 
 function certLeft(text, x, y, fontSize, weight = "bold") {
@@ -1550,12 +1578,14 @@ function fitNameFontSize(text, fontSize, maxWidthPt) {
 }
 
 function certText(text, x, y, fontSize, align, weight, variant = "", maxWidthPt = null) {
+  const scale = variant === "date" ? 1 : getFontScale();
+  const scaledFontSize = Math.round(fontSize * scale * 100) / 100;
   const left = (x / A4_POINTS.width) * 100;
   const top = ((A4_POINTS.height - y) / A4_POINTS.height) * 100;
   const weightClass = weight === "bold" ? " cert-bold" : "";
   const variantClass = variant ? ` cert-${variant}` : "";
   const widthStyle = maxWidthPt ? ` --maxw:${maxWidthPt};` : "";
-  return `<span class="cert-text cert-${align}${weightClass}${variantClass}" style="left:${left}%; top:${top}%; --pt:${fontSize};${widthStyle}">${escapeHtml(text)}</span>`;
+  return `<span class="cert-text cert-${align}${weightClass}${variantClass}" style="left:${left}%; top:${top}%; --pt:${scaledFontSize};${widthStyle}">${escapeHtml(text)}</span>`;
 }
 
 function escapeHtml(value) {
