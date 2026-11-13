@@ -108,6 +108,10 @@ const state = {
 
 const els = {
   adminSettings: document.querySelector("#adminSettings"),
+  historyButton: document.querySelector("#historyButton"),
+  historyDialog: document.querySelector("#historyDialog"),
+  historySummary: document.querySelector("#historySummary"),
+  historyList: document.querySelector("#historyList"),
   templatePreview: document.querySelector("#templatePreview"),
   templateTuning: document.querySelector("#templateTuning"),
   searchInput: document.querySelector("#searchInput"),
@@ -569,6 +573,11 @@ function bindEvents() {
   els.adminSettings.addEventListener("click", () => {
     hydrateSettingsForm();
     els.settingsDialog.showModal();
+  });
+
+  els.historyButton.addEventListener("click", () => {
+    els.historyDialog.showModal();
+    loadUpdateHistory();
   });
 
   els.searchInput.addEventListener("input", (event) => {
@@ -1072,6 +1081,78 @@ function maybeShowUpdateDialog() {
     renderUpdateNotification();
     if (!els.updateDialog.open) els.updateDialog.showModal();
   }, 350);
+}
+
+const HISTORY_TYPE_LABELS = {
+  added: "新增",
+  changed: "異動",
+  removed: "移除",
+};
+
+function loadUpdateHistory() {
+  els.historySummary.textContent = "讀取中…";
+  els.historyList.innerHTML = "";
+  fetch(`./update-history.json?ts=${Date.now()}`)
+    .then((response) => {
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return response.json();
+    })
+    .then((history) => renderUpdateHistory(history))
+    .catch(() => {
+      els.historySummary.textContent =
+        "目前還沒有更新紀錄。從功能啟用後的第一次資料異動開始，就會自動留下紀錄。";
+    });
+}
+
+function renderUpdateHistory(history) {
+  const entries = Array.isArray(history?.entries) ? [...history.entries].reverse() : [];
+
+  if (!entries.length) {
+    els.historySummary.textContent =
+      "目前還沒有更新紀錄。之後每次名次或成績異動都會自動記錄在這裡。";
+    els.historyList.innerHTML = "";
+    return;
+  }
+
+  const latest = formatHistoryTime(entries[0].time);
+  els.historySummary.textContent = `共 ${entries.length} 筆異動紀錄，最新一筆：${latest}。`;
+
+  els.historyList.innerHTML = entries
+    .map((entry) => {
+      const typeLabel = HISTORY_TYPE_LABELS[entry.type] ?? "異動";
+      const changeRows = (entry.changes ?? [])
+        .map((change) => {
+          const before = change.before ? escapeHtml(change.before) : "—";
+          const after = change.after ? escapeHtml(change.after) : "—";
+          return `<li><b>${escapeHtml(change.label)}</b>：${before} → ${after}</li>`;
+        })
+        .join("");
+      return `
+        <article class="update-item${entry.type === "changed" ? " score" : ""}">
+          <div class="update-item-head">
+            <span>${escapeHtml(typeLabel)}</span>
+            <strong>${escapeHtml(entry.eventName)}</strong>
+            <small>${escapeHtml(entry.people)}${entry.classText ? ` · ${escapeHtml(entry.classText)}` : ""}</small>
+            <small class="history-time">${formatHistoryTime(entry.time)}</small>
+          </div>
+          <ul class="history-changes">${changeRows}</ul>
+        </article>
+      `;
+    })
+    .join("");
+}
+
+function formatHistoryTime(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value ?? "";
+  return date.toLocaleString("zh-TW", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  });
 }
 
 function renderRow(item) {

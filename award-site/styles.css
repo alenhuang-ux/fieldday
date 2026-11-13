@@ -1860,3 +1860,23 @@ menu {
     page-break-after: auto;
   }
 }
+
+/* 更新紀錄面板 */
+.history-time {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.history-changes {
+  margin: 0;
+  padding-left: 18px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 750;
+  display: grid;
+  gap: 4px;
+}
+
+.history-changes b {
+  color: var(--ink);
+}

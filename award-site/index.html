@@ -8,7 +8,7 @@
       rel="icon"
       href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="%2316483f"/><path d="M18 16h28v32H18z" fill="%23f7f4ea"/><path d="M23 24h18M23 31h18M23 38h12" stroke="%23b83931" stroke-width="4" stroke-linecap="round"/></svg>'
     />
-    <link rel="stylesheet" href="./styles.css?v=kai-font-v17" />
+    <link rel="stylesheet" href="./styles.css?v=kai-font-v21" />
   </head>
   <body>
     <div class="app-shell">
@@ -25,6 +25,7 @@
           <button id="templatePreview" class="nav-admin-button" type="button">模板預覽</button>
           <button id="templateTuning" class="nav-admin-button" type="button">模板微調</button>
           <button id="adminSettings" class="nav-admin-button" type="button">後台設定</button>
+          <button id="historyButton" class="nav-admin-button" type="button">更新紀錄</button>
         </nav>
         <div class="status-strip" aria-label="目前名單狀態">
           <span><strong id="visibleCount">0</strong> 筆名單</span>
@@ -197,6 +198,28 @@
           <button id="markUpdatesRead" class="primary-action" value="default" type="button">
             標記已讀
           </button>
+        </menu>
+      </form>
+    </dialog>
+
+    <dialog id="historyDialog" class="update-dialog">
+      <form method="dialog">
+        <div class="dialog-header">
+          <div>
+            <p class="eyebrow">Update History</p>
+            <h2>名次與成績更新紀錄</h2>
+          </div>
+          <button class="icon-button" value="cancel" aria-label="關閉">×</button>
+        </div>
+
+        <div class="update-summary">
+          <p id="historySummary">讀取中…</p>
+        </div>
+
+        <div id="historyList" class="update-list"></div>
+
+        <menu>
+          <button value="cancel">關閉</button>
         </menu>
       </form>
     </dialog>
@@ -392,7 +415,7 @@
       </form>
     </dialog>
 
-    <script src="./awards-data.js?v=kai-font-v20"></script>
-    <script src="./app.js?v=kai-font-v20"></script>
+    <script src="./awards-data.js?v=kai-font-v21"></script>
+    <script src="./app.js?v=kai-font-v21"></script>
   </body>
 </html>
