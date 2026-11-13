@@ -1,6 +1,7007 @@
 {
   "version": 1,
   "seededAt": "2026-11-13T02:34:51+00:00",
-  "updatedAt": "2026-11-13T02:34:51+00:00",
-  "entries": []
+  "updatedAt": "2026-11-13T07:04:07+00:00",
+  "entries": [
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1200公尺接力",
+      "people": "彭韓諾 HANNAH PENG、林塏芹 ARIEL LIN、張皓恩 KAYLA HAO-EN CHANG、張凝 CHANG, NING",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'56\"91",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1200公尺接力",
+      "people": "黃筠晰、施映辰、陳睦云、張喬茵",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'57\"67",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1200公尺接力",
+      "people": "王芓晴、凃雁云、胡盈、黃宥菁",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4'02\"61",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1200公尺接力",
+      "people": "廖禹齊、黃懷寬、黃子晉、黃祺恩",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'48\"13",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1200公尺接力",
+      "people": "顧宸宇、王昊澤、許宸晰、林家禾",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 2'50\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1200公尺接力",
+      "people": "陳沛森 WINSTON CHEN、林威 LIN, WEI、沈譽康 CONNOR GREGORY SHEN、田冶 AARON TIEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2'50\"97",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1200公尺接力",
+      "people": "許恩曦、曾昱硯、劉奕鑫、黃弘易",
+      "classText": "高中部 高三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2'51\"57",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1200公尺接力",
+      "people": "王冠荣 WANG, KUAN-JUNG、李兆禾 LEE, CHAOHO CHRISTOPHER、朱明汐 AKINORI ZHU、温廷瑋 WEN, TING-WEI",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'07\"63",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組1200公尺接力",
+      "people": "李宇晴、陳宥心、楊喬安、蔡蔓妍",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'43\"68",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組1200公尺接力",
+      "people": "張翰晴、許舒涵、陳亮君、黃允潔",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'48\"00",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1200公尺接力",
+      "people": "陳澔、楊子昀、林頡、吳易澄",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'01\"90",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1200公尺接力",
+      "people": "劉丞凱、陳沂澤、吳定駬、范晴幃",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'03\"61",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1200公尺接力",
+      "people": "林翊展、陳品碩、胡耀升、陳霈暟",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'10\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1200公尺接力",
+      "people": "徐子安 TZU-AN HSU、杜奕泉 OWEN TO、于子恩 YU, ZI-EN、何光曦 LUCAS HE",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'19\"46",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1200公尺接力",
+      "people": "林彥勳、劉宗哲、戴敬哲、許晏瑀",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'20\"01",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1200公尺接力",
+      "people": "吳杰駬、黃仲藝、許永昀、吳清源",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'22\"80",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1200公尺接力",
+      "people": "朱姵霓 JHU, PEI NI、李育馨 LEE, YU-HSIN、張心盈 CHANG, AUDRINA、黎在悠 JOY YAU LAI",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'38\"92",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1200公尺接力",
+      "people": "蔡牧洵、郭耘初、曾芃潔、傅晨熏",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'40\"44",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1200公尺接力",
+      "people": "蔡馨儀、詹理茵、方韵晴、雲羿喬",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'46\"72",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1200公尺接力",
+      "people": "柳宣彩、郭語甯、顏采馨、陳芃語",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'49\"27",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1200公尺接力",
+      "people": "劉佳穎、江昕芸、王婕芸、劉品慈",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'59\"06",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1200公尺接力",
+      "people": "邱敏軒、林彥希、洪敏嘉、楊幼沂",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4'01\"40",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1200公尺接力",
+      "people": "許顥澂、林新叡、陳睿騏、洪帷翔",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'31\"22",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1200公尺接力",
+      "people": "楊秉新、顏亦為、廖晨宇、鄭兆峰",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'31\"47",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1200公尺接力",
+      "people": "趙宇程 JONATHAN LIN CHAO、王瀚緯 AUSTIN HANWEI WANG、王翔 SEAN WANG、林已宸 LIN, YI-CHEN",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'40\"55",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1200公尺接力",
+      "people": "陳令宸、陳永捷、陳威臣、陳佑東",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'41\"69",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1200公尺接力",
+      "people": "張子謙、林宇崙、李冠達、劉秉彥",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'48\"25",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1200公尺接力",
+      "people": "陳璿閎、林品辰、劉琯博、郭宴呈",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'52\"44",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組800公尺",
+      "people": "程子奕",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'32\"18",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組800公尺",
+      "people": "陳沛森 WINSTON CHEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 2'32\"42",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組800公尺",
+      "people": "田冶 AARON TIEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2'33\"79",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組800公尺",
+      "people": "李勻睿",
+      "classText": "高中部 高三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2'35\"08",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組800公尺",
+      "people": "周掌符",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'14\"36",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組800公尺",
+      "people": "林呈叡",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 2'28\"55",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組800公尺",
+      "people": "張雁頡",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2'39\"14",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組800公尺",
+      "people": "黃懷仁",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2'40\"46",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組800公尺",
+      "people": "宋忻叡",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 2'43\"74",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組800公尺",
+      "people": "陳昱叡",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2'49\"04",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組800公尺",
+      "people": "范熙庭",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'27\"43",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組800公尺",
+      "people": "余武洲",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 2'31\"89",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組800公尺",
+      "people": "潘品宬",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2'34\"41",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組800公尺",
+      "people": "鍾上閔",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2'36\"12",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組800公尺",
+      "people": "陳樂澂",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 2'42\"02",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組800公尺",
+      "people": "謝其軒",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2'43\"32",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組800公尺",
+      "people": "王裕澔",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'28\"13",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組800公尺",
+      "people": "李允誠",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 2'29\"16",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組800公尺",
+      "people": "林隽先",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2'35\"93",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組800公尺",
+      "people": "丁冠瑋",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2'38\"55",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組800公尺",
+      "people": "陳凱祥",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 2'38\"98",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組800公尺",
+      "people": "廖彥鈞",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2'46\"09",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組800公尺",
+      "people": "楊子昀",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'22\"44",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組800公尺",
+      "people": "林頡",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 2'32\"48",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組800公尺",
+      "people": "蘇宥晨",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2'53\"27",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組800公尺",
+      "people": "吳清源",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2'55\"08",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組800公尺",
+      "people": "李軒廷",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'06\"28",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組800公尺",
+      "people": "楊典翰",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'09\"73",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組800公尺",
+      "people": "姚雲程",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'32\"94",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組800公尺",
+      "people": "黃品翰",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'34\"82",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組800公尺",
+      "people": "陳永捷",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2'47\"52",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組800公尺",
+      "people": "廖晨宇",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2'48\"93",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組800公尺",
+      "people": "謝友齊",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 2'50\"75",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組800公尺",
+      "people": "張子謙",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2'51\"35",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組800公尺",
+      "people": "黃筠晰",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'01\"84",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組800公尺",
+      "people": "王芓晴",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'16\"65",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組800公尺",
+      "people": "高苡芹 YI CHIN KAO",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'18\"49",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組800公尺",
+      "people": "晏紹禹 YEN, SHEREE",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'25\"08",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組800公尺",
+      "people": "林塏芹 ARIEL LIN",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'27\"93",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組800公尺",
+      "people": "邱予馨",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'30\"88",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組800公尺",
+      "people": "鄭妍允",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'03\"69",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組800公尺",
+      "people": "蔡蔓妍",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'12\"03",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組800公尺",
+      "people": "莊敏若",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'24\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組800公尺",
+      "people": "林維恩",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'28\"45",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組800公尺",
+      "people": "唐嘉俞",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'45\"78",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組800公尺",
+      "people": "高以芯",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'49\"63",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組800公尺",
+      "people": "宋家馨 MIRABELLE SONG JIA SING",
+      "classText": "雙語部 十年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'00\"99",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組800公尺",
+      "people": "李宥蓁",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'03\"04",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組800公尺",
+      "people": "陳愛禮",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'10\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組800公尺",
+      "people": "林忻柔",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'18\"06",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組800公尺",
+      "people": "李延智 LEE, YEONJI EMILIA",
+      "classText": "雙語部 十年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'20\"84",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組800公尺",
+      "people": "陳奕平",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'28\"33",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組800公尺",
+      "people": "王品云",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3'08\"31",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組800公尺",
+      "people": "盧愷伶 KATELYN MAY LU",
+      "classText": "雙語部 九年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'16\"09",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組800公尺",
+      "people": "梅語恩",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'26\"33",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組800公尺",
+      "people": "彭亞娜",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'27\"48",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組800公尺",
+      "people": "黃晨涵",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'29\"27",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組800公尺",
+      "people": "楊晴羽",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'37\"99",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組800公尺",
+      "people": "郭耘初",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'59\"20",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組800公尺",
+      "people": "柳宣彩",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'01\"84",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組800公尺",
+      "people": "張心盈 CHANG, AUDRINA",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'11\"06",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組800公尺",
+      "people": "詹理茵",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'13\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組800公尺",
+      "people": "范允喬",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'21\"70",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組800公尺",
+      "people": "李玥霈",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'25\"98",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組800公尺",
+      "people": "許宇萱",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 2'44\"74",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組800公尺",
+      "people": "何怡昕",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3'06\"35",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組800公尺",
+      "people": "陳宣穎",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3'10\"01",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組800公尺",
+      "people": "曾宥瑄",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3'25\"41",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組800公尺",
+      "people": "温然",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3'26\"43",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組800公尺",
+      "people": "楊千葳",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3'30\"49",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳遠",
+      "people": "劉書菲",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3.29m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳遠",
+      "people": "紀蘊宸",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3.25m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳遠",
+      "people": "李悅",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 2.82m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳遠",
+      "people": "李佳穎",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2.63m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳遠",
+      "people": "曹淳晴",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 2.58m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳遠",
+      "people": "汪琦 ANG GEL",
+      "classText": "雙語部 九年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2.57m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳遠",
+      "people": "黃詩涵",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3.66m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳遠",
+      "people": "黃妍恩",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3.57m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳遠",
+      "people": "蔡馨儀",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3.48m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳遠",
+      "people": "湯雅晴",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.44m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳遠",
+      "people": "蔡涪心",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳遠",
+      "people": "何姵澐",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2.94m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳遠",
+      "people": "鄭雅葳",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3.70m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳遠",
+      "people": "劉玟禎 YU, MINJEONG",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3.51m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳遠",
+      "people": "宮脇未若 MIYAWAKI, MIWA",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3.27m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳遠",
+      "people": "謝依伶",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.17m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳遠",
+      "people": "董芹頤",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 2.88m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳遠",
+      "people": "尤星希",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2.76m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳遠",
+      "people": "林君濡 LIN, CHUN-JU",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3.86m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳遠",
+      "people": "李恩宇",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3.67m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳遠",
+      "people": "陳佑東",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳遠",
+      "people": "杜嘉宸",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.40m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳遠",
+      "people": "羅少陽",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3.38m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳遠",
+      "people": "張翰昇",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3.31m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳遠",
+      "people": "陳沂澤",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 4.58m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳遠",
+      "people": "詹沛樺",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 4.49m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳遠",
+      "people": "張洸暢",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.24m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳遠",
+      "people": "盧竑齊",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4.23m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳遠",
+      "people": "許永昀",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.19m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳遠",
+      "people": "黃祉皞",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3.98m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳遠",
+      "people": "張紘嘉",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5.06m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳遠",
+      "people": "劉進陽",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 4.92m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳遠",
+      "people": "蘇冠瑜",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.60m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳遠",
+      "people": "林均燁",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4.47m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳遠",
+      "people": "鄭兆淞",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.43m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳遠",
+      "people": "楊展琦",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4.23m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組鉛球",
+      "people": "簡喆祥",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 8.61m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組鉛球",
+      "people": "林冠呈",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 8.53m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組鉛球",
+      "people": "洪仕軒",
+      "classText": "高中部 高三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 8.34m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組鉛球",
+      "people": "柳禮濬 YE JUN RYOO",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 7.35m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組鉛球",
+      "people": "鍾紀勳",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 9.34m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組鉛球",
+      "people": "王士軒 TRISTAN WANG",
+      "classText": "雙語部 十一年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 8.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組鉛球",
+      "people": "李浩宇 LEE, HAO-YU",
+      "classText": "雙語部 十一年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 8.03m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組鉛球",
+      "people": "王璿溥",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 7.96m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組鉛球",
+      "people": "陳奕朋",
+      "classText": "高中部 高二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 6.63m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組鉛球",
+      "people": "黃懷仁",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 6.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組鉛球",
+      "people": "呂紹佐",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 9.37m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組鉛球",
+      "people": "廖冠霖",
+      "classText": "高中部 高一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 8.52m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組鉛球",
+      "people": "張予懷",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 8.21m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組鉛球",
+      "people": "許崇瀚 HENRY CHONG-HAN SHEU",
+      "classText": "雙語部 十年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 7.69m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組鉛球",
+      "people": "謝辰恩",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 7.56m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組鉛球",
+      "people": "鍾定緯",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 7.16m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳高",
+      "people": "黃弘易",
+      "classText": "高中部 高三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.65m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳高",
+      "people": "許宸晰",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.60m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳高",
+      "people": "黃子軒",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳高",
+      "people": "葉海堯 ADRIEN CHARLES YEH",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳高",
+      "people": "尤紹宇",
+      "classText": "高中部 高三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳高",
+      "people": "劉育安",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.45m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳高",
+      "people": "唐瑋",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.60m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳高",
+      "people": "張天宇",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳高",
+      "people": "鄭直澄",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳高",
+      "people": "邱宥凱",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳高",
+      "people": "蔡予銓",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳高",
+      "people": "朴省泫 SUNG HYOUN PARK",
+      "classText": "雙語部 十一年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳高",
+      "people": "呂紹佐",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳高",
+      "people": "言沛可 LUCAS PEIKE YAN",
+      "classText": "雙語部 十年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳高",
+      "people": "賴冠勳",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.50m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳高",
+      "people": "馮畊筌",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.45m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳高",
+      "people": "賴柏睿",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.45m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳高",
+      "people": "陳樂澂",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.40m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳高",
+      "people": "朱昱諾 JHU, YU NUO",
+      "classText": "雙語部 十年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.40m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組鉛球",
+      "people": "吳揚勳",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 7.71m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組鉛球",
+      "people": "蔡博堯 TIMOTHY TSAI",
+      "classText": "雙語部 九年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 7.39m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組鉛球",
+      "people": "林卲恩",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 7.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組鉛球",
+      "people": "朴友涵 JOHANNES TIEDEMANN",
+      "classText": "雙語部 九年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 5.95m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組鉛球",
+      "people": "林楷傑",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 5.92m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組鉛球",
+      "people": "蘇湧捷",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 5.42m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組鉛球",
+      "people": "范晴幃",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 8.06m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組鉛球",
+      "people": "鍾亨利 HENRY JAMES CHUNG PROUTON",
+      "classText": "雙語部 八年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 7.82m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組鉛球",
+      "people": "陳柏云",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 6.75m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組鉛球",
+      "people": "蔡喜安",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 6.71m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組鉛球",
+      "people": "林宸雋 LIN, HUDSON JAMES",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 6.70m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組鉛球",
+      "people": "曾湧期",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 6.22m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組鉛球",
+      "people": "沈明韜",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 7.56m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組鉛球",
+      "people": "羅少陽",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 6.60m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組鉛球",
+      "people": "鄭猷莨 ZACHARY YOU LIANG TEH",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.88m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組鉛球",
+      "people": "許典哲",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4.75m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組鉛球",
+      "people": "曾䇹程",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.72m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組鉛球",
+      "people": "金尊祈 KIM ZUN-KI",
+      "classText": "雙語部 七年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4.37m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組鉛球",
+      "people": "陳采緹",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 7.73m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組鉛球",
+      "people": "林聿妡",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 6.06m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組鉛球",
+      "people": "白詩筠 EMMA KELLY PAI",
+      "classText": "雙語部 九年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.89m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組鉛球",
+      "people": "張晏",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4.45m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組鉛球",
+      "people": "何曼尼 MAN-NI HO",
+      "classText": "雙語部 九年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.40m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組鉛球",
+      "people": "陳映禕",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4.36m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組鉛球",
+      "people": "蔡舒婷",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 6.99m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組鉛球",
+      "people": "董芹頤",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5.71m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組鉛球",
+      "people": "黎采沛",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 5.12m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組鉛球",
+      "people": "廖定芊",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4.78m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組鉛球",
+      "people": "范珮嘉",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.38m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組鉛球",
+      "people": "林芮伊 LIN, REI-I",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4.03m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳遠",
+      "people": "張翰晴",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3.99m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳遠",
+      "people": "吳育靚",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3.76m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳遠",
+      "people": "陳奕安",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3.17m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳遠",
+      "people": "莊舒涵",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 2.88m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳遠",
+      "people": "李秀仁 SUIN LEE",
+      "classText": "雙語部 十一年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 2.56m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳遠",
+      "people": "姜雅晴",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2.51m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳遠",
+      "people": "黃珮綺",
+      "classText": "高中部 高一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3.92m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳遠",
+      "people": "傅郁璇",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3.82m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳遠",
+      "people": "沈新喬",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3.64m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳遠",
+      "people": "張予喬",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.36m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳遠",
+      "people": "翁千喬",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3.28m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳遠",
+      "people": "NIDHARSHINI RAMESH",
+      "classText": "雙語部 十年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3.27m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳遠",
+      "people": "洪翊庭",
+      "classText": "高中部 高三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 3.93m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳遠",
+      "people": "莊孟貞 AUDREY MENGCHEN CHUANG",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 3.66m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳遠",
+      "people": "晏紹禹 YEN, SHEREE",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 3.22m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳遠",
+      "people": "林延芹",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.06m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳遠",
+      "people": "余昀叡",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3.03m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳遠",
+      "people": "張尹安",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 2.82m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳高",
+      "people": "林愷歆 SARAH KAIHSIN LIN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.20m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳高",
+      "people": "施映辰",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳高",
+      "people": "彭韓諾 HANNAH PENG",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳高",
+      "people": "巫雨真 WU, YU-JEN",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組跳高",
+      "people": "廖婕羽 CARICE LIAO",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳高",
+      "people": "吳育靚",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.20m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳高",
+      "people": "莊舒涵",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳高",
+      "people": "平卉云",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳高",
+      "people": "黃允潔",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳高",
+      "people": "簡子棠",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組跳高",
+      "people": "李河靜 HAJEONG LEE",
+      "classText": "雙語部 十一年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳高",
+      "people": "沈新喬",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳高",
+      "people": "吳芷伶",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳高",
+      "people": "莊詠恩",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳高",
+      "people": "薛文玥",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳高",
+      "people": "張妤瑄",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳高",
+      "people": "呂沛穎",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組跳高",
+      "people": "賴妍品 LAI, YAN-PIN",
+      "classText": "雙語部 十年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組200公尺",
+      "people": "許恩曦",
+      "classText": "高中部 高三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 25\"53",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組200公尺",
+      "people": "林威 LIN, WEI",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 25\"79",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組200公尺",
+      "people": "盧澤昇",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 28\"29",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組200公尺",
+      "people": "沈譽康 CONNOR GREGORY SHEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 28\"96",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組200公尺",
+      "people": "潘友實",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 29\"75",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組200公尺",
+      "people": "林湋臻",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 26\"95",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組200公尺",
+      "people": "陳奕安",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 28\"25",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組200公尺",
+      "people": "李昂軒",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 28\"38",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組200公尺",
+      "people": "詹沛樺",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 28\"46",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組200公尺",
+      "people": "吳定駬",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 28\"66",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組200公尺",
+      "people": "劉宗哲",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 28\"87",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組200公尺",
+      "people": "郭芸希",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 31\"02",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組200公尺",
+      "people": "趙綵婕",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 32\"06",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組200公尺",
+      "people": "蔡牧洵",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 32\"58",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組200公尺",
+      "people": "詹筑茵 CHAN, CHU-YIN",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 33\"09",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組200公尺",
+      "people": "葉紫緹",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 33\"61",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組200公尺",
+      "people": "邱敏軒",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 33\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳高",
+      "people": "傅晨熏",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.25m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳高",
+      "people": "湯雅晴",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.20m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳高",
+      "people": "顏采馨",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳高",
+      "people": "要心雅 NG SIN YA",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳高",
+      "people": "鍾嫚芝",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組跳高",
+      "people": "方韵晴",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組1500公尺",
+      "people": "陳碩賢",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5'18\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組1500公尺",
+      "people": "廖子洋",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5'20\"41",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組1500公尺",
+      "people": "陳泰瑞 CHEN, TAI-RUEI",
+      "classText": "雙語部 十年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 5'37\"28",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組1500公尺",
+      "people": "張軒",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 5'38\"79",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組1500公尺",
+      "people": "吳承諺",
+      "classText": "高中部 高一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 5'40\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組1500公尺",
+      "people": "鍾上閔",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 5'44\"78",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組1500公尺",
+      "people": "王裕澔",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5'23\"73",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組1500公尺",
+      "people": "林隽先",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5'32\"11",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組1500公尺",
+      "people": "徐子皓 TZU-HAO HSU",
+      "classText": "雙語部 九年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 5'32\"58",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組1500公尺",
+      "people": "李允誠",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 5'32\"86",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組1500公尺",
+      "people": "余曜丞",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 5'45\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組1500公尺",
+      "people": "陳曦",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 5'49\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1500公尺",
+      "people": "顧宸宇",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 4'59\"83",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1500公尺",
+      "people": "田冶 AARON TIEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5'19\"63",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1500公尺",
+      "people": "曾昱硯",
+      "classText": "高中部 高三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 5'35\"61",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1500公尺",
+      "people": "陳宥銘",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 5'36\"24",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1500公尺",
+      "people": "蘇泓霖",
+      "classText": "高中部 高三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 5'44\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組1500公尺",
+      "people": "顏劭恩",
+      "classText": "高中部 高三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 6'48\"40",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組1500公尺",
+      "people": "周掌符",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5'02\"75",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組1500公尺",
+      "people": "林呈叡",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5'18\"63",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組1500公尺",
+      "people": "劉峻睿",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 5'53\"07",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組1500公尺",
+      "people": "黃楷傑",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 5'53\"38",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組1500公尺",
+      "people": "彭御哲",
+      "classText": "高中部 高二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 6'02\"47",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組1500公尺",
+      "people": "陳昱叡",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 6'13\"47",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1500公尺",
+      "people": "楊子昀",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5'03\"01",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1500公尺",
+      "people": "林頡",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5'13\"66",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1500公尺",
+      "people": "徐子安 TZU-AN HSU",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 5'32\"75",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1500公尺",
+      "people": "王昱文",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 5'44\"66",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1500公尺",
+      "people": "胡耀升",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 5'52\"20",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組1500公尺",
+      "people": "林彥勳",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 5'54\"23",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1500公尺",
+      "people": "姚雲程",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5'43\"24",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1500公尺",
+      "people": "陳睿騏",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5'55\"93",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1500公尺",
+      "people": "西山祐翔 NISHIYAMA YUTO",
+      "classText": "雙語部 七年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 6'03\"86",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1500公尺",
+      "people": "郭宴呈",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 6'07\"41",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1500公尺",
+      "people": "鍾承諺",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 6'10\"20",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組1500公尺",
+      "people": "陳令宸",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 6'11\"82",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1500公尺",
+      "people": "温龢",
+      "classText": "高中部 高三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5'43\"14",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1500公尺",
+      "people": "黃筠晰",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 7'04\"76",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1500公尺",
+      "people": "高苡芹 YI CHIN KAO",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 7'18\"29",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1500公尺",
+      "people": "黃宣宇 HUANG, HSUAN-YU",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 7'23\"65",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1500公尺",
+      "people": "邱予馨",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 7'48\"26",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組1500公尺",
+      "people": "馮雅詩 JULIET NGA SZE FUNG",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 8'24\"95",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組1500公尺",
+      "people": "鄭妍允",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 6'43\"86",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組1500公尺",
+      "people": "林維恩",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 7'22\"96",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組1500公尺",
+      "people": "高以芯",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 7'49\"85",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組1500公尺",
+      "people": "唐嘉俞",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 8'09\"97",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組1500公尺",
+      "people": "宋家馨 MIRABELLE SONG JIA SING",
+      "classText": "雙語部 十年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 6'26\"17",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組1500公尺",
+      "people": "李宥蓁",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 6'32\"65",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組1500公尺",
+      "people": "黃岑琋",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 6'41\"49",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組1500公尺",
+      "people": "吳宥欣",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 6'53\"22",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組1500公尺",
+      "people": "林忻柔",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 7'12\"91",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組1500公尺",
+      "people": "陳奕平",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 7'30\"79",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組1500公尺",
+      "people": "劉書菲",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 6'59\"88",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組1500公尺",
+      "people": "藍永薰",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 7'18\"37",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組1500公尺",
+      "people": "楊晴羽",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 8'04\"21",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組1500公尺",
+      "people": "李佳穎",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 8'05\"10",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組1500公尺",
+      "people": "丁亦允",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 8'05\"45",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組1500公尺",
+      "people": "熊谷優里 YURI KUMAGAI",
+      "classText": "雙語部 九年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 8'23\"13",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1500公尺",
+      "people": "黎在悠 JOY YAU LAI",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 6'37\"83",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1500公尺",
+      "people": "張心盈 CHANG, AUDRINA",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 6'38\"12",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1500公尺",
+      "people": "詹理茵",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 6'52\"86",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1500公尺",
+      "people": "李歆悠",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 6'53\"42",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1500公尺",
+      "people": "范允喬",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 6'53\"54",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組1500公尺",
+      "people": "張瑀心",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 7'04\"47",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組1500公尺",
+      "people": "李明擇 VERA LEE",
+      "classText": "雙語部 七年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 6'34\"56",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組1500公尺",
+      "people": "詹皓羽",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 6'48\"05",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組1500公尺",
+      "people": "梁詠喬",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 6'51\"55",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組1500公尺",
+      "people": "宮脇未若 MIYAWAKI, MIWA",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 6'54\"72",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組1500公尺",
+      "people": "吳宣頤",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 7'35\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組1500公尺",
+      "people": "洪嫙翎",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 7'42\"85",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組400公尺",
+      "people": "陳沛森 WINSTON CHEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'04\"51",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組400公尺",
+      "people": "顏劭恩",
+      "classText": "高中部 高三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'07\"30",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組400公尺",
+      "people": "沈譽康 CONNOR GREGORY SHEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'10\"53",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組400公尺",
+      "people": "張心又",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'16\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組400公尺",
+      "people": "孫悦 JOYCE YUE SUN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'18\"74",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組400公尺",
+      "people": "林愷歆 SARAH KAIHSIN LIN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'22\"65",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組400公尺",
+      "people": "張尹安",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'31\"16",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組400公尺",
+      "people": "林尚恩",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 57\"93",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組400公尺",
+      "people": "李易儒",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 59\"33",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組400公尺",
+      "people": "洪立鋌",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 59\"89",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組400公尺",
+      "people": "朱哲恩 CHIT YAN CHU",
+      "classText": "雙語部 十一年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'04\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組400公尺",
+      "people": "李岳恆",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'05\"03",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組400公尺",
+      "people": "顏司承",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'07\"09",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組400公尺",
+      "people": "張翰晴",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'17\"20",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組400公尺",
+      "people": "蔡蔓妍",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'17\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組400公尺",
+      "people": "戴彩涵",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'43\"62",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組400公尺",
+      "people": "林孟蓁",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'54\"91",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組400公尺",
+      "people": "陳亭瑜",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'58\"66",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組400公尺",
+      "people": "陳宥羽",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'14\"04",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組400公尺",
+      "people": "鍾茉莉 EMILIA MOLLY CHUNG PROUTON",
+      "classText": "雙語部 十年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'19\"54",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組400公尺",
+      "people": "徐苡珊",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'22\"48",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組400公尺",
+      "people": "吳穎盈",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'23\"97",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組400公尺",
+      "people": "洪曼綾",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'24\"88",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組400公尺",
+      "people": "葉子禕",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'25\"56",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組400公尺",
+      "people": "潘泰倫 TAI LUN ISAAC PAN",
+      "classText": "雙語部 九年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'02\"46",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組400公尺",
+      "people": "林子瑀",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'02\"93",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組400公尺",
+      "people": "陳紀愷",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'05\"31",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組400公尺",
+      "people": "范祐嘉",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'05\"79",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組400公尺",
+      "people": "洪丞彥",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'06\"54",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組400公尺",
+      "people": "林保毅",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'07\"03",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組400公尺",
+      "people": "謝沐耘",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'13\"88",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組400公尺",
+      "people": "王品云",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'17\"60",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組400公尺",
+      "people": "羅姵涵",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'21\"98",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組400公尺",
+      "people": "陳昱彤",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'24\"75",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組400公尺",
+      "people": "吳詠璿",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'24\"91",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組400公尺",
+      "people": "千至誠 JISUNG CHUN",
+      "classText": "雙語部 九年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'34\"57",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組400公尺",
+      "people": "陳沂澤",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'06\"03",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組400公尺",
+      "people": "劉丞凱",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'09\"31",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組400公尺",
+      "people": "吳易澄",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'09\"73",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組400公尺",
+      "people": "蔡雋慈",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'09\"95",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組400公尺",
+      "people": "朱羽軒",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'10\"48",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組400公尺",
+      "people": "黃仲藝",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'13\"54",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組400公尺",
+      "people": "黎在悠 JOY YAU LAI",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'16\"59",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組400公尺",
+      "people": "郭耘初",
+      "classText": "國中部 國二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'16\"81",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組400公尺",
+      "people": "徐子晴",
+      "classText": "國中部 國二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'17\"10",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組400公尺",
+      "people": "雲羿喬",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'22\"67",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組400公尺",
+      "people": "楊幼沂",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'25\"32",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二女子組400公尺",
+      "people": "林彥希",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'25\"50",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組400公尺",
+      "people": "林已宸 LIN, YI-CHEN",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'11\"37",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組400公尺",
+      "people": "謝友齊",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'11\"72",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組400公尺",
+      "people": "姜信宇",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'13\"74",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組400公尺",
+      "people": "陳威臣",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'14\"01",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組400公尺",
+      "people": "蘇韋智",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'16\"83",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組400公尺",
+      "people": "黃世昕",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'16\"95",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組400公尺",
+      "people": "鍾忻宸",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1'07\"03",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組400公尺",
+      "people": "張芮芹",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1'17\"78",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組400公尺",
+      "people": "郭芝璇",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1'21\"28",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組400公尺",
+      "people": "許勻禎",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1'22\"94",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組400公尺",
+      "people": "李明擇 VERA LEE",
+      "classText": "雙語部 七年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1'24\"68",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組400公尺",
+      "people": "簡楀恬 AMBER CHIEN",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1'29\"38",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組200公尺",
+      "people": "許采真 HSU, TSAI-CHEN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 33\"83",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組200公尺",
+      "people": "姜沛薰 CHIANG, PEI-HSUN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 34\"28",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組200公尺",
+      "people": "唐瑋",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 26\"61",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組200公尺",
+      "people": "王璿溥",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 26\"98",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組200公尺",
+      "people": "蔡予銓",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 27\"26",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組200公尺",
+      "people": "梁承瑞",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 28\"47",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組200公尺",
+      "people": "吳詠樂",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 28\"55",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組200公尺",
+      "people": "高譽甄",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 33\"54",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組200公尺",
+      "people": "張詠晴",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 33\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組200公尺",
+      "people": "楊耘綺",
+      "classText": "高中部 高二 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 33\"80",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組200公尺",
+      "people": "楊喬安",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 35\"13",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組200公尺",
+      "people": "范熙庭",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 25\"12",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組200公尺",
+      "people": "黃柏晨 NG BO CHEN",
+      "classText": "雙語部 十年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 25\"51",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組200公尺",
+      "people": "葉和磬",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 26\"01",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組200公尺",
+      "people": "許恩碩",
+      "classText": "高中部 高一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 26\"29",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組200公尺",
+      "people": "張哲睿",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 26\"42",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組200公尺",
+      "people": "張善祈",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 26\"74",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組200公尺",
+      "people": "楊子瑤",
+      "classText": "高中部 高一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 30\"70",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組200公尺",
+      "people": "傅郁璇",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 32\"71",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組200公尺",
+      "people": "吳芷伶",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 33\"03",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組200公尺",
+      "people": "張喬涵",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 33\"89",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組200公尺",
+      "people": "蘇品家",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 34\"28",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組200公尺",
+      "people": "翁千喬",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 35\"27",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組200公尺",
+      "people": "陳允睿",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 25\"83",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組200公尺",
+      "people": "鄭兆淞",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 26\"33",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組200公尺",
+      "people": "梁瑜祐",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 26\"67",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組200公尺",
+      "people": "劉易錡",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 26\"85",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組200公尺",
+      "people": "楊展琦",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 26\"98",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組200公尺",
+      "people": "劉昇澔",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 27\"25",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組200公尺",
+      "people": "盧愷伶 KATELYN MAY LU",
+      "classText": "雙語部 九年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 29\"86",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組200公尺",
+      "people": "謝沐耘",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 30\"60",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組200公尺",
+      "people": "詹允寧",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 32\"31",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組200公尺",
+      "people": "吳詠璿",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 34\"02",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組200公尺",
+      "people": "李昕璇",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 34\"27",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組200公尺",
+      "people": "羅姵涵",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 34\"32",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組200公尺",
+      "people": "陳宇威",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 27\"87",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組200公尺",
+      "people": "黃品翰",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 28\"30",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組200公尺",
+      "people": "楊秉新",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 29\"59",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組200公尺",
+      "people": "劉鐘燦 YU, JONGCHAN",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 29\"85",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組200公尺",
+      "people": "林已宸 LIN, YI-CHEN",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 30\"56",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組200公尺",
+      "people": "陳永捷",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 30\"92",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組200公尺",
+      "people": "鍾忻宸",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 28\"42",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組200公尺",
+      "people": "陳宥璇",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 29\"89",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組200公尺",
+      "people": "張芙榕",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 32\"87",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組200公尺",
+      "people": "吳妤珍",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 33\"19",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組200公尺",
+      "people": "黎采沛",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 34\"35",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組200公尺",
+      "people": "吳若熙 DOREEN RUOSI WU",
+      "classText": "雙語部 七年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 34\"57",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳遠",
+      "people": "李亮熹 LEE, LIANG-HSI",
+      "classText": "雙語部 十一年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 4.93m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳遠",
+      "people": "許毅弘",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 4.92m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳遠",
+      "people": "蔡明哲",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.60m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳遠",
+      "people": "曼東 MADHAN CHANDRASEKAR",
+      "classText": "雙語部 十一年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4.46m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳遠",
+      "people": "許家睿",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.24m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳遠",
+      "people": "陳柏元",
+      "classText": "高中部 高二 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4.20m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二男子組跳遠",
+      "people": "王海天 WANG, HAI-TIEN",
+      "classText": "雙語部 十一年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4.20m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳遠",
+      "people": "張凱捷",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5.18m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳遠",
+      "people": "李以律 LEE, YI-LU",
+      "classText": "雙語部 十年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 4.54m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳遠",
+      "people": "林品葳",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.33m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳遠",
+      "people": "張軒",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.33m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳遠",
+      "people": "曾奕語",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.04m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一男子組跳遠",
+      "people": "張晉緁",
+      "classText": "高中部 高一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3.97m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳遠",
+      "people": "王昊澤",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 4.88m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳遠",
+      "people": "胡至謙",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 4.51m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳遠",
+      "people": "廖禹齊",
+      "classText": "高中部 高三 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.48m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳遠",
+      "people": "楓逸",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 4.36m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳遠",
+      "people": "周家民",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 4.32m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三男子組跳遠",
+      "people": "呂愷翔",
+      "classText": "高中部 高三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 4.21m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組鉛球",
+      "people": "姜沛薰 CHIANG, PEI-HSUN",
+      "classText": "雙語部 十二年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 6.89m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組鉛球",
+      "people": "石函玉",
+      "classText": "高中部 高三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組鉛球",
+      "people": "鄭詠艾 OLIVIA LEE CHENG",
+      "classText": "雙語部 十二年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.97m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高三女子組鉛球",
+      "people": "許芷綦",
+      "classText": "高中部 高三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.81m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組鉛球",
+      "people": "陳奕安",
+      "classText": "高中部 高二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 7.88m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組鉛球",
+      "people": "秦苡德 CHUN, YI TE",
+      "classText": "雙語部 十一年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 6.31m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組鉛球",
+      "people": "蔡榕恩",
+      "classText": "高中部 高二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 4.82m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組鉛球",
+      "people": "洪雲雙",
+      "classText": "高中部 高二 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.86m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高二女子組鉛球",
+      "people": "張宸昕",
+      "classText": "高中部 高二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3.80m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組鉛球",
+      "people": "黃德瑩",
+      "classText": "高中部 高一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 5.92m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組鉛球",
+      "people": "翁詩貽",
+      "classText": "高中部 高一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 5.39m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組鉛球",
+      "people": "劉靜香",
+      "classText": "高中部 高一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 5.11m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組鉛球",
+      "people": "邱子玹",
+      "classText": "高中部 高一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 3.77m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組鉛球",
+      "people": "李采潔",
+      "classText": "高中部 高一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 3.72m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "高一女子組鉛球",
+      "people": "吳宥欣",
+      "classText": "高中部 高一 六班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 3.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳高",
+      "people": "黃筠茜",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.25m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳高",
+      "people": "李佳芸",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.25m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳高",
+      "people": "何映辰 TAYLA HARVEY",
+      "classText": "雙語部 九年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳高",
+      "people": "呂珈昕",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳高",
+      "people": "詹采萱",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三女子組跳高",
+      "people": "林聿妡",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳高",
+      "people": "梁詠喬",
+      "classText": "國中部 國一 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.20m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳高",
+      "people": "蔡慕亞",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.10m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳高",
+      "people": "柯琳恩",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳高",
+      "people": "謝靚穎",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳高",
+      "people": "蔡舒婷",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.05m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳高",
+      "people": "葉奕妡 YEH, YI-HSIN",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.00m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一女子組跳高",
+      "people": "葉宸甄",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.00m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳高",
+      "people": "林律甫",
+      "classText": "國中部 國三 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳高",
+      "people": "張簡楷宸",
+      "classText": "國中部 國三 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳高",
+      "people": "鄭詠文",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.5m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳高",
+      "people": "陳宥丞",
+      "classText": "國中部 國三 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.5m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳高",
+      "people": "劉大維",
+      "classText": "國中部 國三 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.5m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國三男子組跳高",
+      "people": "林卲恩",
+      "classText": "國中部 國三 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.45m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳高",
+      "people": "陳澔",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.65m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳高",
+      "people": "陳奕安",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.65m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳高",
+      "people": "高瑋辰",
+      "classText": "國中部 國二 五班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第三名 1.6m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳高",
+      "people": "杜奕泉 OWEN TO",
+      "classText": "雙語部 八年 B班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第四名 1.55m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳高",
+      "people": "邱楷桀",
+      "classText": "國中部 國二 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.4m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國二男子組跳高",
+      "people": "盧竑齊",
+      "classText": "國中部 國二 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.35m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳高",
+      "people": "吳宇軒",
+      "classText": "國中部 國一 一班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第一名 1.35m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳高",
+      "people": "張子謙",
+      "classText": "國中部 國一 二班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.25m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳高",
+      "people": "陳楨允 ANDRE CHEN",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.25m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳高",
+      "people": "林君濡 LIN, CHUN-JU",
+      "classText": "雙語部 七年 A班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第二名 1.25m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳高",
+      "people": "蔡羽棠",
+      "classText": "國中部 國一 四班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第五名 1.15m",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "time": "2026-11-13T07:04:07+00:00",
+      "type": "removed",
+      "eventName": "國一男子組跳高",
+      "people": "侯冠綸",
+      "classText": "國中部 國一 三班",
+      "changes": [
+        {
+          "label": "移除",
+          "before": "第六名 1.15m",
+          "after": ""
+        }
+      ]
+    }
+  ]
 }
