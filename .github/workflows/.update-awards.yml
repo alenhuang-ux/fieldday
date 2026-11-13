@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -34,10 +34,33 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Save previous data snapshot
+        run: cp award-site/awards-data.js /tmp/previous-awards-data.js
+
       - name: Fetch latest award records
         run: >
           python nehs-awards/scripts/update_awards.py
           --output award-site/awards-data.js
+
+      - name: Record update history
+        run: >
+          python nehs-awards/scripts/record_update_history.py
+          --previous /tmp/previous-awards-data.js
+          --current award-site/awards-data.js
+          --history award-site/update-history.json
+
+      - name: Commit updated data and history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add award-site/awards-data.js award-site/update-history.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: update award records $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin main
+            git push
+          fi
 
       - name: Prepare website
         run: |
