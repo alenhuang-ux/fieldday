@@ -1,5 +1,5 @@
-// Generated from https://jedi.nehs.hc.edu.tw/sport/award2.php at 2026-11-13T02:34:51+00:00. Do not edit by hand.
-window.AWARD_RECORDS_UPDATED_AT = "2026-11-13T02:34:51+00:00";
+// Generated from https://jedi.nehs.hc.edu.tw/sport/award2.php at 2026-11-13T02:40:36+00:00. Do not edit by hand.
+window.AWARD_RECORDS_UPDATED_AT = "2026-11-13T02:40:36+00:00";
 window.AWARD_RECORDS_SOURCE_URL = "https://jedi.nehs.hc.edu.tw/sport/award2.php";
 window.AWARD_RECORDS = [
   {
