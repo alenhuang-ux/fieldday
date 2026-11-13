@@ -48,6 +48,7 @@ const DEFAULT_CERTIFICATE_SETTINGS = {
   dateText: "中華民國一一五年十一月十五日",
   showBackground: true,
   fontScalePct: 100,
+  showRecordNote: true,
 };
 
 const A4_POINTS = {
@@ -151,6 +152,7 @@ const els = {
   markUpdatesRead: document.querySelector("#markUpdatesRead"),
   resultTitle: document.querySelector("#resultTitle"),
   previewTemplate: document.querySelector("#previewTemplate"),
+  showRecordNoteInput: document.querySelector("#showRecordNoteInput"),
   certificatePreviewList: document.querySelector("#certificatePreviewList"),
   certificatePrintStack: document.querySelector("#certificatePrintStack"),
   printRoot: document.querySelector("#printRoot"),
@@ -195,6 +197,10 @@ function loadCertificateSettings() {
         typeof parsed.showBackground === "boolean"
           ? parsed.showBackground
           : DEFAULT_CERTIFICATE_SETTINGS.showBackground,
+      showRecordNote:
+        typeof parsed.showRecordNote === "boolean"
+          ? parsed.showRecordNote
+          : DEFAULT_CERTIFICATE_SETTINGS.showRecordNote,
       fontScalePct: clampFontScale(parsed.fontScalePct),
     };
   } catch {
@@ -648,6 +654,13 @@ function bindEvents() {
     state.previewIndex = 0;
     renderPreview();
     els.previewDialog.showModal();
+  });
+
+  els.showRecordNoteInput.addEventListener("change", () => {
+    state.certificateSettings.showRecordNote = els.showRecordNoteInput.checked;
+    persistCertificateSettings();
+    renderPreview();
+    renderTemplateGallery();
   });
 
   els.printPreview.addEventListener("click", () => {
@@ -1217,6 +1230,7 @@ function bindRowEvents() {
 }
 
 function renderPreview() {
+  els.showRecordNoteInput.checked = state.certificateSettings.showRecordNote !== false;
   const items = getPreviewAwards();
 
   if (!items.length) {
@@ -1596,7 +1610,9 @@ function eventLines(item, labelX, valueX, [eventY, rankY, scoreY]) {
     certLeft(`${item.rankText}  ${item.rankEn}`, valueX, mainY(item.template, rankY + totalEventLineShift), 22),
     certLeft("成  績", labelX, scoreLineY, 22, labelWeight),
     certLeft(item.score, valueX, scoreLineY, 22),
-    item.note ? certNoteLeft(item.note, valueX + 118, scoreLineY, 15, 220) : "",
+    item.note && state.certificateSettings.showRecordNote !== false
+      ? certNoteLeft(item.note, valueX + 118, scoreLineY, 15, 220)
+      : "",
   ];
 }
 

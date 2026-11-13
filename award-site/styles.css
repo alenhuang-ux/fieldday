@@ -1880,3 +1880,20 @@ menu {
 .history-changes b {
   color: var(--ink);
 }
+
+/* 預覽列印選項 */
+.preview-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 850;
+  cursor: pointer;
+  user-select: none;
+}
+
+.preview-option:hover {
+  color: var(--ink);
+}
