@@ -87,6 +87,8 @@ const RELAY_EVENT_LINES_UP_PT = 20;
 const BILINGUAL_RELAY_EVENT_LINES_EXTRA_UP_PT = 10;
 const AWARD_LIST_ROWS_PER_PAGE = 16;
 const MAX_UPDATE_ITEMS = 40;
+const FONT_SCALE_CENTER_X = A4_POINTS.width / 2;
+const FONT_SCALE_CENTER_Y = 334;
 
 const awards = (window.AWARD_RECORDS ?? []).map(normalizeAward);
 const initialRecordUpdateState = detectRecordUpdates();
@@ -1678,11 +1680,14 @@ function fitNameFontSize(text, fontSize, maxWidthPt) {
 function certText(text, x, y, fontSize, align, weight, variant = "", maxWidthPt = null) {
   const scale = variant === "date" ? 1 : getFontScale();
   const scaledFontSize = Math.round(fontSize * scale * 100) / 100;
-  const left = (x / A4_POINTS.width) * 100;
-  const top = ((A4_POINTS.height - y) / A4_POINTS.height) * 100;
+  const scaledX = FONT_SCALE_CENTER_X + (x - FONT_SCALE_CENTER_X) * scale;
+  const scaledY = FONT_SCALE_CENTER_Y + (y - FONT_SCALE_CENTER_Y) * scale;
+  const scaledMaxWidth = maxWidthPt ? Math.round(maxWidthPt * scale * 100) / 100 : null;
+  const left = (scaledX / A4_POINTS.width) * 100;
+  const top = ((A4_POINTS.height - scaledY) / A4_POINTS.height) * 100;
   const weightClass = weight === "bold" ? " cert-bold" : "";
   const variantClass = variant ? ` cert-${variant}` : "";
-  const widthStyle = maxWidthPt ? ` --maxw:${maxWidthPt};` : "";
+  const widthStyle = scaledMaxWidth ? ` --maxw:${scaledMaxWidth};` : "";
   return `<span class="cert-text cert-${align}${weightClass}${variantClass}" style="left:${left}%; top:${top}%; --pt:${scaledFontSize};${widthStyle}">${escapeHtml(text)}</span>`;
 }
 
