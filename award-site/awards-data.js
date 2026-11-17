@@ -1,9 +1,2621 @@
-// Generated from https://jedi.nehs.hc.edu.tw/sport/award2.php at 2026-11-17T00:26:32+00:00. Do not edit by hand.
-window.AWARD_RECORDS_UPDATED_AT = "2026-11-17T00:26:32+00:00";
+// Generated from https://jedi.nehs.hc.edu.tw/sport/award2.php at 2026-11-17T03:26:31+00:00. Do not edit by hand.
+window.AWARD_RECORDS_UPDATED_AT = "2026-11-17T03:26:31+00:00";
 window.AWARD_RECORDS_SOURCE_URL = "https://jedi.nehs.hc.edu.tw/sport/award2.php";
 window.AWARD_RECORDS = [
   {
-    "id": "高一男子組1200公尺接力-1-雙語部-十年a班-1",
+    "id": "國二女子組400公尺接力-1-雙語部-八年b班-1",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 8,
+    "gradeLabel": "八年",
+    "className": "B班",
+    "rawName": "黎在悠 JOY YAU LAI / 詹筑茵 CHAN, CHU-YIN / 張心盈 CHANG, AUDRINA / 朱姵霓 JHU, PEI NI",
+    "type": "400公尺接力",
+    "eventName": "國二女子組400公尺接力",
+    "eventEn": "Gr. 8 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "59\"69",
+    "members": [
+      "黎在悠 JOY YAU LAI",
+      "詹筑茵 CHAN, CHU-YIN",
+      "張心盈 CHANG, AUDRINA",
+      "朱姵霓 JHU, PEI NI"
+    ],
+    "enteredAt": "2026-11-17 10:45:36"
+  },
+  {
+    "id": "國二女子組400公尺接力-2-國中部-二年四班-2",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "四班",
+    "rawName": "蔡牧洵 / 郭耘初 / 傅晨熏 / 黃妍恩",
+    "type": "400公尺接力",
+    "eventName": "國二女子組400公尺接力",
+    "eventEn": "Gr. 8 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "1'00\"32",
+    "members": [
+      "蔡牧洵",
+      "郭耘初",
+      "傅晨熏",
+      "黃妍恩"
+    ]
+  },
+  {
+    "id": "國二女子組400公尺接力-3-國中部-二年一班-3",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "一班",
+    "rawName": "田芯語 / 柳宣彩 / 顏采馨 / 徐子晴",
+    "type": "400公尺接力",
+    "eventName": "國二女子組400公尺接力",
+    "eventEn": "Gr. 8 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "1'00\"55",
+    "members": [
+      "田芯語",
+      "柳宣彩",
+      "顏采馨",
+      "徐子晴"
+    ]
+  },
+  {
+    "id": "國二女子組400公尺接力-4-國中部-二年二班-4",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "二班",
+    "rawName": "黃詩涵 / 邱敏軒 / 葉紫緹 / 李玥霈",
+    "type": "400公尺接力",
+    "eventName": "國二女子組400公尺接力",
+    "eventEn": "Gr. 8 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "1'00\"95",
+    "members": [
+      "黃詩涵",
+      "邱敏軒",
+      "葉紫緹",
+      "李玥霈"
+    ]
+  },
+  {
+    "id": "國二女子組400公尺接力-5-國中部-二年五班-5",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "五班",
+    "rawName": "趙綵婕 / 蔡馨儀 / 詹理茵 / 雲羿喬",
+    "type": "400公尺接力",
+    "eventName": "國二女子組400公尺接力",
+    "eventEn": "Gr. 8 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "1'01\"16",
+    "members": [
+      "趙綵婕",
+      "蔡馨儀",
+      "詹理茵",
+      "雲羿喬"
+    ]
+  },
+  {
+    "id": "國二女子組400公尺接力-6-國中部-二年三班-6",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "三班",
+    "rawName": "何姵澐 / 黃璽珊 / 羅苡真 / 劉品慈",
+    "type": "400公尺接力",
+    "eventName": "國二女子組400公尺接力",
+    "eventEn": "Gr. 8 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "1'03\"17",
+    "members": [
+      "何姵澐",
+      "黃璽珊",
+      "羅苡真",
+      "劉品慈"
+    ]
+  },
+  {
+    "id": "高二男子組400公尺接力-1-高中部-二年三班-7",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "三班",
+    "rawName": "周掌符 / 吳詠樂 / 蔡予銓 / 邱宥凱",
+    "type": "400公尺接力",
+    "eventName": "高二男子組400公尺接力",
+    "eventEn": "Gr. 11 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "49\"65",
+    "members": [
+      "周掌符",
+      "吳詠樂",
+      "蔡予銓",
+      "邱宥凱"
+    ],
+    "enteredAt": "2026-11-17 10:34:00"
+  },
+  {
+    "id": "高二男子組400公尺接力-2-高中部-二年六班-8",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "六班",
+    "rawName": "王璿溥 / 洪立鋌 / 蔡明哲 / 劉峻睿",
+    "type": "400公尺接力",
+    "eventName": "高二男子組400公尺接力",
+    "eventEn": "Gr. 11 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "50\"19",
+    "members": [
+      "王璿溥",
+      "洪立鋌",
+      "蔡明哲",
+      "劉峻睿"
+    ]
+  },
+  {
+    "id": "高二男子組400公尺接力-3-高中部-二年二班-9",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "二班",
+    "rawName": "林尚恩 / 林榆翔 / 張天宇 / 謝欣遠",
+    "type": "400公尺接力",
+    "eventName": "高二男子組400公尺接力",
+    "eventEn": "Gr. 11 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "55\"43",
+    "members": [
+      "林尚恩",
+      "林榆翔",
+      "張天宇",
+      "謝欣遠"
+    ]
+  },
+  {
+    "id": "高二男子組400公尺接力-4-高中部-二年四班-10",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "四班",
+    "rawName": "林岷寬 / 唐瑋 / 張雁頡 / 梁承瑞",
+    "type": "400公尺接力",
+    "eventName": "高二男子組400公尺接力",
+    "eventEn": "Gr. 11 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "55\"78",
+    "members": [
+      "林岷寬",
+      "唐瑋",
+      "張雁頡",
+      "梁承瑞"
+    ]
+  },
+  {
+    "id": "高二男子組400公尺接力-5-高中部-二年五班-11",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "五班",
+    "rawName": "陳冠丞 / 陳昱叡 / 黃浩原 / 黃懷仁",
+    "type": "400公尺接力",
+    "eventName": "高二男子組400公尺接力",
+    "eventEn": "Gr. 11 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "56\"21",
+    "members": [
+      "陳冠丞",
+      "陳昱叡",
+      "黃浩原",
+      "黃懷仁"
+    ]
+  },
+  {
+    "id": "高二男子組400公尺接力-6-雙語部-十一年a班-12",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 11,
+    "gradeLabel": "十一年",
+    "className": "A班",
+    "rawName": "蘇栩漢 SU, HSU-HAN / 仲昭宇 MAX ZHAOYU CHUNG / 朱哲恩 CHIT YAN CHU / 王海天 WANG, HAI-TIEN",
+    "type": "400公尺接力",
+    "eventName": "高二男子組400公尺接力",
+    "eventEn": "Gr. 11 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "56\"90",
+    "members": [
+      "蘇栩漢 SU, HSU-HAN",
+      "仲昭宇 MAX ZHAOYU CHUNG",
+      "朱哲恩 CHIT YAN CHU",
+      "王海天 WANG, HAI-TIEN"
+    ]
+  },
+  {
+    "id": "高一男子組400公尺接力-1-雙語部-十年a班-13",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 10,
+    "gradeLabel": "十年",
+    "className": "A班",
+    "rawName": "黃柏晨 NG BO CHEN / 李以律 LEE, YI-LU / 王恩賢 LEONARD WONG EN XUEN / 朱昱諾 JHU, YU NUO",
+    "type": "400公尺接力",
+    "eventName": "高一男子組400公尺接力",
+    "eventEn": "Gr. 10 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "49\"68",
+    "members": [
+      "黃柏晨 NG BO CHEN",
+      "李以律 LEE, YI-LU",
+      "王恩賢 LEONARD WONG EN XUEN",
+      "朱昱諾 JHU, YU NUO"
+    ],
+    "enteredAt": "2026-11-17 10:26:29"
+  },
+  {
+    "id": "高一男子組400公尺接力-2-高中部-一年二班-14",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "二班",
+    "rawName": "陳碩賢 / 陳樂澂 / 范熙庭 / 梁子奕",
+    "type": "400公尺接力",
+    "eventName": "高一男子組400公尺接力",
+    "eventEn": "Gr. 10 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "50\"53",
+    "members": [
+      "陳碩賢",
+      "陳樂澂",
+      "范熙庭",
+      "梁子奕"
+    ]
+  },
+  {
+    "id": "高一男子組400公尺接力-3-高中部-一年六班-15",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "六班",
+    "rawName": "姚樂謙 / 張善祈 / 陳柏言 / 余武洲",
+    "type": "400公尺接力",
+    "eventName": "高一男子組400公尺接力",
+    "eventEn": "Gr. 10 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "51\"08",
+    "members": [
+      "姚樂謙",
+      "張善祈",
+      "陳柏言",
+      "余武洲"
+    ]
+  },
+  {
+    "id": "高一男子組400公尺接力-4-高中部-一年一班-16",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "一班",
+    "rawName": "葉和磬 / 楊喚霖 / 張凱捷 / 謝宇晉",
+    "type": "400公尺接力",
+    "eventName": "高一男子組400公尺接力",
+    "eventEn": "Gr. 10 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "51\"26",
+    "members": [
+      "葉和磬",
+      "楊喚霖",
+      "張凱捷",
+      "謝宇晉"
+    ]
+  },
+  {
+    "id": "高一男子組400公尺接力-5-高中部-一年五班-17",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "五班",
+    "rawName": "黃崧傑 / 廖冠霖 / 劉柏佑 / 蔡昀叡",
+    "type": "400公尺接力",
+    "eventName": "高一男子組400公尺接力",
+    "eventEn": "Gr. 10 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "52\"22",
+    "members": [
+      "黃崧傑",
+      "廖冠霖",
+      "劉柏佑",
+      "蔡昀叡"
+    ]
+  },
+  {
+    "id": "高一男子組400公尺接力-6-高中部-一年三班-18",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "三班",
+    "rawName": "張家祐 / 潘品宬 / 張翔祐 / 黃睿楷",
+    "type": "400公尺接力",
+    "eventName": "高一男子組400公尺接力",
+    "eventEn": "Gr. 10 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "53\"03",
+    "members": [
+      "張家祐",
+      "潘品宬",
+      "張翔祐",
+      "黃睿楷"
+    ]
+  },
+  {
+    "id": "國三男子組400公尺接力-1-國中部-三年四班-19",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "四班",
+    "rawName": "張紘嘉 / 劉易錡 / 陳允睿 / 王裕澔",
+    "type": "400公尺接力",
+    "eventName": "國三男子組400公尺接力",
+    "eventEn": "Gr. 9 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "50\"40",
+    "members": [
+      "張紘嘉",
+      "劉易錡",
+      "陳允睿",
+      "王裕澔"
+    ],
+    "enteredAt": "2026-11-17 10:12:06"
+  },
+  {
+    "id": "國三男子組400公尺接力-2-國中部-三年五班-20",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "五班",
+    "rawName": "梁瑜祐 / 楊展琦 / 郭向晨 / 林宥辰",
+    "type": "400公尺接力",
+    "eventName": "國三男子組400公尺接力",
+    "eventEn": "Gr. 9 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "50\"68",
+    "members": [
+      "梁瑜祐",
+      "楊展琦",
+      "郭向晨",
+      "林宥辰"
+    ]
+  },
+  {
+    "id": "國三男子組400公尺接力-3-國中部-三年一班-21",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "一班",
+    "rawName": "林均燁 / 林卲恩 / 林隽先 / 林保毅",
+    "type": "400公尺接力",
+    "eventName": "國三男子組400公尺接力",
+    "eventEn": "Gr. 9 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "52\"21",
+    "members": [
+      "林均燁",
+      "林卲恩",
+      "林隽先",
+      "林保毅"
+    ]
+  },
+  {
+    "id": "國三男子組400公尺接力-4-國中部-三年二班-22",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "二班",
+    "rawName": "葉睿善 / 林子瑀 / 張宸碩 / 林律甫",
+    "type": "400公尺接力",
+    "eventName": "國三男子組400公尺接力",
+    "eventEn": "Gr. 9 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "53\"18",
+    "members": [
+      "葉睿善",
+      "林子瑀",
+      "張宸碩",
+      "林律甫"
+    ]
+  },
+  {
+    "id": "國三男子組400公尺接力-5-國中部-三年三班-23",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "三班",
+    "rawName": "陳凱祥 / 劉昇澔 / 童湟軒 / 53\"82",
+    "type": "400公尺接力",
+    "eventName": "國三男子組400公尺接力",
+    "eventEn": "Gr. 9 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "",
+    "members": [
+      "陳凱祥",
+      "劉昇澔",
+      "童湟軒",
+      "53\"82"
+    ]
+  },
+  {
+    "id": "國三男子組400公尺接力-6-雙語部-九年b班-24",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 9,
+    "gradeLabel": "九年",
+    "className": "B班",
+    "rawName": "林冠宇 LIN, PATRICK / 李宥謙 LI, JAMES / 全相垣 SANG WON JEON / 李圭元 KYUWON LEE",
+    "type": "400公尺接力",
+    "eventName": "國三男子組400公尺接力",
+    "eventEn": "Gr. 9 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "56\"83",
+    "members": [
+      "林冠宇 LIN, PATRICK",
+      "李宥謙 LI, JAMES",
+      "全相垣 SANG WON JEON",
+      "李圭元 KYUWON LEE"
+    ]
+  },
+  {
+    "id": "國一男子組400公尺接力-1-國中部-一年三班-25",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "三班",
+    "rawName": "謝友齊 / 陳拓橙 / 杜嘉宸 / 黃品翰",
+    "type": "400公尺接力",
+    "eventName": "國一男子組400公尺接力",
+    "eventEn": "Gr. 7 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "57\"75",
+    "members": [
+      "謝友齊",
+      "陳拓橙",
+      "杜嘉宸",
+      "黃品翰"
+    ],
+    "enteredAt": "2026-11-17 10:10:10"
+  },
+  {
+    "id": "國一男子組400公尺接力-2-國中部-一年五班-26",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "五班",
+    "rawName": "蔣季衡 / 陳永捷 / 陳威臣 / 李恩宇",
+    "type": "400公尺接力",
+    "eventName": "國一男子組400公尺接力",
+    "eventEn": "Gr. 7 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "57\"98",
+    "members": [
+      "蔣季衡",
+      "陳永捷",
+      "陳威臣",
+      "李恩宇"
+    ]
+  },
+  {
+    "id": "國一男子組400公尺接力-3-國中部-一年四班-27",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "四班",
+    "rawName": "楊秉新 / 楊允陞 / 顏亦為 / 廖晨宇",
+    "type": "400公尺接力",
+    "eventName": "國一男子組400公尺接力",
+    "eventEn": "Gr. 7 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "58\"18",
+    "members": [
+      "楊秉新",
+      "楊允陞",
+      "顏亦為",
+      "廖晨宇"
+    ]
+  },
+  {
+    "id": "國一男子組400公尺接力-4-國中部-一年一班-28",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "一班",
+    "rawName": "陳睿騏 / 許顥澂 / 鍾承諺 / 吳宇軒",
+    "type": "400公尺接力",
+    "eventName": "國一男子組400公尺接力",
+    "eventEn": "Gr. 7 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "58\"57",
+    "members": [
+      "陳睿騏",
+      "許顥澂",
+      "鍾承諺",
+      "吳宇軒"
+    ]
+  },
+  {
+    "id": "國一男子組400公尺接力-5-雙語部-七年a班-29",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 7,
+    "gradeLabel": "七年",
+    "className": "A班",
+    "rawName": "林已宸 LIN, YI-CHEN / 王瀚緯 AUSTIN HANWEI WANG / 林君濡 LIN, CHUN-JU / 劉鐘燦 YU, JONGCHAN",
+    "type": "400公尺接力",
+    "eventName": "國一男子組400公尺接力",
+    "eventEn": "Gr. 7 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "59\"24",
+    "members": [
+      "林已宸 LIN, YI-CHEN",
+      "王瀚緯 AUSTIN HANWEI WANG",
+      "林君濡 LIN, CHUN-JU",
+      "劉鐘燦 YU, JONGCHAN"
+    ]
+  },
+  {
+    "id": "國一男子組400公尺接力-6-國中部-一年二班-30",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "二班",
+    "rawName": "陳宇威 / 張子謙 / 姚雲程 / 顏培翰",
+    "type": "400公尺接力",
+    "eventName": "國一男子組400公尺接力",
+    "eventEn": "Gr. 7 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "1'01\"66",
+    "members": [
+      "陳宇威",
+      "張子謙",
+      "姚雲程",
+      "顏培翰"
+    ]
+  },
+  {
+    "id": "高一女子組1200公尺接力-1-雙語部-十年b班-31",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 10,
+    "gradeLabel": "十年",
+    "className": "B班",
+    "rawName": "沙媞卡 SAATHVEEHA CHANDRASEKAR / 許芯瑜 HSU, HSIN-YU / 賈艾霓 AINEE CHIA / 呂學凝 ASHLEY XUENING LU",
+    "type": "1200公尺接力",
+    "eventName": "高一女子組1200公尺接力",
+    "eventEn": "Gr. 10 Girls 4*300 Meters Relay",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "3'38\"71",
+    "members": [
+      "沙媞卡 SAATHVEEHA CHANDRASEKAR",
+      "許芯瑜 HSU, HSIN-YU",
+      "賈艾霓 AINEE CHIA",
+      "呂學凝 ASHLEY XUENING LU"
+    ],
+    "enteredAt": "2026-11-17 10:05:39"
+  },
+  {
+    "id": "高一女子組1200公尺接力-2-高中部-一年六班-32",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "六班",
+    "rawName": "徐苡珊 / 黃岑琋 / 吳芷伶 / 葉子禕",
+    "type": "1200公尺接力",
+    "eventName": "高一女子組1200公尺接力",
+    "eventEn": "Gr. 10 Girls 4*300 Meters Relay",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "3'39\"16",
+    "members": [
+      "徐苡珊",
+      "黃岑琋",
+      "吳芷伶",
+      "葉子禕"
+    ]
+  },
+  {
+    "id": "高一女子組1200公尺接力-3-高中部-一年二班-33",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "二班",
+    "rawName": "蘇品家 / 李宥蓁 / 洪曼綾 / 陳宥羽",
+    "type": "1200公尺接力",
+    "eventName": "高一女子組1200公尺接力",
+    "eventEn": "Gr. 10 Girls 4*300 Meters Relay",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "3'40\"19",
+    "members": [
+      "蘇品家",
+      "李宥蓁",
+      "洪曼綾",
+      "陳宥羽"
+    ]
+  },
+  {
+    "id": "高一女子組1200公尺接力-4-高中部-一年一班-34",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "一班",
+    "rawName": "林忻柔 / 古悅希 / 陳安庭 / 蔣季庭",
+    "type": "1200公尺接力",
+    "eventName": "高一女子組1200公尺接力",
+    "eventEn": "Gr. 10 Girls 4*300 Meters Relay",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "3'42\"27",
+    "members": [
+      "林忻柔",
+      "古悅希",
+      "陳安庭",
+      "蔣季庭"
+    ]
+  },
+  {
+    "id": "高一女子組1200公尺接力-5-雙語部-十年a班-35",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 10,
+    "gradeLabel": "十年",
+    "className": "A班",
+    "rawName": "李延智 LEE, YEONJI EMILIA / 阿梅利亞 AMELIIA USEINOVA / 鍾茉莉 EMILIA MOLLY CHUNG PROUTON / 林弈亘 KATE LIN",
+    "type": "1200公尺接力",
+    "eventName": "高一女子組1200公尺接力",
+    "eventEn": "Gr. 10 Girls 4*300 Meters Relay",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "3'47\"34",
+    "members": [
+      "李延智 LEE, YEONJI EMILIA",
+      "阿梅利亞 AMELIIA USEINOVA",
+      "鍾茉莉 EMILIA MOLLY CHUNG PROUTON",
+      "林弈亘 KATE LIN"
+    ]
+  },
+  {
+    "id": "高一女子組1200公尺接力-6-高中部-一年四班-36",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "四班",
+    "rawName": "李昕臻 / 翁千喬 / 張家榛 / 蔡維玶",
+    "type": "1200公尺接力",
+    "eventName": "高一女子組1200公尺接力",
+    "eventEn": "Gr. 10 Girls 4*300 Meters Relay",
+    "group": "女子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "4'12\"58",
+    "members": [
+      "李昕臻",
+      "翁千喬",
+      "張家榛",
+      "蔡維玶"
+    ]
+  },
+  {
+    "id": "高三女子組400公尺接力-1-高中部-三年三班-37",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 12,
+    "gradeLabel": "高三",
+    "className": "三班",
+    "rawName": "洪翊庭 / 胡聿槿 / 張芷溦 / 藍晨菱",
+    "type": "400公尺接力",
+    "eventName": "高三女子組400公尺接力",
+    "eventEn": "Gr. 12 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "58\"29",
+    "members": [
+      "洪翊庭",
+      "胡聿槿",
+      "張芷溦",
+      "藍晨菱"
+    ],
+    "enteredAt": "2026-11-17 09:55:26"
+  },
+  {
+    "id": "高三女子組400公尺接力-2-雙語部-十二年a班-38",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "A班",
+    "rawName": "孫悦 JOYCE YUE SUN / 莊孟貞 AUDREY MENGCHEN CHUANG / 林愷歆 SARAH KAIHSIN LIN / 姜沛薰 CHIANG, PEI-HSUN",
+    "type": "400公尺接力",
+    "eventName": "高三女子組400公尺接力",
+    "eventEn": "Gr. 12 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "1'00\"88",
+    "members": [
+      "孫悦 JOYCE YUE SUN",
+      "莊孟貞 AUDREY MENGCHEN CHUANG",
+      "林愷歆 SARAH KAIHSIN LIN",
+      "姜沛薰 CHIANG, PEI-HSUN"
+    ]
+  },
+  {
+    "id": "高三女子組400公尺接力-3-雙語部-十二年b班-39",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "B班",
+    "rawName": "彭韓諾 HANNAH PENG / 張皓恩 KAYLA HAO-EN CHANG / 黃宣宇 HUANG, HSUAN-YU / 莎達娜 SADHANASHINI RAMESH",
+    "type": "400公尺接力",
+    "eventName": "高三女子組400公尺接力",
+    "eventEn": "Gr. 12 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "1'05\"91",
+    "members": [
+      "彭韓諾 HANNAH PENG",
+      "張皓恩 KAYLA HAO-EN CHANG",
+      "黃宣宇 HUANG, HSUAN-YU",
+      "莎達娜 SADHANASHINI RAMESH"
+    ]
+  },
+  {
+    "id": "高三女子組400公尺接力-4-高中部-三年六班-40",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 12,
+    "gradeLabel": "高三",
+    "className": "六班",
+    "rawName": "張尹安 / 施映辰 / 陳睦云 / 張喬茵",
+    "type": "400公尺接力",
+    "eventName": "高三女子組400公尺接力",
+    "eventEn": "Gr. 12 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "1'06\"46",
+    "members": [
+      "張尹安",
+      "施映辰",
+      "陳睦云",
+      "張喬茵"
+    ]
+  },
+  {
+    "id": "高二女子組400公尺接力-1-高中部-二年六班-41",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "六班",
+    "rawName": "高譽甄 / 張翰晴 / 黃允潔 / 鄭妍允",
+    "type": "400公尺接力",
+    "eventName": "高二女子組400公尺接力",
+    "eventEn": "Gr. 11 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "59\"65",
+    "members": [
+      "高譽甄",
+      "張翰晴",
+      "黃允潔",
+      "鄭妍允"
+    ],
+    "enteredAt": "2026-11-17 09:53:33"
+  },
+  {
+    "id": "高二女子組400公尺接力-2-高中部-二年二班-42",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "二班",
+    "rawName": "平卉云 / 林維恩 / 張詠晴 / 郭羽書",
+    "type": "400公尺接力",
+    "eventName": "高二女子組400公尺接力",
+    "eventEn": "Gr. 11 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "1'04\"40",
+    "members": [
+      "平卉云",
+      "林維恩",
+      "張詠晴",
+      "郭羽書"
+    ]
+  },
+  {
+    "id": "高二女子組400公尺接力-3-雙語部-十一年b班-43",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 11,
+    "gradeLabel": "十一年",
+    "className": "B班",
+    "rawName": "周元甯 CHOU, YUAN-NING / 吳宜璇 WU, YI-HSUAN / 秦苡德 CHUN, YI TE / 李秀仁 SUIN LEE",
+    "type": "400公尺接力",
+    "eventName": "高二女子組400公尺接力",
+    "eventEn": "Gr. 11 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "1'05\"04",
+    "members": [
+      "周元甯 CHOU, YUAN-NING",
+      "吳宜璇 WU, YI-HSUAN",
+      "秦苡德 CHUN, YI TE",
+      "李秀仁 SUIN LEE"
+    ]
+  },
+  {
+    "id": "高二女子組400公尺接力-4-雙語部-十一年a班-44",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 11,
+    "gradeLabel": "十一年",
+    "className": "A班",
+    "rawName": "金珉志 MINJI AILEEN KIM / 渡邉愛弥 AIMI WATANABE / 李河靜 HAJEONG LEE / 潘怡 SOPHIE PAN",
+    "type": "400公尺接力",
+    "eventName": "高二女子組400公尺接力",
+    "eventEn": "Gr. 11 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "1'09\"33",
+    "members": [
+      "金珉志 MINJI AILEEN KIM",
+      "渡邉愛弥 AIMI WATANABE",
+      "李河靜 HAJEONG LEE",
+      "潘怡 SOPHIE PAN"
+    ]
+  },
+  {
+    "id": "高二女子組400公尺接力-5-高中部-二年四班-45",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "四班",
+    "rawName": "朱云昉 / 林孟蓁 / 莊敏若 / 莊舒涵",
+    "type": "400公尺接力",
+    "eventName": "高二女子組400公尺接力",
+    "eventEn": "Gr. 11 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "1'09\"87",
+    "members": [
+      "朱云昉",
+      "林孟蓁",
+      "莊敏若",
+      "莊舒涵"
+    ]
+  },
+  {
+    "id": "高一女子組400公尺接力-1-高中部-一年一班-46",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "一班",
+    "rawName": "古悅希 / 傅郁璇 / 陳愛禮 / 林忻柔",
+    "type": "400公尺接力",
+    "eventName": "高一女子組400公尺接力",
+    "eventEn": "Gr. 10 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "59\"49",
+    "members": [
+      "古悅希",
+      "傅郁璇",
+      "陳愛禮",
+      "林忻柔"
+    ],
+    "enteredAt": "2026-11-17 09:51:34"
+  },
+  {
+    "id": "高一女子組400公尺接力-2-高中部-一年二班-47",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "二班",
+    "rawName": "李宥蓁 / 蘇品家 / 陳艾琳 / 陳宥羽",
+    "type": "400公尺接力",
+    "eventName": "高一女子組400公尺接力",
+    "eventEn": "Gr. 10 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "1'01\"54",
+    "members": [
+      "李宥蓁",
+      "蘇品家",
+      "陳艾琳",
+      "陳宥羽"
+    ]
+  },
+  {
+    "id": "高一女子組400公尺接力-3-雙語部-十年a班-48",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 10,
+    "gradeLabel": "十年",
+    "className": "A班",
+    "rawName": "徐心晨 SEE, CELESTINE / 李延智 LEE, YEONJI EMILIA / 阿梅利亞 AMELIIA USEINOVA / 鍾茉莉 EMILIA MOLLY CHUNG PROUTON",
+    "type": "400公尺接力",
+    "eventName": "高一女子組400公尺接力",
+    "eventEn": "Gr. 10 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "1'01\"84",
+    "members": [
+      "徐心晨 SEE, CELESTINE",
+      "李延智 LEE, YEONJI EMILIA",
+      "阿梅利亞 AMELIIA USEINOVA",
+      "鍾茉莉 EMILIA MOLLY CHUNG PROUTON"
+    ]
+  },
+  {
+    "id": "高一女子組400公尺接力-4-高中部-一年六班-49",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "六班",
+    "rawName": "吳芷伶 / 阮筠淇 / 黃岑琋 / 葉子禕",
+    "type": "400公尺接力",
+    "eventName": "高一女子組400公尺接力",
+    "eventEn": "Gr. 10 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "1'02\"63",
+    "members": [
+      "吳芷伶",
+      "阮筠淇",
+      "黃岑琋",
+      "葉子禕"
+    ]
+  },
+  {
+    "id": "高一女子組400公尺接力-5-高中部-一年三班-50",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "三班",
+    "rawName": "張予喬 / 董千榕 / 莊紫榆 / 郭品希",
+    "type": "400公尺接力",
+    "eventName": "高一女子組400公尺接力",
+    "eventEn": "Gr. 10 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "1'03\"62",
+    "members": [
+      "張予喬",
+      "董千榕",
+      "莊紫榆",
+      "郭品希"
+    ]
+  },
+  {
+    "id": "高一女子組400公尺接力-6-高中部-一年五班-51",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "五班",
+    "rawName": "李采潔 / 陳宥樺 / 黃珮綺 / 楊子瑤",
+    "type": "400公尺接力",
+    "eventName": "高一女子組400公尺接力",
+    "eventEn": "Gr. 10 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "1'06\"55",
+    "members": [
+      "李采潔",
+      "陳宥樺",
+      "黃珮綺",
+      "楊子瑤"
+    ]
+  },
+  {
+    "id": "國三女子組400公尺接力-1-雙語部-九年b班-52",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 9,
+    "gradeLabel": "九年",
+    "className": "B班",
+    "rawName": "廖芷妍 ALLYVIA CHIH-YEN LIAO / 盧愷伶 KATELYN MAY LU / 林宇睿 AVERY LIN / 鄭可依 CHLOE KE YI TEH",
+    "type": "400公尺接力",
+    "eventName": "國三女子組400公尺接力",
+    "eventEn": "Gr. 9 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "57\"94",
+    "members": [
+      "廖芷妍 ALLYVIA CHIH-YEN LIAO",
+      "盧愷伶 KATELYN MAY LU",
+      "林宇睿 AVERY LIN",
+      "鄭可依 CHLOE KE YI TEH"
+    ],
+    "enteredAt": "2026-11-17 09:48:46"
+  },
+  {
+    "id": "國三女子組400公尺接力-2-國中部-三年五班-53",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "五班",
+    "rawName": "丁亦允 / 吳詠璿 / 彭亞娜 / 謝沐耘",
+    "type": "400公尺接力",
+    "eventName": "國三女子組400公尺接力",
+    "eventEn": "Gr. 9 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "1'00\"46",
+    "members": [
+      "丁亦允",
+      "吳詠璿",
+      "彭亞娜",
+      "謝沐耘"
+    ]
+  },
+  {
+    "id": "國三女子組400公尺接力-3-國中部-三年三班-54",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "三班",
+    "rawName": "吳羿孜 / 李佳橙 / 陳昱彤 / 楊斯羽",
+    "type": "400公尺接力",
+    "eventName": "國三女子組400公尺接力",
+    "eventEn": "Gr. 9 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "1'01\"03",
+    "members": [
+      "吳羿孜",
+      "李佳橙",
+      "陳昱彤",
+      "楊斯羽"
+    ]
+  },
+  {
+    "id": "國三女子組400公尺接力-4-國中部-三年二班-55",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "二班",
+    "rawName": "王品云 / 黃筠茜 / 詹允寧 / 彭子芸",
+    "type": "400公尺接力",
+    "eventName": "國三女子組400公尺接力",
+    "eventEn": "Gr. 9 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "1'02\"22",
+    "members": [
+      "王品云",
+      "黃筠茜",
+      "詹允寧",
+      "彭子芸"
+    ]
+  },
+  {
+    "id": "國三女子組400公尺接力-5-國中部-三年一班-56",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "一班",
+    "rawName": "呂珈昕 / 李佳芸 / 黃晨涵 / 羅姵涵",
+    "type": "400公尺接力",
+    "eventName": "國三女子組400公尺接力",
+    "eventEn": "Gr. 9 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "1'02\"93",
+    "members": [
+      "呂珈昕",
+      "李佳芸",
+      "黃晨涵",
+      "羅姵涵"
+    ]
+  },
+  {
+    "id": "國三女子組400公尺接力-6-國中部-三年四班-57",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "四班",
+    "rawName": "李昕璇 / 游喬羽 / 鄭采妍 / 紀蘊宸",
+    "type": "400公尺接力",
+    "eventName": "國三女子組400公尺接力",
+    "eventEn": "Gr. 9 Girls 4*100 Meters Relay",
+    "group": "女子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "1'05\"70",
+    "members": [
+      "李昕璇",
+      "游喬羽",
+      "鄭采妍",
+      "紀蘊宸"
+    ]
+  },
+  {
+    "id": "國二男子組400公尺接力-1-國中部-二年五班-58",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "五班",
+    "rawName": "李昂軒 / 高瑋辰 / 楊子昀 / 陳澔",
+    "type": "400公尺接力",
+    "eventName": "國二男子組400公尺接力",
+    "eventEn": "Gr. 8 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "51\"81",
+    "members": [
+      "李昂軒",
+      "高瑋辰",
+      "楊子昀",
+      "陳澔"
+    ],
+    "enteredAt": "2026-11-17 09:45:06"
+  },
+  {
+    "id": "國二男子組400公尺接力-2-國中部-二年二班-59",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "二班",
+    "rawName": "林湋臻 / 蔡雋慈 / 盧竑齊 / 胡耀升",
+    "type": "400公尺接力",
+    "eventName": "國二男子組400公尺接力",
+    "eventEn": "Gr. 8 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "52\"67",
+    "members": [
+      "林湋臻",
+      "蔡雋慈",
+      "盧竑齊",
+      "胡耀升"
+    ]
+  },
+  {
+    "id": "國二男子組400公尺接力-3-國中部-二年三班-60",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "三班",
+    "rawName": "黃仲藝 / 許永昀 / 陳奕安 / 邱楷桀",
+    "type": "400公尺接力",
+    "eventName": "國二男子組400公尺接力",
+    "eventEn": "Gr. 8 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "54\"05",
+    "members": [
+      "黃仲藝",
+      "許永昀",
+      "陳奕安",
+      "邱楷桀"
+    ]
+  },
+  {
+    "id": "國二男子組400公尺接力-4-國中部-二年四班-61",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "四班",
+    "rawName": "劉丞凱 / 范晴幃 / 蘇宥晨 / 李軒廷",
+    "type": "400公尺接力",
+    "eventName": "國二男子組400公尺接力",
+    "eventEn": "Gr. 8 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "54\"33",
+    "members": [
+      "劉丞凱",
+      "范晴幃",
+      "蘇宥晨",
+      "李軒廷"
+    ]
+  },
+  {
+    "id": "國二男子組400公尺接力-5-雙語部-八年a班-62",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 8,
+    "gradeLabel": "八年",
+    "className": "A班",
+    "rawName": "詹愷昕 CHAN, KAI-HSIN / 羅仕軒 JOSEPH LO / 王睿宏 EVEREST AMBROSE HAZELDINE / 涂黃淏 TU, HUANG-HAO",
+    "type": "400公尺接力",
+    "eventName": "國二男子組400公尺接力",
+    "eventEn": "Gr. 8 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "54\"59",
+    "members": [
+      "詹愷昕 CHAN, KAI-HSIN",
+      "羅仕軒 JOSEPH LO",
+      "王睿宏 EVEREST AMBROSE HAZELDINE",
+      "涂黃淏 TU, HUANG-HAO"
+    ]
+  },
+  {
+    "id": "國二男子組400公尺接力-6-雙語部-八年b班-63",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 8,
+    "gradeLabel": "八年",
+    "className": "B班",
+    "rawName": "于子恩 YU, ZI-EN / 林宸雋 LIN, HUDSON JAMES / 徐子安 TZU-AN HSU / 王安榮 DANIEL AN-RONG WANG",
+    "type": "400公尺接力",
+    "eventName": "國二男子組400公尺接力",
+    "eventEn": "Gr. 8 Boys 4*100 Meters Relay",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "55\"01",
+    "members": [
+      "于子恩 YU, ZI-EN",
+      "林宸雋 LIN, HUDSON JAMES",
+      "徐子安 TZU-AN HSU",
+      "王安榮 DANIEL AN-RONG WANG"
+    ]
+  },
+  {
+    "id": "高三男子組100公尺-1-高中部-三年四班-64",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 12,
+    "gradeLabel": "高三",
+    "className": "四班",
+    "rawName": "林家禾",
+    "type": "100公尺",
+    "eventName": "高三男子組100公尺",
+    "eventEn": "Gr. 12 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "12\"38",
+    "enteredAt": "2026-11-17 09:35:51"
+  },
+  {
+    "id": "高三男子組100公尺-2-高中部-三年四班-65",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 12,
+    "gradeLabel": "高三",
+    "className": "四班",
+    "rawName": "蔡秉叡",
+    "type": "100公尺",
+    "eventName": "高三男子組100公尺",
+    "eventEn": "Gr. 12 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "12\"81"
+  },
+  {
+    "id": "高三男子組100公尺-3-雙語部-十二年b班-66",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "B班",
+    "rawName": "温廷瑋 WEN, TING-WEI",
+    "type": "100公尺",
+    "eventName": "高三男子組100公尺",
+    "eventEn": "Gr. 12 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "13\"13"
+  },
+  {
+    "id": "高三男子組100公尺-4-雙語部-十二年a班-67",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "A班",
+    "rawName": "陳緯謙 CHEN, WEI-CHIEN",
+    "type": "100公尺",
+    "eventName": "高三男子組100公尺",
+    "eventEn": "Gr. 12 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "13\"58"
+  },
+  {
+    "id": "高三女子組100公尺-1-高中部-三年三班-68",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 12,
+    "gradeLabel": "高三",
+    "className": "三班",
+    "rawName": "洪翊庭",
+    "type": "100公尺",
+    "eventName": "高三女子組100公尺",
+    "eventEn": "Gr. 12 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "14\"08",
+    "enteredAt": "2026-11-17 09:35:31"
+  },
+  {
+    "id": "高三女子組100公尺-2-雙語部-十二年a班-69",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "A班",
+    "rawName": "孫悦 JOYCE YUE SUN",
+    "type": "100公尺",
+    "eventName": "高三女子組100公尺",
+    "eventEn": "Gr. 12 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "14\"95"
+  },
+  {
+    "id": "高三女子組100公尺-3-雙語部-十二年a班-70",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "A班",
+    "rawName": "莊孟貞 AUDREY MENGCHEN CHUANG",
+    "type": "100公尺",
+    "eventName": "高三女子組100公尺",
+    "eventEn": "Gr. 12 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "15\"79"
+  },
+  {
+    "id": "高三女子組100公尺-4-雙語部-十二年b班-71",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "B班",
+    "rawName": "張皓恩 KAYLA HAO-EN CHANG",
+    "type": "100公尺",
+    "eventName": "高三女子組100公尺",
+    "eventEn": "Gr. 12 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "16\"25"
+  },
+  {
+    "id": "高三女子組100公尺-5-雙語部-十二年b班-72",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 12,
+    "gradeLabel": "十二年",
+    "className": "B班",
+    "rawName": "呂讓遙 KALEY RANGYAO LU",
+    "type": "100公尺",
+    "eventName": "高三女子組100公尺",
+    "eventEn": "Gr. 12 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "18\"22"
+  },
+  {
+    "id": "高二男子組100公尺-1-高中部-二年六班-73",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "六班",
+    "rawName": "洪立鋌",
+    "type": "100公尺",
+    "eventName": "高二男子組100公尺",
+    "eventEn": "Gr. 11 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "12\"35",
+    "enteredAt": "2026-11-17 09:34:52"
+  },
+  {
+    "id": "高二男子組100公尺-2-高中部-二年三班-74",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "三班",
+    "rawName": "邱宥凱",
+    "type": "100公尺",
+    "eventName": "高二男子組100公尺",
+    "eventEn": "Gr. 11 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "12\"61"
+  },
+  {
+    "id": "高二男子組100公尺-3-高中部-二年五班-75",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "五班",
+    "rawName": "陳冠丞",
+    "type": "100公尺",
+    "eventName": "高二男子組100公尺",
+    "eventEn": "Gr. 11 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "12\"82"
+  },
+  {
+    "id": "高二男子組100公尺-4-雙語部-十一年a班-76",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 11,
+    "gradeLabel": "十一年",
+    "className": "A班",
+    "rawName": "蘇栩漢 SU, HSU-HAN",
+    "type": "100公尺",
+    "eventName": "高二男子組100公尺",
+    "eventEn": "Gr. 11 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "13\"03"
+  },
+  {
+    "id": "高二男子組100公尺-5-高中部-二年四班-77",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "四班",
+    "rawName": "林岷寬",
+    "type": "100公尺",
+    "eventName": "高二男子組100公尺",
+    "eventEn": "Gr. 11 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "13\"29"
+  },
+  {
+    "id": "高二男子組100公尺-6-雙語部-十一年a班-78",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 11,
+    "gradeLabel": "十一年",
+    "className": "A班",
+    "rawName": "仲昭宇 MAX ZHAOYU CHUNG",
+    "type": "100公尺",
+    "eventName": "高二男子組100公尺",
+    "eventEn": "Gr. 11 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "13\"58"
+  },
+  {
+    "id": "高二女子組100公尺-1-高中部-二年六班-79",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "六班",
+    "rawName": "高譽甄",
+    "type": "100公尺",
+    "eventName": "高二女子組100公尺",
+    "eventEn": "Gr. 11 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "15\"65",
+    "enteredAt": "2026-11-17 09:34:22"
+  },
+  {
+    "id": "高二女子組100公尺-2-高中部-二年二班-80",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "二班",
+    "rawName": "張詠晴",
+    "type": "100公尺",
+    "eventName": "高二女子組100公尺",
+    "eventEn": "Gr. 11 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "15\"95"
+  },
+  {
+    "id": "高二女子組100公尺-3-高中部-二年一班-81",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 11,
+    "gradeLabel": "高二",
+    "className": "一班",
+    "rawName": "楊耘綺",
+    "type": "100公尺",
+    "eventName": "高二女子組100公尺",
+    "eventEn": "Gr. 11 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "16\"41"
+  },
+  {
+    "id": "高二女子組100公尺-4-雙語部-十一年a班-82",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 11,
+    "gradeLabel": "十一年",
+    "className": "A班",
+    "rawName": "金珉志 MINJI AILEEN KIM",
+    "type": "100公尺",
+    "eventName": "高二女子組100公尺",
+    "eventEn": "Gr. 11 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "16\"59"
+  },
+  {
+    "id": "高二女子組100公尺-5-雙語部-十一年a班-83",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 11,
+    "gradeLabel": "十一年",
+    "className": "A班",
+    "rawName": "千至憲 JIHEON CHUN",
+    "type": "100公尺",
+    "eventName": "高二女子組100公尺",
+    "eventEn": "Gr. 11 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "20\"12"
+  },
+  {
+    "id": "高一男子組100公尺-1-雙語部-十年a班-84",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 10,
+    "gradeLabel": "十年",
+    "className": "A班",
+    "rawName": "朱昱諾 JHU, YU NUO",
+    "type": "100公尺",
+    "eventName": "高一男子組100公尺",
+    "eventEn": "Gr. 10 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "12\"27",
+    "enteredAt": "2026-11-17 09:34:01"
+  },
+  {
+    "id": "高一男子組100公尺-2-高中部-一年一班-85",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "一班",
+    "rawName": "葉和磬",
+    "type": "100公尺",
+    "eventName": "高一男子組100公尺",
+    "eventEn": "Gr. 10 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "12\"46"
+  },
+  {
+    "id": "高一男子組100公尺-3-雙語部-十年a班-86",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 10,
+    "gradeLabel": "十年",
+    "className": "A班",
+    "rawName": "黃柏晨 NG BO CHEN",
+    "type": "100公尺",
+    "eventName": "高一男子組100公尺",
+    "eventEn": "Gr. 10 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "12\"62"
+  },
+  {
+    "id": "高一男子組100公尺-4-高中部-一年六班-87",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "六班",
+    "rawName": "陳柏言",
+    "type": "100公尺",
+    "eventName": "高一男子組100公尺",
+    "eventEn": "Gr. 10 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "12\"99"
+  },
+  {
+    "id": "高一男子組100公尺-5-高中部-一年一班-88",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "一班",
+    "rawName": "池冠熠",
+    "type": "100公尺",
+    "eventName": "高一男子組100公尺",
+    "eventEn": "Gr. 10 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "13\"25"
+  },
+  {
+    "id": "高一男子組100公尺-6-高中部-一年五班-89",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "五班",
+    "rawName": "黃崧傑",
+    "type": "100公尺",
+    "eventName": "高一男子組100公尺",
+    "eventEn": "Gr. 10 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "13\"51"
+  },
+  {
+    "id": "高一女子組100公尺-1-高中部-一年五班-90",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "五班",
+    "rawName": "楊子瑤",
+    "type": "100公尺",
+    "eventName": "高一女子組100公尺",
+    "eventEn": "Gr. 10 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "14\"20",
+    "enteredAt": "2026-11-17 09:33:35"
+  },
+  {
+    "id": "高一女子組100公尺-2-雙語部-十年b班-91",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 10,
+    "gradeLabel": "十年",
+    "className": "B班",
+    "rawName": "許芯瑜 HSU, HSIN-YU",
+    "type": "100公尺",
+    "eventName": "高一女子組100公尺",
+    "eventEn": "Gr. 10 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "14\"72"
+  },
+  {
+    "id": "高一女子組100公尺-3-高中部-一年一班-92",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "一班",
+    "rawName": "陳愛禮",
+    "type": "100公尺",
+    "eventName": "高一女子組100公尺",
+    "eventEn": "Gr. 10 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "15\"13"
+  },
+  {
+    "id": "高一女子組100公尺-4-高中部-一年六班-93",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "六班",
+    "rawName": "張喬涵",
+    "type": "100公尺",
+    "eventName": "高一女子組100公尺",
+    "eventEn": "Gr. 10 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "15\"63"
+  },
+  {
+    "id": "高一女子組100公尺-5-高中部-一年六班-94",
+    "department": "中學部",
+    "schoolUnit": "高中部",
+    "gradeNumber": 10,
+    "gradeLabel": "高一",
+    "className": "六班",
+    "rawName": "黃岑琋",
+    "type": "100公尺",
+    "eventName": "高一女子組100公尺",
+    "eventEn": "Gr. 10 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "15\"78"
+  },
+  {
+    "id": "國三男子組100公尺-1-國中部-三年四班-95",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "四班",
+    "rawName": "張紘嘉",
+    "type": "100公尺",
+    "eventName": "國三男子組100公尺",
+    "eventEn": "Gr. 9 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "12\"25",
+    "enteredAt": "2026-11-17 09:33:10"
+  },
+  {
+    "id": "國三男子組100公尺-2-國中部-三年五班-96",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "五班",
+    "rawName": "梁瑜祐",
+    "type": "100公尺",
+    "eventName": "國三男子組100公尺",
+    "eventEn": "Gr. 9 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "12\"75"
+  },
+  {
+    "id": "國三男子組100公尺-3-雙語部-九年b班-97",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 9,
+    "gradeLabel": "九年",
+    "className": "B班",
+    "rawName": "范子平 FAN, TZU-PING",
+    "type": "100公尺",
+    "eventName": "國三男子組100公尺",
+    "eventEn": "Gr. 9 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "13\"04"
+  },
+  {
+    "id": "國三男子組100公尺-4-國中部-三年五班-98",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "五班",
+    "rawName": "林宥辰",
+    "type": "100公尺",
+    "eventName": "國三男子組100公尺",
+    "eventEn": "Gr. 9 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "13\"27"
+  },
+  {
+    "id": "國三男子組100公尺-5-國中部-三年三班-99",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "三班",
+    "rawName": "劉昇澔",
+    "type": "100公尺",
+    "eventName": "國三男子組100公尺",
+    "eventEn": "Gr. 9 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "13\"45"
+  },
+  {
+    "id": "國三男子組100公尺-6-國中部-三年三班-100",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "三班",
+    "rawName": "陳凱祥",
+    "type": "100公尺",
+    "eventName": "國三男子組100公尺",
+    "eventEn": "Gr. 9 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "13\"67"
+  },
+  {
+    "id": "國三女子組100公尺-1-國中部-三年三班-101",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "三班",
+    "rawName": "李佳橙",
+    "type": "100公尺",
+    "eventName": "國三女子組100公尺",
+    "eventEn": "Gr. 9 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "13\"98",
+    "enteredAt": "2026-11-17 09:32:42"
+  },
+  {
+    "id": "國三女子組100公尺-2-雙語部-九年b班-102",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 9,
+    "gradeLabel": "九年",
+    "className": "B班",
+    "rawName": "廖芷妍 ALLYVIA CHIH-YEN LIAO",
+    "type": "100公尺",
+    "eventName": "國三女子組100公尺",
+    "eventEn": "Gr. 9 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "14\"27"
+  },
+  {
+    "id": "國三女子組100公尺-3-國中部-三年二班-103",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "二班",
+    "rawName": "詹允寧",
+    "type": "100公尺",
+    "eventName": "國三女子組100公尺",
+    "eventEn": "Gr. 9 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "15\"30"
+  },
+  {
+    "id": "國三女子組100公尺-4-國中部-三年二班-104",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "二班",
+    "rawName": "蔡愷芯",
+    "type": "100公尺",
+    "eventName": "國三女子組100公尺",
+    "eventEn": "Gr. 9 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "15\"89"
+  },
+  {
+    "id": "國三女子組100公尺-5-國中部-三年五班-105",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "五班",
+    "rawName": "丁亦允",
+    "type": "100公尺",
+    "eventName": "國三女子組100公尺",
+    "eventEn": "Gr. 9 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "16\"01"
+  },
+  {
+    "id": "國三女子組100公尺-6-國中部-三年四班-106",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 9,
+    "gradeLabel": "國三",
+    "className": "四班",
+    "rawName": "李昕璇",
+    "type": "100公尺",
+    "eventName": "國三女子組100公尺",
+    "eventEn": "Gr. 9 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "16\"21"
+  },
+  {
+    "id": "國二男子組100公尺-1-國中部-二年五班-107",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "五班",
+    "rawName": "陳澔",
+    "type": "100公尺",
+    "eventName": "國二男子組100公尺",
+    "eventEn": "Gr. 8 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "13\"08",
+    "enteredAt": "2026-11-17 09:32:19"
+  },
+  {
+    "id": "國二男子組100公尺-2-國中部-二年五班-108",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "五班",
+    "rawName": "高瑋辰",
+    "type": "100公尺",
+    "eventName": "國二男子組100公尺",
+    "eventEn": "Gr. 8 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "13\"46"
+  },
+  {
+    "id": "國二男子組100公尺-3-國中部-二年三班-109",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "三班",
+    "rawName": "邱楷桀",
+    "type": "100公尺",
+    "eventName": "國二男子組100公尺",
+    "eventEn": "Gr. 8 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "13\"47"
+  },
+  {
+    "id": "國二男子組100公尺-4-國中部-二年四班-110",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "四班",
+    "rawName": "吳定駬",
+    "type": "100公尺",
+    "eventName": "國二男子組100公尺",
+    "eventEn": "Gr. 8 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "13\"63"
+  },
+  {
+    "id": "國二男子組100公尺-5-國中部-二年一班-111",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "一班",
+    "rawName": "劉宗哲",
+    "type": "100公尺",
+    "eventName": "國二男子組100公尺",
+    "eventEn": "Gr. 8 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "13\"90"
+  },
+  {
+    "id": "國二男子組100公尺-6-國中部-二年四班-112",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "四班",
+    "rawName": "范晴幃",
+    "type": "100公尺",
+    "eventName": "國二男子組100公尺",
+    "eventEn": "Gr. 8 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "14\"10"
+  },
+  {
+    "id": "國二女子組100公尺-1-國中部-二年五班-113",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "五班",
+    "rawName": "郭芸希",
+    "type": "100公尺",
+    "eventName": "國二女子組100公尺",
+    "eventEn": "Gr. 8 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "14\"44",
+    "enteredAt": "2026-11-17 09:31:53"
+  },
+  {
+    "id": "國二女子組100公尺-2-雙語部-八年b班-114",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 8,
+    "gradeLabel": "八年",
+    "className": "B班",
+    "rawName": "朱姵霓 JHU, PEI NI",
+    "type": "100公尺",
+    "eventName": "國二女子組100公尺",
+    "eventEn": "Gr. 8 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "14\"79"
+  },
+  {
+    "id": "國二女子組100公尺-3-雙語部-八年b班-115",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 8,
+    "gradeLabel": "八年",
+    "className": "B班",
+    "rawName": "詹筑茵 CHAN, CHU-YIN",
+    "type": "100公尺",
+    "eventName": "國二女子組100公尺",
+    "eventEn": "Gr. 8 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "14\"97"
+  },
+  {
+    "id": "國二女子組100公尺-4-國中部-二年五班-116",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "五班",
+    "rawName": "趙綵婕",
+    "type": "100公尺",
+    "eventName": "國二女子組100公尺",
+    "eventEn": "Gr. 8 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "15\"18"
+  },
+  {
+    "id": "國二女子組100公尺-5-國中部-二年一班-117",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "一班",
+    "rawName": "徐子晴",
+    "type": "100公尺",
+    "eventName": "國二女子組100公尺",
+    "eventEn": "Gr. 8 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "15\"26"
+  },
+  {
+    "id": "國二女子組100公尺-6-國中部-二年四班-118",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 8,
+    "gradeLabel": "國二",
+    "className": "四班",
+    "rawName": "蔡牧洵",
+    "type": "100公尺",
+    "eventName": "國二女子組100公尺",
+    "eventEn": "Gr. 8 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "15\"53"
+  },
+  {
+    "id": "國一男子組100公尺-1-國中部-一年二班-119",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "二班",
+    "rawName": "陳宇威",
+    "type": "100公尺",
+    "eventName": "國一男子組100公尺",
+    "eventEn": "Gr. 7 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "12\"98",
+    "enteredAt": "2026-11-17 09:31:04"
+  },
+  {
+    "id": "國一男子組100公尺-2-雙語部-七年a班-120",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 7,
+    "gradeLabel": "七年",
+    "className": "A班",
+    "rawName": "劉鐘燦 YU, JONGCHAN",
+    "type": "100公尺",
+    "eventName": "國一男子組100公尺",
+    "eventEn": "Gr. 7 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "14\"01"
+  },
+  {
+    "id": "國一男子組100公尺-3-國中部-一年五班-121",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "五班",
+    "rawName": "蔣季衡",
+    "type": "100公尺",
+    "eventName": "國一男子組100公尺",
+    "eventEn": "Gr. 7 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "14\"45"
+  },
+  {
+    "id": "國一男子組100公尺-4-國中部-一年四班-122",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "四班",
+    "rawName": "楊允陞",
+    "type": "100公尺",
+    "eventName": "國一男子組100公尺",
+    "eventEn": "Gr. 7 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "14\"67"
+  },
+  {
+    "id": "國一男子組100公尺-5-國中部-一年二班-123",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "二班",
+    "rawName": "顏培翰",
+    "type": "100公尺",
+    "eventName": "國一男子組100公尺",
+    "eventEn": "Gr. 7 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "14\"72"
+  },
+  {
+    "id": "國一男子組100公尺-6-國中部-一年四班-124",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "四班",
+    "rawName": "陳震鵬",
+    "type": "100公尺",
+    "eventName": "國一男子組100公尺",
+    "eventEn": "Gr. 7 Boys 100 Meters",
+    "group": "男子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "15\"10"
+  },
+  {
+    "id": "國一女子組100公尺-1-國中部-一年二班-125",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "二班",
+    "rawName": "陳宥璇",
+    "type": "100公尺",
+    "eventName": "國一女子組100公尺",
+    "eventEn": "Gr. 7 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 1,
+    "rankText": "第一名",
+    "rankEn": "1st Place",
+    "score": "13\"35",
+    "note": "破大會紀錄: 13\"60",
+    "enteredAt": "2026-11-17 09:30:40"
+  },
+  {
+    "id": "國一女子組100公尺-2-國中部-一年一班-126",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "一班",
+    "rawName": "張芮芹",
+    "type": "100公尺",
+    "eventName": "國一女子組100公尺",
+    "eventEn": "Gr. 7 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 2,
+    "rankText": "第二名",
+    "rankEn": "2nd Place",
+    "score": "15\"47"
+  },
+  {
+    "id": "國一女子組100公尺-3-雙語部-七年b班-127",
+    "department": "雙語部",
+    "schoolUnit": "雙語部",
+    "gradeNumber": 7,
+    "gradeLabel": "七年",
+    "className": "B班",
+    "rawName": "吳若熙 DOREEN RUOSI WU",
+    "type": "100公尺",
+    "eventName": "國一女子組100公尺",
+    "eventEn": "Gr. 7 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 3,
+    "rankText": "第三名",
+    "rankEn": "3rd Place",
+    "score": "16\"19"
+  },
+  {
+    "id": "國一女子組100公尺-4-國中部-一年四班-128",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "四班",
+    "rawName": "何怡昕",
+    "type": "100公尺",
+    "eventName": "國一女子組100公尺",
+    "eventEn": "Gr. 7 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 4,
+    "rankText": "第四名",
+    "rankEn": "4th Place",
+    "score": "16\"34"
+  },
+  {
+    "id": "國一女子組100公尺-5-國中部-一年二班-129",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "二班",
+    "rawName": "吳宣頤",
+    "type": "100公尺",
+    "eventName": "國一女子組100公尺",
+    "eventEn": "Gr. 7 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 5,
+    "rankText": "第五名",
+    "rankEn": "5th Place",
+    "score": "16\"54"
+  },
+  {
+    "id": "國一女子組100公尺-6-國中部-一年一班-130",
+    "department": "中學部",
+    "schoolUnit": "國中部",
+    "gradeNumber": 7,
+    "gradeLabel": "國一",
+    "className": "一班",
+    "rawName": "許勻禎",
+    "type": "100公尺",
+    "eventName": "國一女子組100公尺",
+    "eventEn": "Gr. 7 Girl 100 Meters",
+    "group": "女子組",
+    "rank": 6,
+    "rankText": "第六名",
+    "rankEn": "6th Place",
+    "score": "16\"76"
+  },
+  {
+    "id": "高一男子組1200公尺接力-1-雙語部-十年a班-131",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -27,7 +2639,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-13 14:48:17"
   },
   {
-    "id": "高一男子組1200公尺接力-2-高中部-一年六班-2",
+    "id": "高一男子組1200公尺接力-2-高中部-一年六班-132",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -50,7 +2662,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高一男子組1200公尺接力-3-高中部-一年一班-3",
+    "id": "高一男子組1200公尺接力-3-高中部-一年一班-133",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -73,7 +2685,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高一男子組1200公尺接力-4-高中部-一年二班-4",
+    "id": "高一男子組1200公尺接力-4-高中部-一年二班-134",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -96,7 +2708,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高一男子組1200公尺接力-5-高中部-一年四班-5",
+    "id": "高一男子組1200公尺接力-5-高中部-一年四班-135",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -119,7 +2731,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高一男子組1200公尺接力-6-高中部-一年三班-6",
+    "id": "高一男子組1200公尺接力-6-高中部-一年三班-136",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -142,7 +2754,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高二女子組1200公尺接力-1-高中部-二年六班-7",
+    "id": "高二女子組1200公尺接力-1-高中部-二年六班-137",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -166,7 +2778,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-13 14:44:47"
   },
   {
-    "id": "高二女子組1200公尺接力-2-高中部-二年三班-8",
+    "id": "高二女子組1200公尺接力-2-高中部-二年三班-138",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -189,7 +2801,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一女子組800公尺-1-國中部-一年四班-9",
+    "id": "國一女子組800公尺-1-國中部-一年四班-139",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -208,7 +2820,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-13 13:35:56"
   },
   {
-    "id": "國一女子組800公尺-2-國中部-一年四班-10",
+    "id": "國一女子組800公尺-2-國中部-一年四班-140",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -225,7 +2837,7 @@ window.AWARD_RECORDS = [
     "score": "3'06\"35"
   },
   {
-    "id": "國一女子組800公尺-3-國中部-一年一班-11",
+    "id": "國一女子組800公尺-3-國中部-一年一班-141",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -242,7 +2854,7 @@ window.AWARD_RECORDS = [
     "score": "3'10\"01"
   },
   {
-    "id": "國一女子組800公尺-4-國中部-一年三班-12",
+    "id": "國一女子組800公尺-4-國中部-一年三班-142",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -259,7 +2871,7 @@ window.AWARD_RECORDS = [
     "score": "3'25\"41"
   },
   {
-    "id": "國一女子組800公尺-5-國中部-一年一班-13",
+    "id": "國一女子組800公尺-5-國中部-一年一班-143",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -276,7 +2888,7 @@ window.AWARD_RECORDS = [
     "score": "3'26\"43"
   },
   {
-    "id": "國一女子組800公尺-6-國中部-一年五班-14",
+    "id": "國一女子組800公尺-6-國中部-一年五班-144",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -293,7 +2905,7 @@ window.AWARD_RECORDS = [
     "score": "3'30\"49"
   },
   {
-    "id": "國一女子組跳遠-1-國中部-一年四班-15",
+    "id": "國一女子組跳遠-1-國中部-一年四班-145",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -311,7 +2923,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-13 13:35:30"
   },
   {
-    "id": "國一女子組跳遠-2-雙語部-七年a班-16",
+    "id": "國一女子組跳遠-2-雙語部-七年a班-146",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -328,7 +2940,7 @@ window.AWARD_RECORDS = [
     "score": "3.51m"
   },
   {
-    "id": "國一女子組跳遠-3-雙語部-七年a班-17",
+    "id": "國一女子組跳遠-3-雙語部-七年a班-147",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -345,7 +2957,7 @@ window.AWARD_RECORDS = [
     "score": "3.27m"
   },
   {
-    "id": "國一女子組跳遠-4-國中部-一年五班-18",
+    "id": "國一女子組跳遠-4-國中部-一年五班-148",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -362,7 +2974,7 @@ window.AWARD_RECORDS = [
     "score": "3.17m"
   },
   {
-    "id": "國一女子組跳遠-5-國中部-一年三班-19",
+    "id": "國一女子組跳遠-5-國中部-一年三班-149",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -379,7 +2991,7 @@ window.AWARD_RECORDS = [
     "score": "2.88m"
   },
   {
-    "id": "國一女子組跳遠-6-國中部-一年三班-20",
+    "id": "國一女子組跳遠-6-國中部-一年三班-150",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -396,7 +3008,7 @@ window.AWARD_RECORDS = [
     "score": "2.76m"
   },
   {
-    "id": "國三女子組鉛球-1-國中部-三年一班-21",
+    "id": "國三女子組鉛球-1-國中部-三年一班-151",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -414,7 +3026,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-13 13:34:44"
   },
   {
-    "id": "國三女子組鉛球-2-國中部-三年四班-22",
+    "id": "國三女子組鉛球-2-國中部-三年四班-152",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -431,7 +3043,7 @@ window.AWARD_RECORDS = [
     "score": "6.52m"
   },
   {
-    "id": "國三女子組鉛球-3-雙語部-九年a班-23",
+    "id": "國三女子組鉛球-3-雙語部-九年a班-153",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -448,7 +3060,7 @@ window.AWARD_RECORDS = [
     "score": "4.89m"
   },
   {
-    "id": "國三女子組鉛球-4-國中部-三年五班-24",
+    "id": "國三女子組鉛球-4-國中部-三年五班-154",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -465,7 +3077,7 @@ window.AWARD_RECORDS = [
     "score": "4.45m"
   },
   {
-    "id": "國三女子組鉛球-5-雙語部-九年b班-25",
+    "id": "國三女子組鉛球-5-雙語部-九年b班-155",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -482,7 +3094,7 @@ window.AWARD_RECORDS = [
     "score": "4.40m"
   },
   {
-    "id": "國三女子組鉛球-6-國中部-三年三班-26",
+    "id": "國三女子組鉛球-6-國中部-三年三班-156",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -499,7 +3111,7 @@ window.AWARD_RECORDS = [
     "score": "4.36m"
   },
   {
-    "id": "高三400公尺男女混合接力-1-高中部-三年三班-27",
+    "id": "高三400公尺男女混合接力-1-高中部-三年三班-157",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -524,7 +3136,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 16:31:48"
   },
   {
-    "id": "高三400公尺男女混合接力-2-高中部-三年六班-28",
+    "id": "高三400公尺男女混合接力-2-高中部-三年六班-158",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -548,7 +3160,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高三400公尺男女混合接力-3-高中部-三年二班-29",
+    "id": "高三400公尺男女混合接力-3-高中部-三年二班-159",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -572,7 +3184,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高三400公尺男女混合接力-4-高中部-三年四班-30",
+    "id": "高三400公尺男女混合接力-4-高中部-三年四班-160",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -596,7 +3208,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高三400公尺男女混合接力-5-雙語部-十二年b班-31",
+    "id": "高三400公尺男女混合接力-5-雙語部-十二年b班-161",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -620,7 +3232,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高三400公尺男女混合接力-6-雙語部-十二年a班-32",
+    "id": "高三400公尺男女混合接力-6-雙語部-十二年a班-162",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -644,7 +3256,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高一男子組400公尺-1-高中部-一年四班-33",
+    "id": "高一男子組400公尺-1-高中部-一年四班-163",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -662,7 +3274,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 15:38:49"
   },
   {
-    "id": "高一男子組400公尺-2-高中部-一年六班-34",
+    "id": "高一男子組400公尺-2-高中部-一年六班-164",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -679,7 +3291,7 @@ window.AWARD_RECORDS = [
     "score": "1'02\"16"
   },
   {
-    "id": "高一男子組400公尺-3-雙語部-十年a班-35",
+    "id": "高一男子組400公尺-3-雙語部-十年a班-165",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -696,7 +3308,7 @@ window.AWARD_RECORDS = [
     "score": "1'02\"35"
   },
   {
-    "id": "高一男子組400公尺-4-高中部-一年二班-36",
+    "id": "高一男子組400公尺-4-高中部-一年二班-166",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -713,7 +3325,7 @@ window.AWARD_RECORDS = [
     "score": "1'03\"04"
   },
   {
-    "id": "高一男子組400公尺-5-高中部-一年五班-37",
+    "id": "高一男子組400公尺-5-高中部-一年五班-167",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -730,7 +3342,7 @@ window.AWARD_RECORDS = [
     "score": "1'04\"27"
   },
   {
-    "id": "高一男子組400公尺-6-高中部-一年一班-38",
+    "id": "高一男子組400公尺-6-高中部-一年一班-168",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -747,7 +3359,7 @@ window.AWARD_RECORDS = [
     "score": "1'04\"70"
   },
   {
-    "id": "高一男子組400公尺-6-高中部-一年四班-39",
+    "id": "高一男子組400公尺-6-高中部-一年四班-169",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -764,7 +3376,7 @@ window.AWARD_RECORDS = [
     "score": "1'04\"70"
   },
   {
-    "id": "國二女子組鉛球-1-國中部-二年三班-40",
+    "id": "國二女子組鉛球-1-國中部-二年三班-170",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -782,7 +3394,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 15:34:44"
   },
   {
-    "id": "國二女子組鉛球-2-國中部-二年四班-41",
+    "id": "國二女子組鉛球-2-國中部-二年四班-171",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -799,7 +3411,7 @@ window.AWARD_RECORDS = [
     "score": "6.16m"
   },
   {
-    "id": "國二女子組鉛球-3-雙語部-八年a班-42",
+    "id": "國二女子組鉛球-3-雙語部-八年a班-172",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -816,7 +3428,7 @@ window.AWARD_RECORDS = [
     "score": "5.20m"
   },
   {
-    "id": "國二女子組鉛球-4-國中部-二年五班-43",
+    "id": "國二女子組鉛球-4-國中部-二年五班-173",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -833,7 +3445,7 @@ window.AWARD_RECORDS = [
     "score": "4.87m"
   },
   {
-    "id": "國二女子組鉛球-5-國中部-二年一班-44",
+    "id": "國二女子組鉛球-5-國中部-二年一班-174",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -850,7 +3462,7 @@ window.AWARD_RECORDS = [
     "score": "4.63m"
   },
   {
-    "id": "國二女子組鉛球-6-國中部-二年二班-45",
+    "id": "國二女子組鉛球-6-國中部-二年二班-175",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -867,7 +3479,7 @@ window.AWARD_RECORDS = [
     "score": "4.03m"
   },
   {
-    "id": "高二400公尺男女混合接力-1-高中部-二年六班-46",
+    "id": "高二400公尺男女混合接力-1-高中部-二年六班-176",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -892,7 +3504,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 14:50:53"
   },
   {
-    "id": "高二400公尺男女混合接力-2-雙語部-十一年b班-47",
+    "id": "高二400公尺男女混合接力-2-雙語部-十一年b班-177",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -916,7 +3528,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高二400公尺男女混合接力-3-高中部-二年二班-48",
+    "id": "高二400公尺男女混合接力-3-高中部-二年二班-178",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -940,7 +3552,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高二400公尺男女混合接力-4-高中部-二年三班-49",
+    "id": "高二400公尺男女混合接力-4-高中部-二年三班-179",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -964,7 +3576,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高二400公尺男女混合接力-5-高中部-二年四班-50",
+    "id": "高二400公尺男女混合接力-5-高中部-二年四班-180",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -988,7 +3600,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高二400公尺男女混合接力-6-雙語部-十一年a班-51",
+    "id": "高二400公尺男女混合接力-6-雙語部-十一年a班-181",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -1012,7 +3624,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高一400公尺男女混合接力-1-雙語部-十年a班-52",
+    "id": "高一400公尺男女混合接力-1-雙語部-十年a班-182",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -1037,7 +3649,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 14:49:02"
   },
   {
-    "id": "高一400公尺男女混合接力-2-雙語部-十年b班-53",
+    "id": "高一400公尺男女混合接力-2-雙語部-十年b班-183",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -1061,7 +3673,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高一400公尺男女混合接力-3-高中部-一年五班-54",
+    "id": "高一400公尺男女混合接力-3-高中部-一年五班-184",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -1085,7 +3697,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高一400公尺男女混合接力-4-高中部-一年一班-55",
+    "id": "高一400公尺男女混合接力-4-高中部-一年一班-185",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -1109,7 +3721,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高一400公尺男女混合接力-5-高中部-一年六班-56",
+    "id": "高一400公尺男女混合接力-5-高中部-一年六班-186",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -1133,7 +3745,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "高一400公尺男女混合接力-6-高中部-一年四班-57",
+    "id": "高一400公尺男女混合接力-6-高中部-一年四班-187",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -1157,7 +3769,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國三400公尺男女混合接力-1-雙語部-九年b班-58",
+    "id": "國三400公尺男女混合接力-1-雙語部-九年b班-188",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -1182,7 +3794,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 14:27:42"
   },
   {
-    "id": "國三400公尺男女混合接力-2-國中部-三年五班-59",
+    "id": "國三400公尺男女混合接力-2-國中部-三年五班-189",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1206,7 +3818,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國三400公尺男女混合接力-3-國中部-三年四班-60",
+    "id": "國三400公尺男女混合接力-3-國中部-三年四班-190",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1230,7 +3842,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國三400公尺男女混合接力-4-國中部-三年一班-61",
+    "id": "國三400公尺男女混合接力-4-國中部-三年一班-191",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1254,7 +3866,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國三400公尺男女混合接力-5-國中部-三年二班-62",
+    "id": "國三400公尺男女混合接力-5-國中部-三年二班-192",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1278,7 +3890,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國三400公尺男女混合接力-6-國中部-三年三班-63",
+    "id": "國三400公尺男女混合接力-6-國中部-三年三班-193",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1302,7 +3914,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國二400公尺男女混合接力-1-雙語部-八年b班-64",
+    "id": "國二400公尺男女混合接力-1-雙語部-八年b班-194",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -1327,7 +3939,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 14:24:12"
   },
   {
-    "id": "國二400公尺男女混合接力-2-國中部-二年五班-65",
+    "id": "國二400公尺男女混合接力-2-國中部-二年五班-195",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -1351,7 +3963,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國二400公尺男女混合接力-3-國中部-二年三班-66",
+    "id": "國二400公尺男女混合接力-3-國中部-二年三班-196",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -1375,7 +3987,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國二400公尺男女混合接力-4-國中部-二年四班-67",
+    "id": "國二400公尺男女混合接力-4-國中部-二年四班-197",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -1399,7 +4011,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國二400公尺男女混合接力-5-國中部-二年一班-68",
+    "id": "國二400公尺男女混合接力-5-國中部-二年一班-198",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -1423,7 +4035,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國二400公尺男女混合接力-6-國中部-二年二班-69",
+    "id": "國二400公尺男女混合接力-6-國中部-二年二班-199",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -1447,7 +4059,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國一400公尺男女混合接力-1-國中部-一年三班-70",
+    "id": "國一400公尺男女混合接力-1-國中部-一年三班-200",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1472,7 +4084,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 13:25:46"
   },
   {
-    "id": "國一400公尺男女混合接力-2-國中部-一年二班-71",
+    "id": "國一400公尺男女混合接力-2-國中部-一年二班-201",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1496,7 +4108,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國一400公尺男女混合接力-3-雙語部-七年a班-72",
+    "id": "國一400公尺男女混合接力-3-雙語部-七年a班-202",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -1520,7 +4132,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國一400公尺男女混合接力-4-國中部-一年四班-73",
+    "id": "國一400公尺男女混合接力-4-國中部-一年四班-203",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1544,7 +4156,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國一400公尺男女混合接力-5-國中部-一年五班-74",
+    "id": "國一400公尺男女混合接力-5-國中部-一年五班-204",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1568,7 +4180,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國一400公尺男女混合接力-6-國中部-一年一班-75",
+    "id": "國一400公尺男女混合接力-6-國中部-一年一班-205",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1592,7 +4204,7 @@ window.AWARD_RECORDS = [
     "note": "破大會紀錄: 無資料"
   },
   {
-    "id": "國一女子組1200公尺接力-1-國中部-一年四班-76",
+    "id": "國一女子組1200公尺接力-1-國中部-一年四班-206",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1616,7 +4228,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 12:34:45"
   },
   {
-    "id": "國一女子組1200公尺接力-2-國中部-一年一班-77",
+    "id": "國一女子組1200公尺接力-2-國中部-一年一班-207",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1639,7 +4251,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一女子組1200公尺接力-3-雙語部-七年a班-78",
+    "id": "國一女子組1200公尺接力-3-雙語部-七年a班-208",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -1662,7 +4274,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一女子組1200公尺接力-4-國中部-一年三班-79",
+    "id": "國一女子組1200公尺接力-4-國中部-一年三班-209",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1685,7 +4297,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一女子組1200公尺接力-5-國中部-一年五班-80",
+    "id": "國一女子組1200公尺接力-5-國中部-一年五班-210",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1708,7 +4320,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一女子組1200公尺接力-6-國中部-一年二班-81",
+    "id": "國一女子組1200公尺接力-6-國中部-一年二班-211",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -1731,7 +4343,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三男子組1200公尺接力-1-國中部-三年一班-82",
+    "id": "國三男子組1200公尺接力-1-國中部-三年一班-212",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1755,7 +4367,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 12:31:10"
   },
   {
-    "id": "國三男子組1200公尺接力-2-國中部-三年五班-83",
+    "id": "國三男子組1200公尺接力-2-國中部-三年五班-213",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1778,7 +4390,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三男子組1200公尺接力-3-國中部-三年三班-84",
+    "id": "國三男子組1200公尺接力-3-國中部-三年三班-214",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1801,7 +4413,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三男子組1200公尺接力-4-國中部-三年四班-85",
+    "id": "國三男子組1200公尺接力-4-國中部-三年四班-215",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1824,7 +4436,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三男子組1200公尺接力-5-國中部-三年二班-86",
+    "id": "國三男子組1200公尺接力-5-國中部-三年二班-216",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1847,7 +4459,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三男子組1200公尺接力-6-雙語部-九年a班-87",
+    "id": "國三男子組1200公尺接力-6-雙語部-九年a班-217",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -1870,7 +4482,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三女子組1200公尺接力-1-國中部-三年二班-88",
+    "id": "國三女子組1200公尺接力-1-國中部-三年二班-218",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1894,7 +4506,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 12:26:12"
   },
   {
-    "id": "國三女子組1200公尺接力-2-國中部-三年四班-89",
+    "id": "國三女子組1200公尺接力-2-國中部-三年四班-219",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1917,7 +4529,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三女子組1200公尺接力-3-國中部-三年五班-90",
+    "id": "國三女子組1200公尺接力-3-國中部-三年五班-220",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -1940,7 +4552,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三女子組1200公尺接力-4-雙語部-九年b班-91",
+    "id": "國三女子組1200公尺接力-4-雙語部-九年b班-221",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -1963,7 +4575,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三女子組1200公尺接力-5-雙語部-九年a班-92",
+    "id": "國三女子組1200公尺接力-5-雙語部-九年a班-222",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -1986,7 +4598,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國三女子組1200公尺接力-6-國中部-三年一班-93",
+    "id": "國三女子組1200公尺接力-6-國中部-三年一班-223",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -2009,7 +4621,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高二男子組1200公尺接力-1-高中部-二年二班-94",
+    "id": "高二男子組1200公尺接力-1-高中部-二年二班-224",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2033,7 +4645,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 12:05:06"
   },
   {
-    "id": "高二男子組1200公尺接力-2-高中部-二年三班-95",
+    "id": "高二男子組1200公尺接力-2-高中部-二年三班-225",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2056,7 +4668,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高二男子組1200公尺接力-3-雙語部-十一年b班-96",
+    "id": "高二男子組1200公尺接力-3-雙語部-十一年b班-226",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -2079,7 +4691,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高二男子組1200公尺接力-4-高中部-二年六班-97",
+    "id": "高二男子組1200公尺接力-4-高中部-二年六班-227",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2102,7 +4714,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高二男子組1200公尺接力-5-高中部-二年五班-98",
+    "id": "高二男子組1200公尺接力-5-高中部-二年五班-228",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2125,7 +4737,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三女子組1200公尺接力-1-雙語部-十二年a班-99",
+    "id": "高三女子組1200公尺接力-1-雙語部-十二年a班-229",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -2149,7 +4761,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 12:03:38"
   },
   {
-    "id": "高三女子組1200公尺接力-2-雙語部-十二年b班-100",
+    "id": "高三女子組1200公尺接力-2-雙語部-十二年b班-230",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -2172,7 +4784,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三女子組1200公尺接力-3-高中部-三年六班-101",
+    "id": "高三女子組1200公尺接力-3-高中部-三年六班-231",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -2195,7 +4807,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三女子組1200公尺接力-4-高中部-三年四班-102",
+    "id": "高三女子組1200公尺接力-4-高中部-三年四班-232",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -2218,7 +4830,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三男子組1200公尺接力-1-高中部-三年六班-103",
+    "id": "高三男子組1200公尺接力-1-高中部-三年六班-233",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -2242,7 +4854,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 12:02:32"
   },
   {
-    "id": "高三男子組1200公尺接力-2-高中部-三年四班-104",
+    "id": "高三男子組1200公尺接力-2-高中部-三年四班-234",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -2265,7 +4877,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三男子組1200公尺接力-3-雙語部-十二年a班-105",
+    "id": "高三男子組1200公尺接力-3-雙語部-十二年a班-235",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -2288,7 +4900,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三男子組1200公尺接力-4-高中部-三年三班-106",
+    "id": "高三男子組1200公尺接力-4-高中部-三年三班-236",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -2311,7 +4923,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三男子組1200公尺接力-5-雙語部-十二年b班-107",
+    "id": "高三男子組1200公尺接力-5-雙語部-十二年b班-237",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -2334,7 +4946,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二男子組1200公尺接力-1-國中部-二年五班-108",
+    "id": "國二男子組1200公尺接力-1-國中部-二年五班-238",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2358,7 +4970,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 11:41:58"
   },
   {
-    "id": "國二男子組1200公尺接力-2-國中部-二年四班-109",
+    "id": "國二男子組1200公尺接力-2-國中部-二年四班-239",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2381,7 +4993,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二男子組1200公尺接力-3-國中部-二年二班-110",
+    "id": "國二男子組1200公尺接力-3-國中部-二年二班-240",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2404,7 +5016,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二男子組1200公尺接力-4-雙語部-八年b班-111",
+    "id": "國二男子組1200公尺接力-4-雙語部-八年b班-241",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -2427,7 +5039,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二男子組1200公尺接力-5-國中部-二年一班-112",
+    "id": "國二男子組1200公尺接力-5-國中部-二年一班-242",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2450,7 +5062,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二男子組1200公尺接力-6-國中部-二年三班-113",
+    "id": "國二男子組1200公尺接力-6-國中部-二年三班-243",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2473,7 +5085,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二女子組1200公尺接力-1-雙語部-八年b班-114",
+    "id": "國二女子組1200公尺接力-1-雙語部-八年b班-244",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -2497,7 +5109,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 11:40:09"
   },
   {
-    "id": "國二女子組1200公尺接力-2-國中部-二年四班-115",
+    "id": "國二女子組1200公尺接力-2-國中部-二年四班-245",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2520,7 +5132,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二女子組1200公尺接力-3-國中部-二年五班-116",
+    "id": "國二女子組1200公尺接力-3-國中部-二年五班-246",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2543,7 +5155,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二女子組1200公尺接力-4-國中部-二年一班-117",
+    "id": "國二女子組1200公尺接力-4-國中部-二年一班-247",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2566,7 +5178,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二女子組1200公尺接力-5-國中部-二年三班-118",
+    "id": "國二女子組1200公尺接力-5-國中部-二年三班-248",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2589,7 +5201,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國二女子組1200公尺接力-6-國中部-二年二班-119",
+    "id": "國二女子組1200公尺接力-6-國中部-二年二班-249",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -2612,7 +5224,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一男子組1200公尺接力-1-國中部-一年一班-120",
+    "id": "國一男子組1200公尺接力-1-國中部-一年一班-250",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -2636,7 +5248,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 11:37:39"
   },
   {
-    "id": "國一男子組1200公尺接力-2-國中部-一年四班-121",
+    "id": "國一男子組1200公尺接力-2-國中部-一年四班-251",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -2659,7 +5271,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一男子組1200公尺接力-3-雙語部-七年a班-122",
+    "id": "國一男子組1200公尺接力-3-雙語部-七年a班-252",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -2682,7 +5294,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一男子組1200公尺接力-4-國中部-一年五班-123",
+    "id": "國一男子組1200公尺接力-4-國中部-一年五班-253",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -2705,7 +5317,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一男子組1200公尺接力-5-國中部-一年二班-124",
+    "id": "國一男子組1200公尺接力-5-國中部-一年二班-254",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -2728,7 +5340,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "國一男子組1200公尺接力-6-國中部-一年三班-125",
+    "id": "國一男子組1200公尺接力-6-國中部-一年三班-255",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -2751,7 +5363,7 @@ window.AWARD_RECORDS = [
     ]
   },
   {
-    "id": "高三男子組800公尺-1-高中部-三年二班-126",
+    "id": "高三男子組800公尺-1-高中部-三年二班-256",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -2769,7 +5381,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:33:11"
   },
   {
-    "id": "高三男子組800公尺-2-雙語部-十二年a班-127",
+    "id": "高三男子組800公尺-2-雙語部-十二年a班-257",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -2786,7 +5398,7 @@ window.AWARD_RECORDS = [
     "score": "2'32\"42"
   },
   {
-    "id": "高三男子組800公尺-3-雙語部-十二年a班-128",
+    "id": "高三男子組800公尺-3-雙語部-十二年a班-258",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -2803,7 +5415,7 @@ window.AWARD_RECORDS = [
     "score": "2'33\"79"
   },
   {
-    "id": "高三男子組800公尺-4-高中部-三年五班-129",
+    "id": "高三男子組800公尺-4-高中部-三年五班-259",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -2820,7 +5432,7 @@ window.AWARD_RECORDS = [
     "score": "2'35\"08"
   },
   {
-    "id": "高二男子組800公尺-1-高中部-二年三班-130",
+    "id": "高二男子組800公尺-1-高中部-二年三班-260",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2838,7 +5450,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:32:10"
   },
   {
-    "id": "高二男子組800公尺-2-高中部-二年二班-131",
+    "id": "高二男子組800公尺-2-高中部-二年二班-261",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2855,7 +5467,7 @@ window.AWARD_RECORDS = [
     "score": "2'28\"55"
   },
   {
-    "id": "高二男子組800公尺-3-高中部-二年四班-132",
+    "id": "高二男子組800公尺-3-高中部-二年四班-262",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2872,7 +5484,7 @@ window.AWARD_RECORDS = [
     "score": "2'39\"14"
   },
   {
-    "id": "高二男子組800公尺-4-高中部-二年五班-133",
+    "id": "高二男子組800公尺-4-高中部-二年五班-263",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2889,7 +5501,7 @@ window.AWARD_RECORDS = [
     "score": "2'40\"46"
   },
   {
-    "id": "高二男子組800公尺-5-高中部-二年六班-134",
+    "id": "高二男子組800公尺-5-高中部-二年六班-264",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2906,7 +5518,7 @@ window.AWARD_RECORDS = [
     "score": "2'43\"74"
   },
   {
-    "id": "高二男子組800公尺-6-高中部-二年五班-135",
+    "id": "高二男子組800公尺-6-高中部-二年五班-265",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -2923,7 +5535,7 @@ window.AWARD_RECORDS = [
     "score": "2'49\"04"
   },
   {
-    "id": "高一男子組800公尺-1-高中部-一年二班-136",
+    "id": "高一男子組800公尺-1-高中部-一年二班-266",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -2941,7 +5553,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:29:37"
   },
   {
-    "id": "高一男子組800公尺-2-高中部-一年六班-137",
+    "id": "高一男子組800公尺-2-高中部-一年六班-267",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -2958,7 +5570,7 @@ window.AWARD_RECORDS = [
     "score": "2'31\"89"
   },
   {
-    "id": "高一男子組800公尺-3-高中部-一年三班-138",
+    "id": "高一男子組800公尺-3-高中部-一年三班-268",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -2975,7 +5587,7 @@ window.AWARD_RECORDS = [
     "score": "2'34\"41"
   },
   {
-    "id": "高一男子組800公尺-4-高中部-一年四班-139",
+    "id": "高一男子組800公尺-4-高中部-一年四班-269",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -2992,7 +5604,7 @@ window.AWARD_RECORDS = [
     "score": "2'36\"12"
   },
   {
-    "id": "高一男子組800公尺-5-高中部-一年二班-140",
+    "id": "高一男子組800公尺-5-高中部-一年二班-270",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -3009,7 +5621,7 @@ window.AWARD_RECORDS = [
     "score": "2'42\"02"
   },
   {
-    "id": "高一男子組800公尺-6-高中部-一年三班-141",
+    "id": "高一男子組800公尺-6-高中部-一年三班-271",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -3026,7 +5638,7 @@ window.AWARD_RECORDS = [
     "score": "2'43\"32"
   },
   {
-    "id": "國三男子組800公尺-1-國中部-三年四班-142",
+    "id": "國三男子組800公尺-1-國中部-三年四班-272",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3044,7 +5656,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:27:27"
   },
   {
-    "id": "國三男子組800公尺-2-國中部-三年一班-143",
+    "id": "國三男子組800公尺-2-國中部-三年一班-273",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3061,7 +5673,7 @@ window.AWARD_RECORDS = [
     "score": "2'29\"16"
   },
   {
-    "id": "國三男子組800公尺-3-國中部-三年一班-144",
+    "id": "國三男子組800公尺-3-國中部-三年一班-274",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3078,7 +5690,7 @@ window.AWARD_RECORDS = [
     "score": "2'35\"93"
   },
   {
-    "id": "國三男子組800公尺-4-國中部-三年四班-145",
+    "id": "國三男子組800公尺-4-國中部-三年四班-275",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3095,7 +5707,7 @@ window.AWARD_RECORDS = [
     "score": "2'38\"55"
   },
   {
-    "id": "國三男子組800公尺-5-國中部-三年三班-146",
+    "id": "國三男子組800公尺-5-國中部-三年三班-276",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3112,7 +5724,7 @@ window.AWARD_RECORDS = [
     "score": "2'38\"98"
   },
   {
-    "id": "國三男子組800公尺-6-國中部-三年五班-147",
+    "id": "國三男子組800公尺-6-國中部-三年五班-277",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3129,7 +5741,7 @@ window.AWARD_RECORDS = [
     "score": "2'46\"09"
   },
   {
-    "id": "國二男子組800公尺-1-國中部-二年五班-148",
+    "id": "國二男子組800公尺-1-國中部-二年五班-278",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3147,7 +5759,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:25:06"
   },
   {
-    "id": "國二男子組800公尺-2-國中部-二年五班-149",
+    "id": "國二男子組800公尺-2-國中部-二年五班-279",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3164,7 +5776,7 @@ window.AWARD_RECORDS = [
     "score": "2'32\"48"
   },
   {
-    "id": "國二男子組800公尺-3-國中部-二年四班-150",
+    "id": "國二男子組800公尺-3-國中部-二年四班-280",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3181,7 +5793,7 @@ window.AWARD_RECORDS = [
     "score": "2'53\"27"
   },
   {
-    "id": "國二男子組800公尺-4-國中部-二年三班-151",
+    "id": "國二男子組800公尺-4-國中部-二年三班-281",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3198,7 +5810,7 @@ window.AWARD_RECORDS = [
     "score": "2'55\"08"
   },
   {
-    "id": "國二男子組800公尺-5-國中部-二年四班-152",
+    "id": "國二男子組800公尺-5-國中部-二年四班-282",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3215,7 +5827,7 @@ window.AWARD_RECORDS = [
     "score": "3'06\"28"
   },
   {
-    "id": "國二男子組800公尺-6-國中部-二年三班-153",
+    "id": "國二男子組800公尺-6-國中部-二年三班-283",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3232,7 +5844,7 @@ window.AWARD_RECORDS = [
     "score": "3'09\"73"
   },
   {
-    "id": "國一男子組800公尺-1-國中部-一年二班-154",
+    "id": "國一男子組800公尺-1-國中部-一年二班-284",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -3250,7 +5862,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:23:16"
   },
   {
-    "id": "國一男子組800公尺-2-國中部-一年三班-155",
+    "id": "國一男子組800公尺-2-國中部-一年三班-285",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -3267,7 +5879,7 @@ window.AWARD_RECORDS = [
     "score": "3'34\"82"
   },
   {
-    "id": "國一男子組800公尺-3-國中部-一年五班-156",
+    "id": "國一男子組800公尺-3-國中部-一年五班-286",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -3284,7 +5896,7 @@ window.AWARD_RECORDS = [
     "score": "2'47\"52"
   },
   {
-    "id": "國一男子組800公尺-4-國中部-一年四班-157",
+    "id": "國一男子組800公尺-4-國中部-一年四班-287",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -3301,7 +5913,7 @@ window.AWARD_RECORDS = [
     "score": "2'48\"93"
   },
   {
-    "id": "國一男子組800公尺-5-國中部-一年三班-158",
+    "id": "國一男子組800公尺-5-國中部-一年三班-288",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -3318,7 +5930,7 @@ window.AWARD_RECORDS = [
     "score": "2'50\"75"
   },
   {
-    "id": "國一男子組800公尺-6-國中部-一年二班-159",
+    "id": "國一男子組800公尺-6-國中部-一年二班-289",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -3335,7 +5947,7 @@ window.AWARD_RECORDS = [
     "score": "2'51\"35"
   },
   {
-    "id": "高三女子組800公尺-1-高中部-三年六班-160",
+    "id": "高三女子組800公尺-1-高中部-三年六班-290",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -3353,7 +5965,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:19:07"
   },
   {
-    "id": "高三女子組800公尺-2-高中部-三年四班-161",
+    "id": "高三女子組800公尺-2-高中部-三年四班-291",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -3370,7 +5982,7 @@ window.AWARD_RECORDS = [
     "score": "3'16\"65"
   },
   {
-    "id": "高三女子組800公尺-3-雙語部-十二年a班-162",
+    "id": "高三女子組800公尺-3-雙語部-十二年a班-292",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -3387,7 +5999,7 @@ window.AWARD_RECORDS = [
     "score": "3'18\"49"
   },
   {
-    "id": "高三女子組800公尺-4-雙語部-十二年a班-163",
+    "id": "高三女子組800公尺-4-雙語部-十二年a班-293",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -3404,7 +6016,7 @@ window.AWARD_RECORDS = [
     "score": "3'25\"08"
   },
   {
-    "id": "高三女子組800公尺-5-雙語部-十二年b班-164",
+    "id": "高三女子組800公尺-5-雙語部-十二年b班-294",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -3421,7 +6033,7 @@ window.AWARD_RECORDS = [
     "score": "3'27\"93"
   },
   {
-    "id": "高三女子組800公尺-6-高中部-三年六班-165",
+    "id": "高三女子組800公尺-6-高中部-三年六班-295",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -3438,7 +6050,7 @@ window.AWARD_RECORDS = [
     "score": "3'30\"88"
   },
   {
-    "id": "高二女子組800公尺-1-高中部-二年六班-166",
+    "id": "高二女子組800公尺-1-高中部-二年六班-296",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -3456,7 +6068,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:17:38"
   },
   {
-    "id": "高二女子組800公尺-2-高中部-二年三班-167",
+    "id": "高二女子組800公尺-2-高中部-二年三班-297",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -3473,7 +6085,7 @@ window.AWARD_RECORDS = [
     "score": "3'12\"03"
   },
   {
-    "id": "高二女子組800公尺-3-高中部-二年四班-168",
+    "id": "高二女子組800公尺-3-高中部-二年四班-298",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -3490,7 +6102,7 @@ window.AWARD_RECORDS = [
     "score": "3'24\"62"
   },
   {
-    "id": "高二女子組800公尺-4-高中部-二年二班-169",
+    "id": "高二女子組800公尺-4-高中部-二年二班-299",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -3507,7 +6119,7 @@ window.AWARD_RECORDS = [
     "score": "3'28\"45"
   },
   {
-    "id": "高二女子組800公尺-5-高中部-二年五班-170",
+    "id": "高二女子組800公尺-5-高中部-二年五班-300",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -3524,7 +6136,7 @@ window.AWARD_RECORDS = [
     "score": "3'45\"78"
   },
   {
-    "id": "高二女子組800公尺-6-高中部-二年二班-171",
+    "id": "高二女子組800公尺-6-高中部-二年二班-301",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -3541,7 +6153,7 @@ window.AWARD_RECORDS = [
     "score": "3'49\"63"
   },
   {
-    "id": "高一女子組800公尺-1-雙語部-十年b班-172",
+    "id": "高一女子組800公尺-1-雙語部-十年b班-302",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -3559,7 +6171,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:16:00"
   },
   {
-    "id": "高一女子組800公尺-2-高中部-一年二班-173",
+    "id": "高一女子組800公尺-2-高中部-一年二班-303",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -3576,7 +6188,7 @@ window.AWARD_RECORDS = [
     "score": "3'03\"04"
   },
   {
-    "id": "高一女子組800公尺-3-高中部-一年一班-174",
+    "id": "高一女子組800公尺-3-高中部-一年一班-304",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -3593,7 +6205,7 @@ window.AWARD_RECORDS = [
     "score": "3'10\"71"
   },
   {
-    "id": "高一女子組800公尺-4-高中部-一年一班-175",
+    "id": "高一女子組800公尺-4-高中部-一年一班-305",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -3610,7 +6222,7 @@ window.AWARD_RECORDS = [
     "score": "3'18\"06"
   },
   {
-    "id": "高一女子組800公尺-5-雙語部-十年a班-176",
+    "id": "高一女子組800公尺-5-雙語部-十年a班-306",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -3627,7 +6239,7 @@ window.AWARD_RECORDS = [
     "score": "3'20\"84"
   },
   {
-    "id": "高一女子組800公尺-6-高中部-一年四班-177",
+    "id": "高一女子組800公尺-6-高中部-一年四班-307",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -3644,7 +6256,7 @@ window.AWARD_RECORDS = [
     "score": "3'28\"33"
   },
   {
-    "id": "國三女子組800公尺-1-國中部-三年二班-178",
+    "id": "國三女子組800公尺-1-國中部-三年二班-308",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3662,7 +6274,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:14:39"
   },
   {
-    "id": "國三女子組800公尺-2-雙語部-九年b班-179",
+    "id": "國三女子組800公尺-2-雙語部-九年b班-309",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -3679,7 +6291,7 @@ window.AWARD_RECORDS = [
     "score": "3'16\"09"
   },
   {
-    "id": "國三女子組800公尺-3-國中部-三年五班-180",
+    "id": "國三女子組800公尺-3-國中部-三年五班-310",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3696,7 +6308,7 @@ window.AWARD_RECORDS = [
     "score": "3'26\"33"
   },
   {
-    "id": "國三女子組800公尺-4-國中部-三年五班-181",
+    "id": "國三女子組800公尺-4-國中部-三年五班-311",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3713,7 +6325,7 @@ window.AWARD_RECORDS = [
     "score": "3'27\"48"
   },
   {
-    "id": "國三女子組800公尺-5-國中部-三年一班-182",
+    "id": "國三女子組800公尺-5-國中部-三年一班-312",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3730,7 +6342,7 @@ window.AWARD_RECORDS = [
     "score": "3'29\"27"
   },
   {
-    "id": "國三女子組800公尺-6-國中部-三年一班-183",
+    "id": "國三女子組800公尺-6-國中部-三年一班-313",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3747,7 +6359,7 @@ window.AWARD_RECORDS = [
     "score": "3'37\"99"
   },
   {
-    "id": "國二女子組800公尺-1-國中部-二年四班-184",
+    "id": "國二女子組800公尺-1-國中部-二年四班-314",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3765,7 +6377,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:12:32"
   },
   {
-    "id": "國二女子組800公尺-2-國中部-二年一班-185",
+    "id": "國二女子組800公尺-2-國中部-二年一班-315",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3782,7 +6394,7 @@ window.AWARD_RECORDS = [
     "score": "3'01\"84"
   },
   {
-    "id": "國二女子組800公尺-3-雙語部-八年b班-186",
+    "id": "國二女子組800公尺-3-雙語部-八年b班-316",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -3799,7 +6411,7 @@ window.AWARD_RECORDS = [
     "score": "3'11\"06"
   },
   {
-    "id": "國二女子組800公尺-4-國中部-二年五班-187",
+    "id": "國二女子組800公尺-4-國中部-二年五班-317",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3816,7 +6428,7 @@ window.AWARD_RECORDS = [
     "score": "3'13\"62"
   },
   {
-    "id": "國二女子組800公尺-5-國中部-二年四班-188",
+    "id": "國二女子組800公尺-5-國中部-二年四班-318",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3833,7 +6445,7 @@ window.AWARD_RECORDS = [
     "score": "3'21\"70"
   },
   {
-    "id": "國二女子組800公尺-6-國中部-二年二班-189",
+    "id": "國二女子組800公尺-6-國中部-二年二班-319",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3850,7 +6462,7 @@ window.AWARD_RECORDS = [
     "score": "3'25\"98"
   },
   {
-    "id": "國三女子組跳遠-1-國中部-三年二班-190",
+    "id": "國三女子組跳遠-1-國中部-三年二班-320",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3868,7 +6480,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:08:12"
   },
   {
-    "id": "國三女子組跳遠-2-國中部-三年四班-191",
+    "id": "國三女子組跳遠-2-國中部-三年四班-321",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3885,7 +6497,7 @@ window.AWARD_RECORDS = [
     "score": "3.25m"
   },
   {
-    "id": "國三女子組跳遠-3-國中部-三年一班-192",
+    "id": "國三女子組跳遠-3-國中部-三年一班-322",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3902,7 +6514,7 @@ window.AWARD_RECORDS = [
     "score": "2.82m"
   },
   {
-    "id": "國三女子組跳遠-4-國中部-三年五班-193",
+    "id": "國三女子組跳遠-4-國中部-三年五班-323",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3919,7 +6531,7 @@ window.AWARD_RECORDS = [
     "score": "2.63m"
   },
   {
-    "id": "國三女子組跳遠-5-國中部-三年一班-194",
+    "id": "國三女子組跳遠-5-國中部-三年一班-324",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -3936,7 +6548,7 @@ window.AWARD_RECORDS = [
     "score": "2.58m"
   },
   {
-    "id": "國三女子組跳遠-6-雙語部-九年a班-195",
+    "id": "國三女子組跳遠-6-雙語部-九年a班-325",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -3953,7 +6565,7 @@ window.AWARD_RECORDS = [
     "score": "2.57m"
   },
   {
-    "id": "國二女子組跳遠-1-國中部-二年二班-196",
+    "id": "國二女子組跳遠-1-國中部-二年二班-326",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3971,7 +6583,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:07:15"
   },
   {
-    "id": "國二女子組跳遠-2-國中部-二年四班-197",
+    "id": "國二女子組跳遠-2-國中部-二年四班-327",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -3988,7 +6600,7 @@ window.AWARD_RECORDS = [
     "score": "3.57m"
   },
   {
-    "id": "國二女子組跳遠-3-國中部-二年五班-198",
+    "id": "國二女子組跳遠-3-國中部-二年五班-328",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4005,7 +6617,7 @@ window.AWARD_RECORDS = [
     "score": "3.48m"
   },
   {
-    "id": "國二女子組跳遠-4-國中部-二年一班-199",
+    "id": "國二女子組跳遠-4-國中部-二年一班-329",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4022,7 +6634,7 @@ window.AWARD_RECORDS = [
     "score": "3.44m"
   },
   {
-    "id": "國二女子組跳遠-5-國中部-二年四班-200",
+    "id": "國二女子組跳遠-5-國中部-二年四班-330",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4039,7 +6651,7 @@ window.AWARD_RECORDS = [
     "score": "3.05m"
   },
   {
-    "id": "國二女子組跳遠-6-國中部-二年三班-201",
+    "id": "國二女子組跳遠-6-國中部-二年三班-331",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4056,7 +6668,7 @@ window.AWARD_RECORDS = [
     "score": "2.94m"
   },
   {
-    "id": "國一男子組跳遠-1-雙語部-七年a班-202",
+    "id": "國一男子組跳遠-1-雙語部-七年a班-332",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -4074,7 +6686,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:05:14"
   },
   {
-    "id": "國一男子組跳遠-2-國中部-一年五班-203",
+    "id": "國一男子組跳遠-2-國中部-一年五班-333",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -4091,7 +6703,7 @@ window.AWARD_RECORDS = [
     "score": "3.67m"
   },
   {
-    "id": "國一男子組跳遠-3-國中部-一年五班-204",
+    "id": "國一男子組跳遠-3-國中部-一年五班-334",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -4108,7 +6720,7 @@ window.AWARD_RECORDS = [
     "score": "3.50m"
   },
   {
-    "id": "國一男子組跳遠-4-國中部-一年三班-205",
+    "id": "國一男子組跳遠-4-國中部-一年三班-335",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -4125,7 +6737,7 @@ window.AWARD_RECORDS = [
     "score": "3.40m"
   },
   {
-    "id": "國一男子組跳遠-5-國中部-一年四班-206",
+    "id": "國一男子組跳遠-5-國中部-一年四班-336",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -4142,7 +6754,7 @@ window.AWARD_RECORDS = [
     "score": "3.38m"
   },
   {
-    "id": "國一男子組跳遠-6-國中部-一年一班-207",
+    "id": "國一男子組跳遠-6-國中部-一年一班-337",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -4159,7 +6771,7 @@ window.AWARD_RECORDS = [
     "score": "3.31m"
   },
   {
-    "id": "國二男子組跳遠-1-國中部-二年四班-208",
+    "id": "國二男子組跳遠-1-國中部-二年四班-338",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4177,7 +6789,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:04:15"
   },
   {
-    "id": "國二男子組跳遠-2-國中部-二年五班-209",
+    "id": "國二男子組跳遠-2-國中部-二年五班-339",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4194,7 +6806,7 @@ window.AWARD_RECORDS = [
     "score": "4.49m"
   },
   {
-    "id": "國二男子組跳遠-3-國中部-二年四班-210",
+    "id": "國二男子組跳遠-3-國中部-二年四班-340",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4211,7 +6823,7 @@ window.AWARD_RECORDS = [
     "score": "4.24m"
   },
   {
-    "id": "國二男子組跳遠-4-國中部-二年二班-211",
+    "id": "國二男子組跳遠-4-國中部-二年二班-341",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4228,7 +6840,7 @@ window.AWARD_RECORDS = [
     "score": "4.23m"
   },
   {
-    "id": "國二男子組跳遠-5-國中部-二年三班-212",
+    "id": "國二男子組跳遠-5-國中部-二年三班-342",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4245,7 +6857,7 @@ window.AWARD_RECORDS = [
     "score": "4.19m"
   },
   {
-    "id": "國二男子組跳遠-6-國中部-二年五班-213",
+    "id": "國二男子組跳遠-6-國中部-二年五班-343",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -4262,7 +6874,7 @@ window.AWARD_RECORDS = [
     "score": "3.98m"
   },
   {
-    "id": "國三男子組跳遠-1-國中部-三年四班-214",
+    "id": "國三男子組跳遠-1-國中部-三年四班-344",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -4280,7 +6892,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:03:21"
   },
   {
-    "id": "國三男子組跳遠-2-國中部-三年二班-215",
+    "id": "國三男子組跳遠-2-國中部-三年二班-345",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -4297,7 +6909,7 @@ window.AWARD_RECORDS = [
     "score": "4.92m"
   },
   {
-    "id": "國三男子組跳遠-3-國中部-三年三班-216",
+    "id": "國三男子組跳遠-3-國中部-三年三班-346",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -4314,7 +6926,7 @@ window.AWARD_RECORDS = [
     "score": "4.60m"
   },
   {
-    "id": "國三男子組跳遠-4-國中部-三年一班-217",
+    "id": "國三男子組跳遠-4-國中部-三年一班-347",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -4331,7 +6943,7 @@ window.AWARD_RECORDS = [
     "score": "4.47m"
   },
   {
-    "id": "國三男子組跳遠-5-國中部-三年二班-218",
+    "id": "國三男子組跳遠-5-國中部-三年二班-348",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -4348,7 +6960,7 @@ window.AWARD_RECORDS = [
     "score": "4.43m"
   },
   {
-    "id": "國三男子組跳遠-6-國中部-三年五班-219",
+    "id": "國三男子組跳遠-6-國中部-三年五班-349",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -4365,7 +6977,7 @@ window.AWARD_RECORDS = [
     "score": "4.23m"
   },
   {
-    "id": "高三男子組鉛球-1-高中部-三年六班-220",
+    "id": "高三男子組鉛球-1-高中部-三年六班-350",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4383,7 +6995,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:02:08"
   },
   {
-    "id": "高三男子組鉛球-2-高中部-三年四班-221",
+    "id": "高三男子組鉛球-2-高中部-三年四班-351",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4400,7 +7012,7 @@ window.AWARD_RECORDS = [
     "score": "8.53m"
   },
   {
-    "id": "高三男子組鉛球-3-高中部-三年三班-222",
+    "id": "高三男子組鉛球-3-高中部-三年三班-352",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4417,7 +7029,7 @@ window.AWARD_RECORDS = [
     "score": "8.34m"
   },
   {
-    "id": "高三男子組鉛球-4-雙語部-十二年a班-223",
+    "id": "高三男子組鉛球-4-雙語部-十二年a班-353",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -4434,7 +7046,7 @@ window.AWARD_RECORDS = [
     "score": "7.35m"
   },
   {
-    "id": "高二男子組鉛球-1-高中部-二年四班-224",
+    "id": "高二男子組鉛球-1-高中部-二年四班-354",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4452,7 +7064,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 09:00:53"
   },
   {
-    "id": "高二男子組鉛球-2-雙語部-十一年a班-225",
+    "id": "高二男子組鉛球-2-雙語部-十一年a班-355",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -4469,7 +7081,7 @@ window.AWARD_RECORDS = [
     "score": "8.15m"
   },
   {
-    "id": "高二男子組鉛球-3-雙語部-十一年b班-226",
+    "id": "高二男子組鉛球-3-雙語部-十一年b班-356",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -4486,7 +7098,7 @@ window.AWARD_RECORDS = [
     "score": "8.03m"
   },
   {
-    "id": "高二男子組鉛球-4-高中部-二年六班-227",
+    "id": "高二男子組鉛球-4-高中部-二年六班-357",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4503,7 +7115,7 @@ window.AWARD_RECORDS = [
     "score": "7.96m"
   },
   {
-    "id": "高二男子組鉛球-5-高中部-二年一班-228",
+    "id": "高二男子組鉛球-5-高中部-二年一班-358",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4520,7 +7132,7 @@ window.AWARD_RECORDS = [
     "score": "6.63m"
   },
   {
-    "id": "高二男子組鉛球-6-高中部-二年五班-229",
+    "id": "高二男子組鉛球-6-高中部-二年五班-359",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4537,7 +7149,7 @@ window.AWARD_RECORDS = [
     "score": "6.50m"
   },
   {
-    "id": "高一男子組鉛球-1-高中部-一年四班-230",
+    "id": "高一男子組鉛球-1-高中部-一年四班-360",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4555,7 +7167,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:59:45"
   },
   {
-    "id": "高一男子組鉛球-2-高中部-一年五班-231",
+    "id": "高一男子組鉛球-2-高中部-一年五班-361",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4572,7 +7184,7 @@ window.AWARD_RECORDS = [
     "score": "8.52m"
   },
   {
-    "id": "高一男子組鉛球-3-高中部-一年一班-232",
+    "id": "高一男子組鉛球-3-高中部-一年一班-362",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4589,7 +7201,7 @@ window.AWARD_RECORDS = [
     "score": "8.21m"
   },
   {
-    "id": "高一男子組鉛球-4-雙語部-十年b班-233",
+    "id": "高一男子組鉛球-4-雙語部-十年b班-363",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -4606,7 +7218,7 @@ window.AWARD_RECORDS = [
     "score": "7.69m"
   },
   {
-    "id": "高一男子組鉛球-5-高中部-一年三班-234",
+    "id": "高一男子組鉛球-5-高中部-一年三班-364",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4623,7 +7235,7 @@ window.AWARD_RECORDS = [
     "score": "7.56m"
   },
   {
-    "id": "高一男子組鉛球-6-高中部-一年六班-235",
+    "id": "高一男子組鉛球-6-高中部-一年六班-365",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4640,7 +7252,7 @@ window.AWARD_RECORDS = [
     "score": "7.16m"
   },
   {
-    "id": "高三男子組跳高-1-高中部-三年三班-236",
+    "id": "高三男子組跳高-1-高中部-三年三班-366",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4658,7 +7270,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:58:14"
   },
   {
-    "id": "高三男子組跳高-2-高中部-三年四班-237",
+    "id": "高三男子組跳高-2-高中部-三年四班-367",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4675,7 +7287,7 @@ window.AWARD_RECORDS = [
     "score": "1.60m"
   },
   {
-    "id": "高三男子組跳高-3-高中部-三年四班-238",
+    "id": "高三男子組跳高-3-高中部-三年四班-368",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4692,7 +7304,7 @@ window.AWARD_RECORDS = [
     "score": "1.55m"
   },
   {
-    "id": "高三男子組跳高-4-雙語部-十二年a班-239",
+    "id": "高三男子組跳高-4-雙語部-十二年a班-369",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -4709,7 +7321,7 @@ window.AWARD_RECORDS = [
     "score": "1.50m"
   },
   {
-    "id": "高三男子組跳高-5-高中部-三年三班-240",
+    "id": "高三男子組跳高-5-高中部-三年三班-370",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4726,7 +7338,7 @@ window.AWARD_RECORDS = [
     "score": "1.50m"
   },
   {
-    "id": "高三男子組跳高-6-高中部-三年六班-241",
+    "id": "高三男子組跳高-6-高中部-三年六班-371",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -4743,7 +7355,7 @@ window.AWARD_RECORDS = [
     "score": "1.45m"
   },
   {
-    "id": "高二男子組跳高-1-高中部-二年四班-242",
+    "id": "高二男子組跳高-1-高中部-二年四班-372",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4761,7 +7373,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:56:44"
   },
   {
-    "id": "高二男子組跳高-2-高中部-二年二班-243",
+    "id": "高二男子組跳高-2-高中部-二年二班-373",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4778,7 +7390,7 @@ window.AWARD_RECORDS = [
     "score": "1.55m"
   },
   {
-    "id": "高二男子組跳高-2-高中部-二年六班-244",
+    "id": "高二男子組跳高-2-高中部-二年六班-374",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4795,7 +7407,7 @@ window.AWARD_RECORDS = [
     "score": "1.55m"
   },
   {
-    "id": "高二男子組跳高-4-高中部-二年三班-245",
+    "id": "高二男子組跳高-4-高中部-二年三班-375",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4812,7 +7424,7 @@ window.AWARD_RECORDS = [
     "score": "1.50m"
   },
   {
-    "id": "高二男子組跳高-4-高中部-二年三班-246",
+    "id": "高二男子組跳高-4-高中部-二年三班-376",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -4829,7 +7441,7 @@ window.AWARD_RECORDS = [
     "score": "1.50m"
   },
   {
-    "id": "高二男子組跳高-6-雙語部-十一年b班-247",
+    "id": "高二男子組跳高-6-雙語部-十一年b班-377",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -4846,7 +7458,7 @@ window.AWARD_RECORDS = [
     "score": "1.50m"
   },
   {
-    "id": "高一男子組跳高-1-高中部-一年四班-248",
+    "id": "高一男子組跳高-1-高中部-一年四班-378",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4864,7 +7476,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:54:18"
   },
   {
-    "id": "高一男子組跳高-2-雙語部-十年a班-249",
+    "id": "高一男子組跳高-2-雙語部-十年a班-379",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -4881,7 +7493,7 @@ window.AWARD_RECORDS = [
     "score": "1.50m"
   },
   {
-    "id": "高一男子組跳高-3-高中部-一年三班-250",
+    "id": "高一男子組跳高-3-高中部-一年三班-380",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4898,7 +7510,7 @@ window.AWARD_RECORDS = [
     "score": "1.50m"
   },
   {
-    "id": "高一男子組跳高-4-高中部-一年一班-251",
+    "id": "高一男子組跳高-4-高中部-一年一班-381",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4915,7 +7527,7 @@ window.AWARD_RECORDS = [
     "score": "1.45m"
   },
   {
-    "id": "高一男子組跳高-5-高中部-一年二班-252",
+    "id": "高一男子組跳高-5-高中部-一年二班-382",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4932,7 +7544,7 @@ window.AWARD_RECORDS = [
     "score": "1.45m"
   },
   {
-    "id": "高一男子組跳高-6-高中部-一年二班-253",
+    "id": "高一男子組跳高-6-高中部-一年二班-383",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -4949,7 +7561,7 @@ window.AWARD_RECORDS = [
     "score": "1.40m"
   },
   {
-    "id": "高一男子組跳高-6-雙語部-十年a班-254",
+    "id": "高一男子組跳高-6-雙語部-十年a班-384",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -4966,7 +7578,7 @@ window.AWARD_RECORDS = [
     "score": "1.40m"
   },
   {
-    "id": "國三男子組鉛球-1-國中部-三年三班-255",
+    "id": "國三男子組鉛球-1-國中部-三年三班-385",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -4984,7 +7596,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:52:23"
   },
   {
-    "id": "國三男子組鉛球-2-雙語部-九年b班-256",
+    "id": "國三男子組鉛球-2-雙語部-九年b班-386",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -5001,7 +7613,7 @@ window.AWARD_RECORDS = [
     "score": "7.39m"
   },
   {
-    "id": "國三男子組鉛球-3-國中部-三年一班-257",
+    "id": "國三男子組鉛球-3-國中部-三年一班-387",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -5018,7 +7630,7 @@ window.AWARD_RECORDS = [
     "score": "7.10m"
   },
   {
-    "id": "國三男子組鉛球-4-雙語部-九年a班-258",
+    "id": "國三男子組鉛球-4-雙語部-九年a班-388",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -5035,7 +7647,7 @@ window.AWARD_RECORDS = [
     "score": "5.95m"
   },
   {
-    "id": "國三男子組鉛球-5-國中部-三年二班-259",
+    "id": "國三男子組鉛球-5-國中部-三年二班-389",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -5052,7 +7664,7 @@ window.AWARD_RECORDS = [
     "score": "5.92m"
   },
   {
-    "id": "國三男子組鉛球-6-國中部-三年四班-260",
+    "id": "國三男子組鉛球-6-國中部-三年四班-390",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -5069,7 +7681,7 @@ window.AWARD_RECORDS = [
     "score": "5.42m"
   },
   {
-    "id": "國二男子組鉛球-1-國中部-二年四班-261",
+    "id": "國二男子組鉛球-1-國中部-二年四班-391",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -5087,7 +7699,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:51:35"
   },
   {
-    "id": "國二男子組鉛球-2-雙語部-八年a班-262",
+    "id": "國二男子組鉛球-2-雙語部-八年a班-392",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -5104,7 +7716,7 @@ window.AWARD_RECORDS = [
     "score": "7.82m"
   },
   {
-    "id": "國二男子組鉛球-3-國中部-二年三班-263",
+    "id": "國二男子組鉛球-3-國中部-二年三班-393",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -5121,7 +7733,7 @@ window.AWARD_RECORDS = [
     "score": "6.75m"
   },
   {
-    "id": "國二男子組鉛球-4-國中部-二年一班-264",
+    "id": "國二男子組鉛球-4-國中部-二年一班-394",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -5138,7 +7750,7 @@ window.AWARD_RECORDS = [
     "score": "6.71m"
   },
   {
-    "id": "國二男子組鉛球-5-雙語部-八年b班-265",
+    "id": "國二男子組鉛球-5-雙語部-八年b班-395",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -5155,7 +7767,7 @@ window.AWARD_RECORDS = [
     "score": "6.70m"
   },
   {
-    "id": "國二男子組鉛球-6-國中部-二年五班-266",
+    "id": "國二男子組鉛球-6-國中部-二年五班-396",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -5172,7 +7784,7 @@ window.AWARD_RECORDS = [
     "score": "6.22m"
   },
   {
-    "id": "國一男子組鉛球-1-國中部-一年二班-267",
+    "id": "國一男子組鉛球-1-國中部-一年二班-397",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5190,7 +7802,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:50:32"
   },
   {
-    "id": "國一男子組鉛球-2-國中部-一年四班-268",
+    "id": "國一男子組鉛球-2-國中部-一年四班-398",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5207,7 +7819,7 @@ window.AWARD_RECORDS = [
     "score": "6.60m"
   },
   {
-    "id": "國一男子組鉛球-3-雙語部-七年a班-269",
+    "id": "國一男子組鉛球-3-雙語部-七年a班-399",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -5224,7 +7836,7 @@ window.AWARD_RECORDS = [
     "score": "4.88m"
   },
   {
-    "id": "國一男子組鉛球-4-國中部-一年一班-270",
+    "id": "國一男子組鉛球-4-國中部-一年一班-400",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5241,7 +7853,7 @@ window.AWARD_RECORDS = [
     "score": "4.75m"
   },
   {
-    "id": "國一男子組鉛球-5-國中部-一年三班-271",
+    "id": "國一男子組鉛球-5-國中部-一年三班-401",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5258,7 +7870,7 @@ window.AWARD_RECORDS = [
     "score": "4.72m"
   },
   {
-    "id": "國一男子組鉛球-6-雙語部-七年b班-272",
+    "id": "國一男子組鉛球-6-雙語部-七年b班-402",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -5275,7 +7887,7 @@ window.AWARD_RECORDS = [
     "score": "4.37m"
   },
   {
-    "id": "國一女子組鉛球-1-國中部-一年四班-273",
+    "id": "國一女子組鉛球-1-國中部-一年四班-403",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5293,7 +7905,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:46:52"
   },
   {
-    "id": "國一女子組鉛球-2-國中部-一年三班-274",
+    "id": "國一女子組鉛球-2-國中部-一年三班-404",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5310,7 +7922,7 @@ window.AWARD_RECORDS = [
     "score": "5.71m"
   },
   {
-    "id": "國一女子組鉛球-3-國中部-一年一班-275",
+    "id": "國一女子組鉛球-3-國中部-一年一班-405",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5327,7 +7939,7 @@ window.AWARD_RECORDS = [
     "score": "5.12m"
   },
   {
-    "id": "國一女子組鉛球-4-國中部-一年五班-276",
+    "id": "國一女子組鉛球-4-國中部-一年五班-406",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5344,7 +7956,7 @@ window.AWARD_RECORDS = [
     "score": "4.78m"
   },
   {
-    "id": "國一女子組鉛球-5-國中部-一年二班-277",
+    "id": "國一女子組鉛球-5-國中部-一年二班-407",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -5361,7 +7973,7 @@ window.AWARD_RECORDS = [
     "score": "4.38m"
   },
   {
-    "id": "國一女子組鉛球-6-雙語部-七年a班-278",
+    "id": "國一女子組鉛球-6-雙語部-七年a班-408",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -5378,7 +7990,7 @@ window.AWARD_RECORDS = [
     "score": "4.03m"
   },
   {
-    "id": "高二女子組跳遠-1-高中部-二年六班-279",
+    "id": "高二女子組跳遠-1-高中部-二年六班-409",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5396,7 +8008,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:45:43"
   },
   {
-    "id": "高二女子組跳遠-2-高中部-二年二班-280",
+    "id": "高二女子組跳遠-2-高中部-二年二班-410",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5413,7 +8025,7 @@ window.AWARD_RECORDS = [
     "score": "3.76m"
   },
   {
-    "id": "高二女子組跳遠-3-高中部-二年二班-281",
+    "id": "高二女子組跳遠-3-高中部-二年二班-411",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5430,7 +8042,7 @@ window.AWARD_RECORDS = [
     "score": "3.17m"
   },
   {
-    "id": "高二女子組跳遠-4-高中部-二年四班-282",
+    "id": "高二女子組跳遠-4-高中部-二年四班-412",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5447,7 +8059,7 @@ window.AWARD_RECORDS = [
     "score": "2.88m"
   },
   {
-    "id": "高二女子組跳遠-5-雙語部-十一年b班-283",
+    "id": "高二女子組跳遠-5-雙語部-十一年b班-413",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -5464,7 +8076,7 @@ window.AWARD_RECORDS = [
     "score": "2.56m"
   },
   {
-    "id": "高二女子組跳遠-6-高中部-二年三班-284",
+    "id": "高二女子組跳遠-6-高中部-二年三班-414",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5481,7 +8093,7 @@ window.AWARD_RECORDS = [
     "score": "2.51m"
   },
   {
-    "id": "高一女子組跳遠-1-高中部-一年五班-285",
+    "id": "高一女子組跳遠-1-高中部-一年五班-415",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5499,7 +8111,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:44:24"
   },
   {
-    "id": "高一女子組跳遠-2-高中部-一年一班-286",
+    "id": "高一女子組跳遠-2-高中部-一年一班-416",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5516,7 +8128,7 @@ window.AWARD_RECORDS = [
     "score": "3.82m"
   },
   {
-    "id": "高一女子組跳遠-3-高中部-一年二班-287",
+    "id": "高一女子組跳遠-3-高中部-一年二班-417",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5533,7 +8145,7 @@ window.AWARD_RECORDS = [
     "score": "3.64m"
   },
   {
-    "id": "高一女子組跳遠-4-高中部-一年三班-288",
+    "id": "高一女子組跳遠-4-高中部-一年三班-418",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5550,7 +8162,7 @@ window.AWARD_RECORDS = [
     "score": "3.36m"
   },
   {
-    "id": "高一女子組跳遠-5-高中部-一年四班-289",
+    "id": "高一女子組跳遠-5-高中部-一年四班-419",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5567,7 +8179,7 @@ window.AWARD_RECORDS = [
     "score": "3.28m"
   },
   {
-    "id": "高一女子組跳遠-6-雙語部-十年b班-290",
+    "id": "高一女子組跳遠-6-雙語部-十年b班-420",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -5584,7 +8196,7 @@ window.AWARD_RECORDS = [
     "score": "3.27m"
   },
   {
-    "id": "高三女子組跳遠-1-高中部-三年三班-291",
+    "id": "高三女子組跳遠-1-高中部-三年三班-421",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -5602,7 +8214,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:42:21"
   },
   {
-    "id": "高三女子組跳遠-2-雙語部-十二年a班-292",
+    "id": "高三女子組跳遠-2-雙語部-十二年a班-422",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -5619,7 +8231,7 @@ window.AWARD_RECORDS = [
     "score": "3.66m"
   },
   {
-    "id": "高三女子組跳遠-3-雙語部-十二年a班-293",
+    "id": "高三女子組跳遠-3-雙語部-十二年a班-423",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -5636,7 +8248,7 @@ window.AWARD_RECORDS = [
     "score": "3.22m"
   },
   {
-    "id": "高三女子組跳遠-4-高中部-三年二班-294",
+    "id": "高三女子組跳遠-4-高中部-三年二班-424",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -5653,7 +8265,7 @@ window.AWARD_RECORDS = [
     "score": "3.06m"
   },
   {
-    "id": "高三女子組跳遠-5-高中部-三年二班-295",
+    "id": "高三女子組跳遠-5-高中部-三年二班-425",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -5670,7 +8282,7 @@ window.AWARD_RECORDS = [
     "score": "3.03m"
   },
   {
-    "id": "高三女子組跳遠-6-高中部-三年六班-296",
+    "id": "高三女子組跳遠-6-高中部-三年六班-426",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -5687,7 +8299,7 @@ window.AWARD_RECORDS = [
     "score": "2.82m"
   },
   {
-    "id": "高三女子組跳高-1-雙語部-十二年a班-297",
+    "id": "高三女子組跳高-1-雙語部-十二年a班-427",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -5705,7 +8317,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:40:32"
   },
   {
-    "id": "高三女子組跳高-2-高中部-三年六班-298",
+    "id": "高三女子組跳高-2-高中部-三年六班-428",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -5722,7 +8334,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高三女子組跳高-2-雙語部-十二年b班-299",
+    "id": "高三女子組跳高-2-雙語部-十二年b班-429",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -5739,7 +8351,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高三女子組跳高-4-雙語部-十二年b班-300",
+    "id": "高三女子組跳高-4-雙語部-十二年b班-430",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -5756,7 +8368,7 @@ window.AWARD_RECORDS = [
     "score": "1.05m"
   },
   {
-    "id": "高三女子組跳高-5-雙語部-十二年a班-301",
+    "id": "高三女子組跳高-5-雙語部-十二年a班-431",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -5773,7 +8385,7 @@ window.AWARD_RECORDS = [
     "score": "1.05m"
   },
   {
-    "id": "高二女子組跳高-1-高中部-二年二班-302",
+    "id": "高二女子組跳高-1-高中部-二年二班-432",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5791,7 +8403,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:39:31"
   },
   {
-    "id": "高二女子組跳高-2-高中部-二年四班-303",
+    "id": "高二女子組跳高-2-高中部-二年四班-433",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5808,7 +8420,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高二女子組跳高-3-高中部-二年二班-304",
+    "id": "高二女子組跳高-3-高中部-二年二班-434",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5825,7 +8437,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高二女子組跳高-3-高中部-二年六班-305",
+    "id": "高二女子組跳高-3-高中部-二年六班-435",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5842,7 +8454,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高二女子組跳高-5-高中部-二年四班-306",
+    "id": "高二女子組跳高-5-高中部-二年四班-436",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -5859,7 +8471,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "高二女子組跳高-6-雙語部-十一年a班-307",
+    "id": "高二女子組跳高-6-雙語部-十一年a班-437",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -5876,7 +8488,7 @@ window.AWARD_RECORDS = [
     "score": "1.05m"
   },
   {
-    "id": "高一女子組跳高-1-高中部-一年二班-308",
+    "id": "高一女子組跳高-1-高中部-一年二班-438",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5894,7 +8506,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-12 08:37:31"
   },
   {
-    "id": "高一女子組跳高-1-高中部-一年六班-309",
+    "id": "高一女子組跳高-1-高中部-一年六班-439",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5911,7 +8523,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高一女子組跳高-1-高中部-一年六班-310",
+    "id": "高一女子組跳高-1-高中部-一年六班-440",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5928,7 +8540,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高一女子組跳高-4-高中部-一年三班-311",
+    "id": "高一女子組跳高-4-高中部-一年三班-441",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5945,7 +8557,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "高一女子組跳高-5-高中部-一年一班-312",
+    "id": "高一女子組跳高-5-高中部-一年一班-442",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5962,7 +8574,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "高一女子組跳高-6-高中部-一年二班-313",
+    "id": "高一女子組跳高-6-高中部-一年二班-443",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -5979,7 +8591,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "高一女子組跳高-6-雙語部-十年b班-314",
+    "id": "高一女子組跳高-6-雙語部-十年b班-444",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -5996,7 +8608,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "高三男子組200公尺-1-高中部-三年三班-315",
+    "id": "高三男子組200公尺-1-高中部-三年三班-445",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6014,7 +8626,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-06 20:42:18"
   },
   {
-    "id": "高三男子組200公尺-2-雙語部-十二年a班-316",
+    "id": "高三男子組200公尺-2-雙語部-十二年a班-446",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -6031,7 +8643,7 @@ window.AWARD_RECORDS = [
     "score": "25\"79"
   },
   {
-    "id": "高三男子組200公尺-3-高中部-三年四班-317",
+    "id": "高三男子組200公尺-3-高中部-三年四班-447",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6048,7 +8660,7 @@ window.AWARD_RECORDS = [
     "score": "28\"29"
   },
   {
-    "id": "高三男子組200公尺-4-雙語部-十二年a班-318",
+    "id": "高三男子組200公尺-4-雙語部-十二年a班-448",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -6065,7 +8677,7 @@ window.AWARD_RECORDS = [
     "score": "28\"96"
   },
   {
-    "id": "高三男子組200公尺-5-高中部-三年四班-319",
+    "id": "高三男子組200公尺-5-高中部-三年四班-449",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6082,7 +8694,7 @@ window.AWARD_RECORDS = [
     "score": "29\"75"
   },
   {
-    "id": "國二男子組200公尺-1-國中部-二年二班-320",
+    "id": "國二男子組200公尺-1-國中部-二年二班-450",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6100,7 +8712,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-06 08:32:44"
   },
   {
-    "id": "國二男子組200公尺-2-國中部-二年三班-321",
+    "id": "國二男子組200公尺-2-國中部-二年三班-451",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6117,7 +8729,7 @@ window.AWARD_RECORDS = [
     "score": "28\"25"
   },
   {
-    "id": "國二男子組200公尺-3-國中部-二年五班-322",
+    "id": "國二男子組200公尺-3-國中部-二年五班-452",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6134,7 +8746,7 @@ window.AWARD_RECORDS = [
     "score": "28\"38"
   },
   {
-    "id": "國二男子組200公尺-4-國中部-二年五班-323",
+    "id": "國二男子組200公尺-4-國中部-二年五班-453",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6151,7 +8763,7 @@ window.AWARD_RECORDS = [
     "score": "28\"46"
   },
   {
-    "id": "國二男子組200公尺-5-國中部-二年四班-324",
+    "id": "國二男子組200公尺-5-國中部-二年四班-454",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6168,7 +8780,7 @@ window.AWARD_RECORDS = [
     "score": "28\"66"
   },
   {
-    "id": "國二男子組200公尺-6-國中部-二年一班-325",
+    "id": "國二男子組200公尺-6-國中部-二年一班-455",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6185,7 +8797,7 @@ window.AWARD_RECORDS = [
     "score": "28\"87"
   },
   {
-    "id": "國二女子組200公尺-1-國中部-二年五班-326",
+    "id": "國二女子組200公尺-1-國中部-二年五班-456",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6203,7 +8815,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-06 08:27:02"
   },
   {
-    "id": "國二女子組200公尺-2-國中部-二年五班-327",
+    "id": "國二女子組200公尺-2-國中部-二年五班-457",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6220,7 +8832,7 @@ window.AWARD_RECORDS = [
     "score": "32\"06"
   },
   {
-    "id": "國二女子組200公尺-3-國中部-二年四班-328",
+    "id": "國二女子組200公尺-3-國中部-二年四班-458",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6237,7 +8849,7 @@ window.AWARD_RECORDS = [
     "score": "32\"58"
   },
   {
-    "id": "國二女子組200公尺-4-雙語部-八年b班-329",
+    "id": "國二女子組200公尺-4-雙語部-八年b班-459",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -6254,7 +8866,7 @@ window.AWARD_RECORDS = [
     "score": "33\"09"
   },
   {
-    "id": "國二女子組200公尺-5-國中部-二年二班-330",
+    "id": "國二女子組200公尺-5-國中部-二年二班-460",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6271,7 +8883,7 @@ window.AWARD_RECORDS = [
     "score": "33\"61"
   },
   {
-    "id": "國二女子組200公尺-6-國中部-二年二班-331",
+    "id": "國二女子組200公尺-6-國中部-二年二班-461",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6288,7 +8900,7 @@ window.AWARD_RECORDS = [
     "score": "33\"71"
   },
   {
-    "id": "國二女子組跳高-1-國中部-二年四班-332",
+    "id": "國二女子組跳高-1-國中部-二年四班-462",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6306,7 +8918,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 21:58:18"
   },
   {
-    "id": "國二女子組跳高-2-國中部-二年一班-333",
+    "id": "國二女子組跳高-2-國中部-二年一班-463",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6323,7 +8935,7 @@ window.AWARD_RECORDS = [
     "score": "1.20m"
   },
   {
-    "id": "國二女子組跳高-3-國中部-二年一班-334",
+    "id": "國二女子組跳高-3-國中部-二年一班-464",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6340,7 +8952,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "國二女子組跳高-4-雙語部-八年b班-335",
+    "id": "國二女子組跳高-4-雙語部-八年b班-465",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -6357,7 +8969,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "國二女子組跳高-5-國中部-二年二班-336",
+    "id": "國二女子組跳高-5-國中部-二年二班-466",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6374,7 +8986,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "國二女子組跳高-6-國中部-二年五班-337",
+    "id": "國二女子組跳高-6-國中部-二年五班-467",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6391,7 +9003,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "高一男子組1500公尺-1-高中部-一年二班-338",
+    "id": "高一男子組1500公尺-1-高中部-一年二班-468",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -6409,7 +9021,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 16:08:10"
   },
   {
-    "id": "高一男子組1500公尺-2-高中部-一年一班-339",
+    "id": "高一男子組1500公尺-2-高中部-一年一班-469",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -6426,7 +9038,7 @@ window.AWARD_RECORDS = [
     "score": "5'20\"41"
   },
   {
-    "id": "高一男子組1500公尺-3-雙語部-十年b班-340",
+    "id": "高一男子組1500公尺-3-雙語部-十年b班-470",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -6443,7 +9055,7 @@ window.AWARD_RECORDS = [
     "score": "5'37\"28"
   },
   {
-    "id": "高一男子組1500公尺-4-高中部-一年六班-341",
+    "id": "高一男子組1500公尺-4-高中部-一年六班-471",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -6460,7 +9072,7 @@ window.AWARD_RECORDS = [
     "score": "5'38\"79"
   },
   {
-    "id": "高一男子組1500公尺-5-高中部-一年五班-342",
+    "id": "高一男子組1500公尺-5-高中部-一年五班-472",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -6477,7 +9089,7 @@ window.AWARD_RECORDS = [
     "score": "5'40\"62"
   },
   {
-    "id": "高一男子組1500公尺-6-高中部-一年四班-343",
+    "id": "高一男子組1500公尺-6-高中部-一年四班-473",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -6494,7 +9106,7 @@ window.AWARD_RECORDS = [
     "score": "5'44\"78"
   },
   {
-    "id": "國三男子組1500公尺-1-國中部-三年四班-344",
+    "id": "國三男子組1500公尺-1-國中部-三年四班-474",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -6512,7 +9124,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 16:06:26"
   },
   {
-    "id": "國三男子組1500公尺-2-國中部-三年一班-345",
+    "id": "國三男子組1500公尺-2-國中部-三年一班-475",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -6529,7 +9141,7 @@ window.AWARD_RECORDS = [
     "score": "5'32\"11"
   },
   {
-    "id": "國三男子組1500公尺-3-雙語部-九年a班-346",
+    "id": "國三男子組1500公尺-3-雙語部-九年a班-476",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -6546,7 +9158,7 @@ window.AWARD_RECORDS = [
     "score": "5'32\"58"
   },
   {
-    "id": "國三男子組1500公尺-4-國中部-三年一班-347",
+    "id": "國三男子組1500公尺-4-國中部-三年一班-477",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -6563,7 +9175,7 @@ window.AWARD_RECORDS = [
     "score": "5'32\"86"
   },
   {
-    "id": "國三男子組1500公尺-5-國中部-三年五班-348",
+    "id": "國三男子組1500公尺-5-國中部-三年五班-478",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -6580,7 +9192,7 @@ window.AWARD_RECORDS = [
     "score": "5'45\"71"
   },
   {
-    "id": "國三男子組1500公尺-6-國中部-三年二班-349",
+    "id": "國三男子組1500公尺-6-國中部-三年二班-479",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -6597,7 +9209,7 @@ window.AWARD_RECORDS = [
     "score": "5'49\"71"
   },
   {
-    "id": "高三男子組1500公尺-1-高中部-三年四班-350",
+    "id": "高三男子組1500公尺-1-高中部-三年四班-480",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6615,7 +9227,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 16:04:25"
   },
   {
-    "id": "高三男子組1500公尺-2-雙語部-十二年a班-351",
+    "id": "高三男子組1500公尺-2-雙語部-十二年a班-481",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -6632,7 +9244,7 @@ window.AWARD_RECORDS = [
     "score": "5'19\"63"
   },
   {
-    "id": "高三男子組1500公尺-3-高中部-三年三班-352",
+    "id": "高三男子組1500公尺-3-高中部-三年三班-482",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6649,7 +9261,7 @@ window.AWARD_RECORDS = [
     "score": "5'35\"61"
   },
   {
-    "id": "高三男子組1500公尺-4-高中部-三年二班-353",
+    "id": "高三男子組1500公尺-4-高中部-三年二班-483",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6666,7 +9278,7 @@ window.AWARD_RECORDS = [
     "score": "5'36\"24"
   },
   {
-    "id": "高三男子組1500公尺-5-高中部-三年五班-354",
+    "id": "高三男子組1500公尺-5-高中部-三年五班-484",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6683,7 +9295,7 @@ window.AWARD_RECORDS = [
     "score": "5'44\"62"
   },
   {
-    "id": "高三男子組1500公尺-6-高中部-三年五班-355",
+    "id": "高三男子組1500公尺-6-高中部-三年五班-485",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -6700,7 +9312,7 @@ window.AWARD_RECORDS = [
     "score": "6'48\"40"
   },
   {
-    "id": "高二男子組1500公尺-1-高中部-二年三班-356",
+    "id": "高二男子組1500公尺-1-高中部-二年三班-486",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -6718,7 +9330,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 16:02:39"
   },
   {
-    "id": "高二男子組1500公尺-2-高中部-二年二班-357",
+    "id": "高二男子組1500公尺-2-高中部-二年二班-487",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -6735,7 +9347,7 @@ window.AWARD_RECORDS = [
     "score": "5'18\"63"
   },
   {
-    "id": "高二男子組1500公尺-3-高中部-二年六班-358",
+    "id": "高二男子組1500公尺-3-高中部-二年六班-488",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -6752,7 +9364,7 @@ window.AWARD_RECORDS = [
     "score": "5'53\"07"
   },
   {
-    "id": "高二男子組1500公尺-4-高中部-二年五班-359",
+    "id": "高二男子組1500公尺-4-高中部-二年五班-489",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -6769,7 +9381,7 @@ window.AWARD_RECORDS = [
     "score": "5'53\"38"
   },
   {
-    "id": "高二男子組1500公尺-5-高中部-二年一班-360",
+    "id": "高二男子組1500公尺-5-高中部-二年一班-490",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -6786,7 +9398,7 @@ window.AWARD_RECORDS = [
     "score": "6'02\"47"
   },
   {
-    "id": "高二男子組1500公尺-6-高中部-二年五班-361",
+    "id": "高二男子組1500公尺-6-高中部-二年五班-491",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -6803,7 +9415,7 @@ window.AWARD_RECORDS = [
     "score": "6'13\"47"
   },
   {
-    "id": "國二男子組1500公尺-1-國中部-二年五班-362",
+    "id": "國二男子組1500公尺-1-國中部-二年五班-492",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6821,7 +9433,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:58:57"
   },
   {
-    "id": "國二男子組1500公尺-2-國中部-二年五班-363",
+    "id": "國二男子組1500公尺-2-國中部-二年五班-493",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6838,7 +9450,7 @@ window.AWARD_RECORDS = [
     "score": "5'13\"66"
   },
   {
-    "id": "國二男子組1500公尺-3-雙語部-八年b班-364",
+    "id": "國二男子組1500公尺-3-雙語部-八年b班-494",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -6855,7 +9467,7 @@ window.AWARD_RECORDS = [
     "score": "5'32\"75"
   },
   {
-    "id": "國二男子組1500公尺-4-國中部-二年四班-365",
+    "id": "國二男子組1500公尺-4-國中部-二年四班-495",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6872,7 +9484,7 @@ window.AWARD_RECORDS = [
     "score": "5'44\"66"
   },
   {
-    "id": "國二男子組1500公尺-5-國中部-二年二班-366",
+    "id": "國二男子組1500公尺-5-國中部-二年二班-496",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6889,7 +9501,7 @@ window.AWARD_RECORDS = [
     "score": "5'52\"20"
   },
   {
-    "id": "國二男子組1500公尺-6-國中部-二年一班-367",
+    "id": "國二男子組1500公尺-6-國中部-二年一班-497",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -6906,7 +9518,7 @@ window.AWARD_RECORDS = [
     "score": "5'54\"23"
   },
   {
-    "id": "國一男子組1500公尺-1-國中部-一年二班-368",
+    "id": "國一男子組1500公尺-1-國中部-一年二班-498",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -6924,7 +9536,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:57:19"
   },
   {
-    "id": "國一男子組1500公尺-2-國中部-一年一班-369",
+    "id": "國一男子組1500公尺-2-國中部-一年一班-499",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -6941,7 +9553,7 @@ window.AWARD_RECORDS = [
     "score": "5'55\"93"
   },
   {
-    "id": "國一男子組1500公尺-3-雙語部-七年b班-370",
+    "id": "國一男子組1500公尺-3-雙語部-七年b班-500",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -6958,7 +9570,7 @@ window.AWARD_RECORDS = [
     "score": "6'03\"86"
   },
   {
-    "id": "國一男子組1500公尺-4-國中部-一年三班-371",
+    "id": "國一男子組1500公尺-4-國中部-一年三班-501",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -6975,7 +9587,7 @@ window.AWARD_RECORDS = [
     "score": "6'07\"41"
   },
   {
-    "id": "國一男子組1500公尺-5-國中部-一年一班-372",
+    "id": "國一男子組1500公尺-5-國中部-一年一班-502",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -6992,7 +9604,7 @@ window.AWARD_RECORDS = [
     "score": "6'10\"20"
   },
   {
-    "id": "國一男子組1500公尺-6-國中部-一年五班-373",
+    "id": "國一男子組1500公尺-6-國中部-一年五班-503",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -7009,7 +9621,7 @@ window.AWARD_RECORDS = [
     "score": "6'11\"82"
   },
   {
-    "id": "高三女子組1500公尺-1-高中部-三年五班-374",
+    "id": "高三女子組1500公尺-1-高中部-三年五班-504",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -7028,7 +9640,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:55:19"
   },
   {
-    "id": "高三女子組1500公尺-2-高中部-三年六班-375",
+    "id": "高三女子組1500公尺-2-高中部-三年六班-505",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -7045,7 +9657,7 @@ window.AWARD_RECORDS = [
     "score": "7'04\"76"
   },
   {
-    "id": "高三女子組1500公尺-3-雙語部-十二年a班-376",
+    "id": "高三女子組1500公尺-3-雙語部-十二年a班-506",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -7062,7 +9674,7 @@ window.AWARD_RECORDS = [
     "score": "7'18\"29"
   },
   {
-    "id": "高三女子組1500公尺-4-雙語部-十二年b班-377",
+    "id": "高三女子組1500公尺-4-雙語部-十二年b班-507",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -7079,7 +9691,7 @@ window.AWARD_RECORDS = [
     "score": "7'23\"65"
   },
   {
-    "id": "高三女子組1500公尺-5-高中部-三年六班-378",
+    "id": "高三女子組1500公尺-5-高中部-三年六班-508",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -7096,7 +9708,7 @@ window.AWARD_RECORDS = [
     "score": "7'48\"26"
   },
   {
-    "id": "高三女子組1500公尺-6-雙語部-十二年b班-379",
+    "id": "高三女子組1500公尺-6-雙語部-十二年b班-509",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -7113,7 +9725,7 @@ window.AWARD_RECORDS = [
     "score": "8'24\"95"
   },
   {
-    "id": "高二女子組1500公尺-1-高中部-二年六班-380",
+    "id": "高二女子組1500公尺-1-高中部-二年六班-510",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7131,7 +9743,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:53:45"
   },
   {
-    "id": "高二女子組1500公尺-2-高中部-二年二班-381",
+    "id": "高二女子組1500公尺-2-高中部-二年二班-511",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7148,7 +9760,7 @@ window.AWARD_RECORDS = [
     "score": "7'22\"96"
   },
   {
-    "id": "高二女子組1500公尺-3-高中部-二年二班-382",
+    "id": "高二女子組1500公尺-3-高中部-二年二班-512",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7165,7 +9777,7 @@ window.AWARD_RECORDS = [
     "score": "7'49\"85"
   },
   {
-    "id": "高二女子組1500公尺-4-高中部-二年五班-383",
+    "id": "高二女子組1500公尺-4-高中部-二年五班-513",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7182,7 +9794,7 @@ window.AWARD_RECORDS = [
     "score": "8'09\"97"
   },
   {
-    "id": "高一女子組1500公尺-1-雙語部-十年b班-384",
+    "id": "高一女子組1500公尺-1-雙語部-十年b班-514",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -7200,7 +9812,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:51:41"
   },
   {
-    "id": "高一女子組1500公尺-2-高中部-一年二班-385",
+    "id": "高一女子組1500公尺-2-高中部-一年二班-515",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7217,7 +9829,7 @@ window.AWARD_RECORDS = [
     "score": "6'32\"65"
   },
   {
-    "id": "高一女子組1500公尺-3-高中部-一年六班-386",
+    "id": "高一女子組1500公尺-3-高中部-一年六班-516",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7234,7 +9846,7 @@ window.AWARD_RECORDS = [
     "score": "6'41\"49"
   },
   {
-    "id": "高一女子組1500公尺-4-高中部-一年六班-387",
+    "id": "高一女子組1500公尺-4-高中部-一年六班-517",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7251,7 +9863,7 @@ window.AWARD_RECORDS = [
     "score": "6'53\"22"
   },
   {
-    "id": "高一女子組1500公尺-5-高中部-一年一班-388",
+    "id": "高一女子組1500公尺-5-高中部-一年一班-518",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7268,7 +9880,7 @@ window.AWARD_RECORDS = [
     "score": "7'12\"91"
   },
   {
-    "id": "高一女子組1500公尺-6-高中部-一年四班-389",
+    "id": "高一女子組1500公尺-6-高中部-一年四班-519",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7285,7 +9897,7 @@ window.AWARD_RECORDS = [
     "score": "7'30\"79"
   },
   {
-    "id": "國三女子組1500公尺-1-國中部-三年二班-390",
+    "id": "國三女子組1500公尺-1-國中部-三年二班-520",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -7303,7 +9915,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:50:08"
   },
   {
-    "id": "國三女子組1500公尺-2-國中部-三年二班-391",
+    "id": "國三女子組1500公尺-2-國中部-三年二班-521",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -7320,7 +9932,7 @@ window.AWARD_RECORDS = [
     "score": "7'18\"37"
   },
   {
-    "id": "國三女子組1500公尺-3-國中部-三年一班-392",
+    "id": "國三女子組1500公尺-3-國中部-三年一班-522",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -7337,7 +9949,7 @@ window.AWARD_RECORDS = [
     "score": "8'04\"21"
   },
   {
-    "id": "國三女子組1500公尺-4-國中部-三年五班-393",
+    "id": "國三女子組1500公尺-4-國中部-三年五班-523",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -7354,7 +9966,7 @@ window.AWARD_RECORDS = [
     "score": "8'05\"10"
   },
   {
-    "id": "國三女子組1500公尺-5-國中部-三年五班-394",
+    "id": "國三女子組1500公尺-5-國中部-三年五班-524",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -7371,7 +9983,7 @@ window.AWARD_RECORDS = [
     "score": "8'05\"45"
   },
   {
-    "id": "國三女子組1500公尺-6-雙語部-九年b班-395",
+    "id": "國三女子組1500公尺-6-雙語部-九年b班-525",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -7388,7 +10000,7 @@ window.AWARD_RECORDS = [
     "score": "8'23\"13"
   },
   {
-    "id": "國二女子組1500公尺-1-雙語部-八年b班-396",
+    "id": "國二女子組1500公尺-1-雙語部-八年b班-526",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -7406,7 +10018,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:48:47"
   },
   {
-    "id": "國二女子組1500公尺-2-雙語部-八年b班-397",
+    "id": "國二女子組1500公尺-2-雙語部-八年b班-527",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -7423,7 +10035,7 @@ window.AWARD_RECORDS = [
     "score": "6'38\"12"
   },
   {
-    "id": "國二女子組1500公尺-3-國中部-二年五班-398",
+    "id": "國二女子組1500公尺-3-國中部-二年五班-528",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -7440,7 +10052,7 @@ window.AWARD_RECORDS = [
     "score": "6'52\"86"
   },
   {
-    "id": "國二女子組1500公尺-4-國中部-二年五班-399",
+    "id": "國二女子組1500公尺-4-國中部-二年五班-529",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -7457,7 +10069,7 @@ window.AWARD_RECORDS = [
     "score": "6'53\"42"
   },
   {
-    "id": "國二女子組1500公尺-5-國中部-二年四班-400",
+    "id": "國二女子組1500公尺-5-國中部-二年四班-530",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -7474,7 +10086,7 @@ window.AWARD_RECORDS = [
     "score": "6'53\"54"
   },
   {
-    "id": "國二女子組1500公尺-6-國中部-二年四班-401",
+    "id": "國二女子組1500公尺-6-國中部-二年四班-531",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -7491,7 +10103,7 @@ window.AWARD_RECORDS = [
     "score": "7'04\"47"
   },
   {
-    "id": "國一女子組1500公尺-1-雙語部-七年b班-402",
+    "id": "國一女子組1500公尺-1-雙語部-七年b班-532",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -7509,7 +10121,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:46:27"
   },
   {
-    "id": "國一女子組1500公尺-2-國中部-一年一班-403",
+    "id": "國一女子組1500公尺-2-國中部-一年一班-533",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -7526,7 +10138,7 @@ window.AWARD_RECORDS = [
     "score": "6'48\"05"
   },
   {
-    "id": "國一女子組1500公尺-3-國中部-一年五班-404",
+    "id": "國一女子組1500公尺-3-國中部-一年五班-534",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -7543,7 +10155,7 @@ window.AWARD_RECORDS = [
     "score": "6'51\"55"
   },
   {
-    "id": "國一女子組1500公尺-4-雙語部-七年a班-405",
+    "id": "國一女子組1500公尺-4-雙語部-七年a班-535",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -7560,7 +10172,7 @@ window.AWARD_RECORDS = [
     "score": "6'54\"72"
   },
   {
-    "id": "國一女子組1500公尺-5-國中部-一年二班-406",
+    "id": "國一女子組1500公尺-5-國中部-一年二班-536",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -7577,7 +10189,7 @@ window.AWARD_RECORDS = [
     "score": "7'35\"62"
   },
   {
-    "id": "國一女子組1500公尺-6-國中部-一年一班-407",
+    "id": "國一女子組1500公尺-6-國中部-一年一班-537",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -7594,7 +10206,7 @@ window.AWARD_RECORDS = [
     "score": "7'42\"85"
   },
   {
-    "id": "高三男子組400公尺-1-雙語部-十二年a班-408",
+    "id": "高三男子組400公尺-1-雙語部-十二年a班-538",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -7612,7 +10224,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:42:14"
   },
   {
-    "id": "高三男子組400公尺-2-高中部-三年五班-409",
+    "id": "高三男子組400公尺-2-高中部-三年五班-539",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -7629,7 +10241,7 @@ window.AWARD_RECORDS = [
     "score": "1'07\"30"
   },
   {
-    "id": "高三男子組400公尺-3-雙語部-十二年a班-410",
+    "id": "高三男子組400公尺-3-雙語部-十二年a班-540",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -7646,7 +10258,7 @@ window.AWARD_RECORDS = [
     "score": "1'10\"53"
   },
   {
-    "id": "高三女子組400公尺-1-高中部-三年二班-411",
+    "id": "高三女子組400公尺-1-高中部-三年二班-541",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -7664,7 +10276,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:41:51"
   },
   {
-    "id": "高三女子組400公尺-2-雙語部-十二年a班-412",
+    "id": "高三女子組400公尺-2-雙語部-十二年a班-542",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -7681,7 +10293,7 @@ window.AWARD_RECORDS = [
     "score": "1'18\"74"
   },
   {
-    "id": "高三女子組400公尺-3-雙語部-十二年a班-413",
+    "id": "高三女子組400公尺-3-雙語部-十二年a班-543",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -7698,7 +10310,7 @@ window.AWARD_RECORDS = [
     "score": "1'22\"65"
   },
   {
-    "id": "高三女子組400公尺-4-高中部-三年六班-414",
+    "id": "高三女子組400公尺-4-高中部-三年六班-544",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -7715,7 +10327,7 @@ window.AWARD_RECORDS = [
     "score": "1'31\"16"
   },
   {
-    "id": "高二男子組400公尺-1-高中部-二年二班-415",
+    "id": "高二男子組400公尺-1-高中部-二年二班-545",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7733,7 +10345,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:41:14"
   },
   {
-    "id": "高二男子組400公尺-2-高中部-二年二班-416",
+    "id": "高二男子組400公尺-2-高中部-二年二班-546",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7750,7 +10362,7 @@ window.AWARD_RECORDS = [
     "score": "59\"33"
   },
   {
-    "id": "高二男子組400公尺-3-高中部-二年六班-417",
+    "id": "高二男子組400公尺-3-高中部-二年六班-547",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7767,7 +10379,7 @@ window.AWARD_RECORDS = [
     "score": "59\"89"
   },
   {
-    "id": "高二男子組400公尺-4-雙語部-十一年a班-418",
+    "id": "高二男子組400公尺-4-雙語部-十一年a班-548",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -7784,7 +10396,7 @@ window.AWARD_RECORDS = [
     "score": "1'04\"62"
   },
   {
-    "id": "高二男子組400公尺-5-高中部-二年六班-419",
+    "id": "高二男子組400公尺-5-高中部-二年六班-549",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7801,7 +10413,7 @@ window.AWARD_RECORDS = [
     "score": "1'05\"03"
   },
   {
-    "id": "高二男子組400公尺-6-高中部-二年四班-420",
+    "id": "高二男子組400公尺-6-高中部-二年四班-550",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7818,7 +10430,7 @@ window.AWARD_RECORDS = [
     "score": "1'07\"09"
   },
   {
-    "id": "高二女子組400公尺-1-高中部-二年六班-421",
+    "id": "高二女子組400公尺-1-高中部-二年六班-551",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7836,7 +10448,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:40:34"
   },
   {
-    "id": "高二女子組400公尺-2-高中部-二年三班-422",
+    "id": "高二女子組400公尺-2-高中部-二年三班-552",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7853,7 +10465,7 @@ window.AWARD_RECORDS = [
     "score": "1'17\"62"
   },
   {
-    "id": "高二女子組400公尺-3-高中部-二年四班-423",
+    "id": "高二女子組400公尺-3-高中部-二年四班-553",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7870,7 +10482,7 @@ window.AWARD_RECORDS = [
     "score": "1'43\"62"
   },
   {
-    "id": "高二女子組400公尺-4-高中部-二年四班-424",
+    "id": "高二女子組400公尺-4-高中部-二年四班-554",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7887,7 +10499,7 @@ window.AWARD_RECORDS = [
     "score": "1'54\"91"
   },
   {
-    "id": "高二女子組400公尺-5-高中部-二年二班-425",
+    "id": "高二女子組400公尺-5-高中部-二年二班-555",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -7904,7 +10516,7 @@ window.AWARD_RECORDS = [
     "score": "1'58\"66"
   },
   {
-    "id": "高一女子組400公尺-1-高中部-一年二班-426",
+    "id": "高一女子組400公尺-1-高中部-一年二班-556",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7922,7 +10534,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:38:25"
   },
   {
-    "id": "高一女子組400公尺-2-雙語部-十年a班-427",
+    "id": "高一女子組400公尺-2-雙語部-十年a班-557",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -7939,7 +10551,7 @@ window.AWARD_RECORDS = [
     "score": "1'19\"54"
   },
   {
-    "id": "高一女子組400公尺-3-高中部-一年六班-428",
+    "id": "高一女子組400公尺-3-高中部-一年六班-558",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7956,7 +10568,7 @@ window.AWARD_RECORDS = [
     "score": "1'22\"48"
   },
   {
-    "id": "高一女子組400公尺-4-高中部-一年三班-429",
+    "id": "高一女子組400公尺-4-高中部-一年三班-559",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7973,7 +10585,7 @@ window.AWARD_RECORDS = [
     "score": "1'23\"97"
   },
   {
-    "id": "高一女子組400公尺-5-高中部-一年二班-430",
+    "id": "高一女子組400公尺-5-高中部-一年二班-560",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -7990,7 +10602,7 @@ window.AWARD_RECORDS = [
     "score": "1'24\"88"
   },
   {
-    "id": "高一女子組400公尺-6-高中部-一年六班-431",
+    "id": "高一女子組400公尺-6-高中部-一年六班-561",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8007,7 +10619,7 @@ window.AWARD_RECORDS = [
     "score": "1'25\"56"
   },
   {
-    "id": "國三男子組400公尺-1-雙語部-九年b班-432",
+    "id": "國三男子組400公尺-1-雙語部-九年b班-562",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -8025,7 +10637,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:32:15"
   },
   {
-    "id": "國三男子組400公尺-2-國中部-三年二班-433",
+    "id": "國三男子組400公尺-2-國中部-三年二班-563",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8042,7 +10654,7 @@ window.AWARD_RECORDS = [
     "score": "1'02\"93"
   },
   {
-    "id": "國三男子組400公尺-3-國中部-三年三班-434",
+    "id": "國三男子組400公尺-3-國中部-三年三班-564",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8059,7 +10671,7 @@ window.AWARD_RECORDS = [
     "score": "1'05\"31"
   },
   {
-    "id": "國三男子組400公尺-4-國中部-三年四班-435",
+    "id": "國三男子組400公尺-4-國中部-三年四班-565",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8076,7 +10688,7 @@ window.AWARD_RECORDS = [
     "score": "1'05\"79"
   },
   {
-    "id": "國三男子組400公尺-5-國中部-三年五班-436",
+    "id": "國三男子組400公尺-5-國中部-三年五班-566",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8093,7 +10705,7 @@ window.AWARD_RECORDS = [
     "score": "1'06\"54"
   },
   {
-    "id": "國三男子組400公尺-6-國中部-三年一班-437",
+    "id": "國三男子組400公尺-6-國中部-三年一班-567",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8110,7 +10722,7 @@ window.AWARD_RECORDS = [
     "score": "1'07\"03"
   },
   {
-    "id": "國三女子組400公尺-1-國中部-三年五班-438",
+    "id": "國三女子組400公尺-1-國中部-三年五班-568",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8128,7 +10740,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:31:26"
   },
   {
-    "id": "國三女子組400公尺-2-國中部-三年二班-439",
+    "id": "國三女子組400公尺-2-國中部-三年二班-569",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8145,7 +10757,7 @@ window.AWARD_RECORDS = [
     "score": "1'17\"60"
   },
   {
-    "id": "國三女子組400公尺-3-國中部-三年一班-440",
+    "id": "國三女子組400公尺-3-國中部-三年一班-570",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8162,7 +10774,7 @@ window.AWARD_RECORDS = [
     "score": "1'21\"98"
   },
   {
-    "id": "國三女子組400公尺-4-國中部-三年三班-441",
+    "id": "國三女子組400公尺-4-國中部-三年三班-571",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8179,7 +10791,7 @@ window.AWARD_RECORDS = [
     "score": "1'24\"75"
   },
   {
-    "id": "國三女子組400公尺-5-國中部-三年五班-442",
+    "id": "國三女子組400公尺-5-國中部-三年五班-572",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -8196,7 +10808,7 @@ window.AWARD_RECORDS = [
     "score": "1'24\"91"
   },
   {
-    "id": "國三女子組400公尺-6-雙語部-九年a班-443",
+    "id": "國三女子組400公尺-6-雙語部-九年a班-573",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -8213,7 +10825,7 @@ window.AWARD_RECORDS = [
     "score": "1'34\"57"
   },
   {
-    "id": "國二男子組400公尺-1-國中部-二年四班-444",
+    "id": "國二男子組400公尺-1-國中部-二年四班-574",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8231,7 +10843,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:30:25"
   },
   {
-    "id": "國二男子組400公尺-2-國中部-二年四班-445",
+    "id": "國二男子組400公尺-2-國中部-二年四班-575",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8248,7 +10860,7 @@ window.AWARD_RECORDS = [
     "score": "1'09\"31"
   },
   {
-    "id": "國二男子組400公尺-3-國中部-二年五班-446",
+    "id": "國二男子組400公尺-3-國中部-二年五班-576",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8265,7 +10877,7 @@ window.AWARD_RECORDS = [
     "score": "1'09\"73"
   },
   {
-    "id": "國二男子組400公尺-4-國中部-二年二班-447",
+    "id": "國二男子組400公尺-4-國中部-二年二班-577",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8282,7 +10894,7 @@ window.AWARD_RECORDS = [
     "score": "1'09\"95"
   },
   {
-    "id": "國二男子組400公尺-5-國中部-二年五班-448",
+    "id": "國二男子組400公尺-5-國中部-二年五班-578",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8299,7 +10911,7 @@ window.AWARD_RECORDS = [
     "score": "1'10\"48"
   },
   {
-    "id": "國二男子組400公尺-6-國中部-二年三班-449",
+    "id": "國二男子組400公尺-6-國中部-二年三班-579",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8316,7 +10928,7 @@ window.AWARD_RECORDS = [
     "score": "1'13\"54"
   },
   {
-    "id": "國二女子組400公尺-1-雙語部-八年b班-450",
+    "id": "國二女子組400公尺-1-雙語部-八年b班-580",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -8334,7 +10946,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:29:43"
   },
   {
-    "id": "國二女子組400公尺-2-國中部-二年四班-451",
+    "id": "國二女子組400公尺-2-國中部-二年四班-581",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8351,7 +10963,7 @@ window.AWARD_RECORDS = [
     "score": "1'16\"81"
   },
   {
-    "id": "國二女子組400公尺-3-國中部-二年一班-452",
+    "id": "國二女子組400公尺-3-國中部-二年一班-582",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8368,7 +10980,7 @@ window.AWARD_RECORDS = [
     "score": "1'17\"10"
   },
   {
-    "id": "國二女子組400公尺-4-國中部-二年五班-453",
+    "id": "國二女子組400公尺-4-國中部-二年五班-583",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8385,7 +10997,7 @@ window.AWARD_RECORDS = [
     "score": "1'22\"67"
   },
   {
-    "id": "國二女子組400公尺-5-國中部-二年二班-454",
+    "id": "國二女子組400公尺-5-國中部-二年二班-584",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8402,7 +11014,7 @@ window.AWARD_RECORDS = [
     "score": "1'25\"32"
   },
   {
-    "id": "國二女子組400公尺-6-國中部-二年二班-455",
+    "id": "國二女子組400公尺-6-國中部-二年二班-585",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -8419,7 +11031,7 @@ window.AWARD_RECORDS = [
     "score": "1'25\"50"
   },
   {
-    "id": "國一男子組400公尺-1-雙語部-七年a班-456",
+    "id": "國一男子組400公尺-1-雙語部-七年a班-586",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -8437,7 +11049,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:28:27"
   },
   {
-    "id": "國一男子組400公尺-2-國中部-一年三班-457",
+    "id": "國一男子組400公尺-2-國中部-一年三班-587",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8454,7 +11066,7 @@ window.AWARD_RECORDS = [
     "score": "1'11\"72"
   },
   {
-    "id": "國一男子組400公尺-3-國中部-一年二班-458",
+    "id": "國一男子組400公尺-3-國中部-一年二班-588",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8471,7 +11083,7 @@ window.AWARD_RECORDS = [
     "score": "1'13\"74"
   },
   {
-    "id": "國一男子組400公尺-4-國中部-一年五班-459",
+    "id": "國一男子組400公尺-4-國中部-一年五班-589",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8488,7 +11100,7 @@ window.AWARD_RECORDS = [
     "score": "1'14\"01"
   },
   {
-    "id": "國一男子組400公尺-5-國中部-一年二班-460",
+    "id": "國一男子組400公尺-5-國中部-一年二班-590",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8505,7 +11117,7 @@ window.AWARD_RECORDS = [
     "score": "1'16\"83"
   },
   {
-    "id": "國一男子組400公尺-6-國中部-一年四班-461",
+    "id": "國一男子組400公尺-6-國中部-一年四班-591",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8522,7 +11134,7 @@ window.AWARD_RECORDS = [
     "score": "1'16\"95"
   },
   {
-    "id": "國一女子組400公尺-1-國中部-一年三班-462",
+    "id": "國一女子組400公尺-1-國中部-一年三班-592",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8541,7 +11153,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:27:21"
   },
   {
-    "id": "國一女子組400公尺-2-國中部-一年一班-463",
+    "id": "國一女子組400公尺-2-國中部-一年一班-593",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8558,7 +11170,7 @@ window.AWARD_RECORDS = [
     "score": "1'17\"78"
   },
   {
-    "id": "國一女子組400公尺-3-國中部-一年四班-464",
+    "id": "國一女子組400公尺-3-國中部-一年四班-594",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8575,7 +11187,7 @@ window.AWARD_RECORDS = [
     "score": "1'21\"28"
   },
   {
-    "id": "國一女子組400公尺-4-國中部-一年一班-465",
+    "id": "國一女子組400公尺-4-國中部-一年一班-595",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -8592,7 +11204,7 @@ window.AWARD_RECORDS = [
     "score": "1'22\"94"
   },
   {
-    "id": "國一女子組400公尺-5-雙語部-七年b班-466",
+    "id": "國一女子組400公尺-5-雙語部-七年b班-596",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -8609,7 +11221,7 @@ window.AWARD_RECORDS = [
     "score": "1'24\"68"
   },
   {
-    "id": "國一女子組400公尺-6-雙語部-七年a班-467",
+    "id": "國一女子組400公尺-6-雙語部-七年a班-597",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -8626,7 +11238,7 @@ window.AWARD_RECORDS = [
     "score": "1'29\"38"
   },
   {
-    "id": "高三女子組200公尺-1-雙語部-十二年a班-468",
+    "id": "高三女子組200公尺-1-雙語部-十二年a班-598",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -8644,7 +11256,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:24:20"
   },
   {
-    "id": "高三女子組200公尺-2-雙語部-十二年a班-469",
+    "id": "高三女子組200公尺-2-雙語部-十二年a班-599",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -8661,7 +11273,7 @@ window.AWARD_RECORDS = [
     "score": "34\"28"
   },
   {
-    "id": "高二男子組200公尺-1-高中部-二年四班-470",
+    "id": "高二男子組200公尺-1-高中部-二年四班-600",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8679,7 +11291,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:23:11"
   },
   {
-    "id": "高二男子組200公尺-2-高中部-二年六班-471",
+    "id": "高二男子組200公尺-2-高中部-二年六班-601",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8696,7 +11308,7 @@ window.AWARD_RECORDS = [
     "score": "26\"98"
   },
   {
-    "id": "高二男子組200公尺-3-高中部-二年三班-472",
+    "id": "高二男子組200公尺-3-高中部-二年三班-602",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8713,7 +11325,7 @@ window.AWARD_RECORDS = [
     "score": "27\"26"
   },
   {
-    "id": "高二男子組200公尺-4-高中部-二年四班-473",
+    "id": "高二男子組200公尺-4-高中部-二年四班-603",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8730,7 +11342,7 @@ window.AWARD_RECORDS = [
     "score": "28\"47"
   },
   {
-    "id": "高二男子組200公尺-5-高中部-二年三班-474",
+    "id": "高二男子組200公尺-5-高中部-二年三班-604",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8747,7 +11359,7 @@ window.AWARD_RECORDS = [
     "score": "28\"55"
   },
   {
-    "id": "高二女子組200公尺-1-高中部-二年六班-475",
+    "id": "高二女子組200公尺-1-高中部-二年六班-605",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8765,7 +11377,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:22:19"
   },
   {
-    "id": "高二女子組200公尺-2-高中部-二年二班-476",
+    "id": "高二女子組200公尺-2-高中部-二年二班-606",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8782,7 +11394,7 @@ window.AWARD_RECORDS = [
     "score": "33\"71"
   },
   {
-    "id": "高二女子組200公尺-3-高中部-二年一班-477",
+    "id": "高二女子組200公尺-3-高中部-二年一班-607",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8799,7 +11411,7 @@ window.AWARD_RECORDS = [
     "score": "33\"80"
   },
   {
-    "id": "高二女子組200公尺-4-高中部-二年三班-478",
+    "id": "高二女子組200公尺-4-高中部-二年三班-608",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -8816,7 +11428,7 @@ window.AWARD_RECORDS = [
     "score": "35\"13"
   },
   {
-    "id": "高一男子組200公尺-1-高中部-一年二班-479",
+    "id": "高一男子組200公尺-1-高中部-一年二班-609",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8834,7 +11446,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:21:22"
   },
   {
-    "id": "高一男子組200公尺-2-雙語部-十年a班-480",
+    "id": "高一男子組200公尺-2-雙語部-十年a班-610",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -8851,7 +11463,7 @@ window.AWARD_RECORDS = [
     "score": "25\"51"
   },
   {
-    "id": "高一男子組200公尺-3-高中部-一年一班-481",
+    "id": "高一男子組200公尺-3-高中部-一年一班-611",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8868,7 +11480,7 @@ window.AWARD_RECORDS = [
     "score": "26\"01"
   },
   {
-    "id": "高一男子組200公尺-4-高中部-一年五班-482",
+    "id": "高一男子組200公尺-4-高中部-一年五班-612",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8885,7 +11497,7 @@ window.AWARD_RECORDS = [
     "score": "26\"29"
   },
   {
-    "id": "高一男子組200公尺-5-高中部-一年四班-483",
+    "id": "高一男子組200公尺-5-高中部-一年四班-613",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8902,7 +11514,7 @@ window.AWARD_RECORDS = [
     "score": "26\"42"
   },
   {
-    "id": "高一男子組200公尺-6-高中部-一年六班-484",
+    "id": "高一男子組200公尺-6-高中部-一年六班-614",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8919,7 +11531,7 @@ window.AWARD_RECORDS = [
     "score": "26\"74"
   },
   {
-    "id": "高一女子組200公尺-1-高中部-一年五班-485",
+    "id": "高一女子組200公尺-1-高中部-一年五班-615",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8937,7 +11549,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:19:56"
   },
   {
-    "id": "高一女子組200公尺-2-高中部-一年一班-486",
+    "id": "高一女子組200公尺-2-高中部-一年一班-616",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8954,7 +11566,7 @@ window.AWARD_RECORDS = [
     "score": "32\"71"
   },
   {
-    "id": "高一女子組200公尺-3-高中部-一年六班-487",
+    "id": "高一女子組200公尺-3-高中部-一年六班-617",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8971,7 +11583,7 @@ window.AWARD_RECORDS = [
     "score": "33\"03"
   },
   {
-    "id": "高一女子組200公尺-4-高中部-一年六班-488",
+    "id": "高一女子組200公尺-4-高中部-一年六班-618",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -8988,7 +11600,7 @@ window.AWARD_RECORDS = [
     "score": "33\"89"
   },
   {
-    "id": "高一女子組200公尺-5-高中部-一年二班-489",
+    "id": "高一女子組200公尺-5-高中部-一年二班-619",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9005,7 +11617,7 @@ window.AWARD_RECORDS = [
     "score": "34\"28"
   },
   {
-    "id": "高一女子組200公尺-6-高中部-一年四班-490",
+    "id": "高一女子組200公尺-6-高中部-一年四班-620",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9022,7 +11634,7 @@ window.AWARD_RECORDS = [
     "score": "35\"27"
   },
   {
-    "id": "國三男子組200公尺-1-國中部-三年四班-491",
+    "id": "國三男子組200公尺-1-國中部-三年四班-621",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9040,7 +11652,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:13:42"
   },
   {
-    "id": "國三男子組200公尺-2-國中部-三年二班-492",
+    "id": "國三男子組200公尺-2-國中部-三年二班-622",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9057,7 +11669,7 @@ window.AWARD_RECORDS = [
     "score": "26\"33"
   },
   {
-    "id": "國三男子組200公尺-3-國中部-三年五班-493",
+    "id": "國三男子組200公尺-3-國中部-三年五班-623",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9074,7 +11686,7 @@ window.AWARD_RECORDS = [
     "score": "26\"67"
   },
   {
-    "id": "國三男子組200公尺-4-國中部-三年四班-494",
+    "id": "國三男子組200公尺-4-國中部-三年四班-624",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9091,7 +11703,7 @@ window.AWARD_RECORDS = [
     "score": "26\"85"
   },
   {
-    "id": "國三男子組200公尺-5-國中部-三年五班-495",
+    "id": "國三男子組200公尺-5-國中部-三年五班-625",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9108,7 +11720,7 @@ window.AWARD_RECORDS = [
     "score": "26\"98"
   },
   {
-    "id": "國三男子組200公尺-6-國中部-三年三班-496",
+    "id": "國三男子組200公尺-6-國中部-三年三班-626",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9125,7 +11737,7 @@ window.AWARD_RECORDS = [
     "score": "27\"25"
   },
   {
-    "id": "國三女子組200公尺-1-雙語部-九年b班-497",
+    "id": "國三女子組200公尺-1-雙語部-九年b班-627",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -9143,7 +11755,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:12:22"
   },
   {
-    "id": "國三女子組200公尺-2-國中部-三年五班-498",
+    "id": "國三女子組200公尺-2-國中部-三年五班-628",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9160,7 +11772,7 @@ window.AWARD_RECORDS = [
     "score": "30\"60"
   },
   {
-    "id": "國三女子組200公尺-3-國中部-三年二班-499",
+    "id": "國三女子組200公尺-3-國中部-三年二班-629",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9177,7 +11789,7 @@ window.AWARD_RECORDS = [
     "score": "32\"31"
   },
   {
-    "id": "國三女子組200公尺-4-國中部-三年五班-500",
+    "id": "國三女子組200公尺-4-國中部-三年五班-630",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9194,7 +11806,7 @@ window.AWARD_RECORDS = [
     "score": "34\"02"
   },
   {
-    "id": "國三女子組200公尺-5-國中部-三年四班-501",
+    "id": "國三女子組200公尺-5-國中部-三年四班-631",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9211,7 +11823,7 @@ window.AWARD_RECORDS = [
     "score": "34\"27"
   },
   {
-    "id": "國三女子組200公尺-6-國中部-三年一班-502",
+    "id": "國三女子組200公尺-6-國中部-三年一班-632",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -9228,7 +11840,7 @@ window.AWARD_RECORDS = [
     "score": "34\"32"
   },
   {
-    "id": "國一男子組200公尺-1-國中部-一年二班-503",
+    "id": "國一男子組200公尺-1-國中部-一年二班-633",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9246,7 +11858,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:10:57"
   },
   {
-    "id": "國一男子組200公尺-2-國中部-一年三班-504",
+    "id": "國一男子組200公尺-2-國中部-一年三班-634",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9263,7 +11875,7 @@ window.AWARD_RECORDS = [
     "score": "28\"30"
   },
   {
-    "id": "國一男子組200公尺-3-國中部-一年四班-505",
+    "id": "國一男子組200公尺-3-國中部-一年四班-635",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9280,7 +11892,7 @@ window.AWARD_RECORDS = [
     "score": "29\"59"
   },
   {
-    "id": "國一男子組200公尺-4-雙語部-七年a班-506",
+    "id": "國一男子組200公尺-4-雙語部-七年a班-636",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -9297,7 +11909,7 @@ window.AWARD_RECORDS = [
     "score": "29\"85"
   },
   {
-    "id": "國一男子組200公尺-5-雙語部-七年a班-507",
+    "id": "國一男子組200公尺-5-雙語部-七年a班-637",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -9314,7 +11926,7 @@ window.AWARD_RECORDS = [
     "score": "30\"56"
   },
   {
-    "id": "國一男子組200公尺-6-國中部-一年五班-508",
+    "id": "國一男子組200公尺-6-國中部-一年五班-638",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9331,7 +11943,7 @@ window.AWARD_RECORDS = [
     "score": "30\"92"
   },
   {
-    "id": "國一女子組200公尺-1-國中部-一年三班-509",
+    "id": "國一女子組200公尺-1-國中部-一年三班-639",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9350,7 +11962,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 15:09:19"
   },
   {
-    "id": "國一女子組200公尺-2-國中部-一年二班-510",
+    "id": "國一女子組200公尺-2-國中部-一年二班-640",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9367,7 +11979,7 @@ window.AWARD_RECORDS = [
     "score": "29\"89"
   },
   {
-    "id": "國一女子組200公尺-3-國中部-一年四班-511",
+    "id": "國一女子組200公尺-3-國中部-一年四班-641",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9384,7 +11996,7 @@ window.AWARD_RECORDS = [
     "score": "32\"87"
   },
   {
-    "id": "國一女子組200公尺-4-國中部-一年三班-512",
+    "id": "國一女子組200公尺-4-國中部-一年三班-642",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9401,7 +12013,7 @@ window.AWARD_RECORDS = [
     "score": "33\"19"
   },
   {
-    "id": "國一女子組200公尺-5-國中部-一年一班-513",
+    "id": "國一女子組200公尺-5-國中部-一年一班-643",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -9418,7 +12030,7 @@ window.AWARD_RECORDS = [
     "score": "34\"35"
   },
   {
-    "id": "國一女子組200公尺-6-雙語部-七年b班-514",
+    "id": "國一女子組200公尺-6-雙語部-七年b班-644",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -9435,7 +12047,7 @@ window.AWARD_RECORDS = [
     "score": "34\"57"
   },
   {
-    "id": "高二男子組跳遠-1-雙語部-十一年b班-515",
+    "id": "高二男子組跳遠-1-雙語部-十一年b班-645",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -9453,7 +12065,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:19:49"
   },
   {
-    "id": "高二男子組跳遠-2-高中部-二年五班-516",
+    "id": "高二男子組跳遠-2-高中部-二年五班-646",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9470,7 +12082,7 @@ window.AWARD_RECORDS = [
     "score": "4.92m"
   },
   {
-    "id": "高二男子組跳遠-3-高中部-二年六班-517",
+    "id": "高二男子組跳遠-3-高中部-二年六班-647",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9487,7 +12099,7 @@ window.AWARD_RECORDS = [
     "score": "4.60m"
   },
   {
-    "id": "高二男子組跳遠-4-雙語部-十一年b班-518",
+    "id": "高二男子組跳遠-4-雙語部-十一年b班-648",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -9504,7 +12116,7 @@ window.AWARD_RECORDS = [
     "score": "4.46m"
   },
   {
-    "id": "高二男子組跳遠-5-高中部-二年四班-519",
+    "id": "高二男子組跳遠-5-高中部-二年四班-649",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9521,7 +12133,7 @@ window.AWARD_RECORDS = [
     "score": "4.24m"
   },
   {
-    "id": "高二男子組跳遠-6-高中部-二年六班-520",
+    "id": "高二男子組跳遠-6-高中部-二年六班-650",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9538,7 +12150,7 @@ window.AWARD_RECORDS = [
     "score": "4.20m"
   },
   {
-    "id": "高二男子組跳遠-6-雙語部-十一年a班-521",
+    "id": "高二男子組跳遠-6-雙語部-十一年a班-651",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -9555,7 +12167,7 @@ window.AWARD_RECORDS = [
     "score": "4.20m"
   },
   {
-    "id": "高一男子組跳遠-1-高中部-一年一班-522",
+    "id": "高一男子組跳遠-1-高中部-一年一班-652",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9573,7 +12185,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:17:06"
   },
   {
-    "id": "高一男子組跳遠-2-雙語部-十年a班-523",
+    "id": "高一男子組跳遠-2-雙語部-十年a班-653",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 10,
@@ -9590,7 +12202,7 @@ window.AWARD_RECORDS = [
     "score": "4.54m"
   },
   {
-    "id": "高一男子組跳遠-3-高中部-一年四班-524",
+    "id": "高一男子組跳遠-3-高中部-一年四班-654",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9607,7 +12219,7 @@ window.AWARD_RECORDS = [
     "score": "4.33m"
   },
   {
-    "id": "高一男子組跳遠-3-高中部-一年六班-525",
+    "id": "高一男子組跳遠-3-高中部-一年六班-655",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9624,7 +12236,7 @@ window.AWARD_RECORDS = [
     "score": "4.33m"
   },
   {
-    "id": "高一男子組跳遠-5-高中部-一年四班-526",
+    "id": "高一男子組跳遠-5-高中部-一年四班-656",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9641,7 +12253,7 @@ window.AWARD_RECORDS = [
     "score": "4.04m"
   },
   {
-    "id": "高一男子組跳遠-6-高中部-一年五班-527",
+    "id": "高一男子組跳遠-6-高中部-一年五班-657",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9658,7 +12270,7 @@ window.AWARD_RECORDS = [
     "score": "3.97m"
   },
   {
-    "id": "高三男子組跳遠-1-高中部-三年四班-528",
+    "id": "高三男子組跳遠-1-高中部-三年四班-658",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9676,7 +12288,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:15:40"
   },
   {
-    "id": "高三男子組跳遠-2-高中部-三年二班-529",
+    "id": "高三男子組跳遠-2-高中部-三年二班-659",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9693,7 +12305,7 @@ window.AWARD_RECORDS = [
     "score": "4.51m"
   },
   {
-    "id": "高三男子組跳遠-3-高中部-三年六班-530",
+    "id": "高三男子組跳遠-3-高中部-三年六班-660",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9710,7 +12322,7 @@ window.AWARD_RECORDS = [
     "score": "4.48m"
   },
   {
-    "id": "高三男子組跳遠-4-高中部-三年二班-531",
+    "id": "高三男子組跳遠-4-高中部-三年二班-661",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9727,7 +12339,7 @@ window.AWARD_RECORDS = [
     "score": "4.36m"
   },
   {
-    "id": "高三男子組跳遠-5-高中部-三年四班-532",
+    "id": "高三男子組跳遠-5-高中部-三年四班-662",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9744,7 +12356,7 @@ window.AWARD_RECORDS = [
     "score": "4.32m"
   },
   {
-    "id": "高三男子組跳遠-6-高中部-三年一班-533",
+    "id": "高三男子組跳遠-6-高中部-三年一班-663",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9761,7 +12373,7 @@ window.AWARD_RECORDS = [
     "score": "4.21m"
   },
   {
-    "id": "高三女子組鉛球-1-雙語部-十二年a班-534",
+    "id": "高三女子組鉛球-1-雙語部-十二年a班-664",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -9779,7 +12391,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:13:49"
   },
   {
-    "id": "高三女子組鉛球-2-高中部-三年四班-535",
+    "id": "高三女子組鉛球-2-高中部-三年四班-665",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9796,7 +12408,7 @@ window.AWARD_RECORDS = [
     "score": "5.05m"
   },
   {
-    "id": "高三女子組鉛球-3-雙語部-十二年b班-536",
+    "id": "高三女子組鉛球-3-雙語部-十二年b班-666",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 12,
@@ -9813,7 +12425,7 @@ window.AWARD_RECORDS = [
     "score": "4.97m"
   },
   {
-    "id": "高三女子組鉛球-4-高中部-三年二班-537",
+    "id": "高三女子組鉛球-4-高中部-三年二班-667",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 12,
@@ -9830,7 +12442,7 @@ window.AWARD_RECORDS = [
     "score": "3.81m"
   },
   {
-    "id": "高二女子組鉛球-1-高中部-二年二班-538",
+    "id": "高二女子組鉛球-1-高中部-二年二班-668",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9848,7 +12460,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:12:54"
   },
   {
-    "id": "高二女子組鉛球-2-雙語部-十一年b班-539",
+    "id": "高二女子組鉛球-2-雙語部-十一年b班-669",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 11,
@@ -9865,7 +12477,7 @@ window.AWARD_RECORDS = [
     "score": "6.31m"
   },
   {
-    "id": "高二女子組鉛球-3-高中部-二年三班-540",
+    "id": "高二女子組鉛球-3-高中部-二年三班-670",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9882,7 +12494,7 @@ window.AWARD_RECORDS = [
     "score": "4.82m"
   },
   {
-    "id": "高二女子組鉛球-4-高中部-二年四班-541",
+    "id": "高二女子組鉛球-4-高中部-二年四班-671",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9899,7 +12511,7 @@ window.AWARD_RECORDS = [
     "score": "3.86m"
   },
   {
-    "id": "高二女子組鉛球-5-高中部-二年五班-542",
+    "id": "高二女子組鉛球-5-高中部-二年五班-672",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 11,
@@ -9916,7 +12528,7 @@ window.AWARD_RECORDS = [
     "score": "3.80m"
   },
   {
-    "id": "高一女子組鉛球-1-高中部-一年二班-543",
+    "id": "高一女子組鉛球-1-高中部-一年二班-673",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9934,7 +12546,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:12:12"
   },
   {
-    "id": "高一女子組鉛球-2-高中部-一年三班-544",
+    "id": "高一女子組鉛球-2-高中部-一年三班-674",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9951,7 +12563,7 @@ window.AWARD_RECORDS = [
     "score": "5.39m"
   },
   {
-    "id": "高一女子組鉛球-3-高中部-一年一班-545",
+    "id": "高一女子組鉛球-3-高中部-一年一班-675",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9968,7 +12580,7 @@ window.AWARD_RECORDS = [
     "score": "5.11m"
   },
   {
-    "id": "高一女子組鉛球-4-高中部-一年四班-546",
+    "id": "高一女子組鉛球-4-高中部-一年四班-676",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -9985,7 +12597,7 @@ window.AWARD_RECORDS = [
     "score": "3.77m"
   },
   {
-    "id": "高一女子組鉛球-5-高中部-一年五班-547",
+    "id": "高一女子組鉛球-5-高中部-一年五班-677",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -10002,7 +12614,7 @@ window.AWARD_RECORDS = [
     "score": "3.72m"
   },
   {
-    "id": "高一女子組鉛球-6-高中部-一年六班-548",
+    "id": "高一女子組鉛球-6-高中部-一年六班-678",
     "department": "中學部",
     "schoolUnit": "高中部",
     "gradeNumber": 10,
@@ -10019,7 +12631,7 @@ window.AWARD_RECORDS = [
     "score": "3.55m"
   },
   {
-    "id": "國三女子組跳高-1-國中部-三年二班-549",
+    "id": "國三女子組跳高-1-國中部-三年二班-679",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10037,7 +12649,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:10:24"
   },
   {
-    "id": "國三女子組跳高-2-國中部-三年一班-550",
+    "id": "國三女子組跳高-2-國中部-三年一班-680",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10054,7 +12666,7 @@ window.AWARD_RECORDS = [
     "score": "1.25m"
   },
   {
-    "id": "國三女子組跳高-3-雙語部-九年b班-551",
+    "id": "國三女子組跳高-3-雙語部-九年b班-681",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 9,
@@ -10071,7 +12683,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "國三女子組跳高-4-國中部-三年一班-552",
+    "id": "國三女子組跳高-4-國中部-三年一班-682",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10088,7 +12700,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "國三女子組跳高-5-國中部-三年五班-553",
+    "id": "國三女子組跳高-5-國中部-三年五班-683",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10105,7 +12717,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "國三女子組跳高-6-國中部-三年四班-554",
+    "id": "國三女子組跳高-6-國中部-三年四班-684",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10122,7 +12734,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "國一女子組跳高-1-國中部-一年五班-555",
+    "id": "國一女子組跳高-1-國中部-一年五班-685",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10140,7 +12752,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:07:29"
   },
   {
-    "id": "國一女子組跳高-2-國中部-一年三班-556",
+    "id": "國一女子組跳高-2-國中部-一年三班-686",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10157,7 +12769,7 @@ window.AWARD_RECORDS = [
     "score": "1.10m"
   },
   {
-    "id": "國一女子組跳高-3-國中部-一年三班-557",
+    "id": "國一女子組跳高-3-國中部-一年三班-687",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10174,7 +12786,7 @@ window.AWARD_RECORDS = [
     "score": "1.05m"
   },
   {
-    "id": "國一女子組跳高-3-國中部-一年一班-558",
+    "id": "國一女子組跳高-3-國中部-一年一班-688",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10191,7 +12803,7 @@ window.AWARD_RECORDS = [
     "score": "1.05m"
   },
   {
-    "id": "國一女子組跳高-5-國中部-一年四班-559",
+    "id": "國一女子組跳高-5-國中部-一年四班-689",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10208,7 +12820,7 @@ window.AWARD_RECORDS = [
     "score": "1.05m"
   },
   {
-    "id": "國一女子組跳高-6-雙語部-七年a班-560",
+    "id": "國一女子組跳高-6-雙語部-七年a班-690",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -10225,7 +12837,7 @@ window.AWARD_RECORDS = [
     "score": "1.00m"
   },
   {
-    "id": "國一女子組跳高-6-國中部-一年二班-561",
+    "id": "國一女子組跳高-6-國中部-一年二班-691",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10242,7 +12854,7 @@ window.AWARD_RECORDS = [
     "score": "1.00m"
   },
   {
-    "id": "國三男子組跳高-1-國中部-三年二班-562",
+    "id": "國三男子組跳高-1-國中部-三年二班-692",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10260,7 +12872,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:01:59"
   },
   {
-    "id": "國三男子組跳高-2-國中部-三年五班-563",
+    "id": "國三男子組跳高-2-國中部-三年五班-693",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10277,7 +12889,7 @@ window.AWARD_RECORDS = [
     "score": "1.55m"
   },
   {
-    "id": "國三男子組跳高-3-國中部-三年三班-564",
+    "id": "國三男子組跳高-3-國中部-三年三班-694",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10294,7 +12906,7 @@ window.AWARD_RECORDS = [
     "score": "1.5m"
   },
   {
-    "id": "國三男子組跳高-4-國中部-三年四班-565",
+    "id": "國三男子組跳高-4-國中部-三年四班-695",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10311,7 +12923,7 @@ window.AWARD_RECORDS = [
     "score": "1.5m"
   },
   {
-    "id": "國三男子組跳高-5-國中部-三年三班-566",
+    "id": "國三男子組跳高-5-國中部-三年三班-696",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10328,7 +12940,7 @@ window.AWARD_RECORDS = [
     "score": "1.5m"
   },
   {
-    "id": "國三男子組跳高-6-國中部-三年一班-567",
+    "id": "國三男子組跳高-6-國中部-三年一班-697",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 9,
@@ -10345,7 +12957,7 @@ window.AWARD_RECORDS = [
     "score": "1.45m"
   },
   {
-    "id": "國二男子組跳高-1-國中部-二年五班-568",
+    "id": "國二男子組跳高-1-國中部-二年五班-698",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -10363,7 +12975,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 09:00:24"
   },
   {
-    "id": "國二男子組跳高-2-國中部-二年三班-569",
+    "id": "國二男子組跳高-2-國中部-二年三班-699",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -10380,7 +12992,7 @@ window.AWARD_RECORDS = [
     "score": "1.65m"
   },
   {
-    "id": "國二男子組跳高-3-國中部-二年五班-570",
+    "id": "國二男子組跳高-3-國中部-二年五班-700",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -10397,7 +13009,7 @@ window.AWARD_RECORDS = [
     "score": "1.6m"
   },
   {
-    "id": "國二男子組跳高-4-雙語部-八年b班-571",
+    "id": "國二男子組跳高-4-雙語部-八年b班-701",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 8,
@@ -10414,7 +13026,7 @@ window.AWARD_RECORDS = [
     "score": "1.55m"
   },
   {
-    "id": "國二男子組跳高-5-國中部-二年三班-572",
+    "id": "國二男子組跳高-5-國中部-二年三班-702",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -10431,7 +13043,7 @@ window.AWARD_RECORDS = [
     "score": "1.4m"
   },
   {
-    "id": "國二男子組跳高-6-國中部-二年二班-573",
+    "id": "國二男子組跳高-6-國中部-二年二班-703",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 8,
@@ -10448,7 +13060,7 @@ window.AWARD_RECORDS = [
     "score": "1.35m"
   },
   {
-    "id": "國一男子組跳高-1-國中部-一年一班-574",
+    "id": "國一男子組跳高-1-國中部-一年一班-704",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10466,7 +13078,7 @@ window.AWARD_RECORDS = [
     "enteredAt": "2026-11-05 08:58:19"
   },
   {
-    "id": "國一男子組跳高-2-國中部-一年二班-575",
+    "id": "國一男子組跳高-2-國中部-一年二班-705",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10483,7 +13095,7 @@ window.AWARD_RECORDS = [
     "score": "1.25m"
   },
   {
-    "id": "國一男子組跳高-2-雙語部-七年a班-576",
+    "id": "國一男子組跳高-2-雙語部-七年a班-706",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -10500,7 +13112,7 @@ window.AWARD_RECORDS = [
     "score": "1.25m"
   },
   {
-    "id": "國一男子組跳高-2-雙語部-七年a班-577",
+    "id": "國一男子組跳高-2-雙語部-七年a班-707",
     "department": "雙語部",
     "schoolUnit": "雙語部",
     "gradeNumber": 7,
@@ -10517,7 +13129,7 @@ window.AWARD_RECORDS = [
     "score": "1.25m"
   },
   {
-    "id": "國一男子組跳高-5-國中部-一年四班-578",
+    "id": "國一男子組跳高-5-國中部-一年四班-708",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
@@ -10534,7 +13146,7 @@ window.AWARD_RECORDS = [
     "score": "1.15m"
   },
   {
-    "id": "國一男子組跳高-6-國中部-一年三班-579",
+    "id": "國一男子組跳高-6-國中部-一年三班-709",
     "department": "中學部",
     "schoolUnit": "國中部",
     "gradeNumber": 7,
